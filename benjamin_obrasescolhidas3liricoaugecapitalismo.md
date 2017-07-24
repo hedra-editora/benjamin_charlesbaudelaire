@@ -1,17 +1,11 @@
-### I
+# Paris do Segundo Império
 
-Charles Baudelaire:
+*Uma capital não é absolutamente
+necessária ao homem.*
 
-Um lírico no auge do capitalismo
+*Senancour*
 
-### Paris do Segundo Império
-
-“Uma capital não é absolutamente
-necessária ao homem”
-
-Senancour
-
-### A Boêmia
+## A Boêmia
 
 A boêmia surge em Marx num contexto revelador. Ele aí inclui os
 conspiradores profissionais, de que se ocupa na detalhada resenha das
@@ -955,7 +949,7 @@ Paris, 1926, p. 248.
 
 60\. I, p, 209.
 
-### O Flâneur
+## O Flâneur
 
 Uma vez na feira, o escritor olhava à sua volta como em um panorama.1 Um
 gênero literário específico faz suas primeiras tentativas de se
@@ -2247,7 +2241,7 @@ desemmpregados. (N. do T.)
 76. Victor Hugo, *Oeuvres complètes*. Roman. *Les Misérables. IV*,
 Paris, 1881, p. 306.
 
-### A Modernidade
+## A Modernidade
 
 Baudelaire conformou sua imagem de artista a uma imagem de herói. Desde
 o início, uma intercede pela outra. “A força de vontade – escreve em
@@ -3608,10 +3602,9 @@ enterro
 
 91. Cito Eugène Crépet, loc. cit., p. 81. 93. I. p. 136
 
-Sobre alguns temas em Baudelaire
---------------------------------
+# Sobre alguns temas em Baudelaire
 
-#### I
+## I
 
 Baudelaire teve em mira leitores que se veem em dificuldades ante a
 leitura da poesia lírica. O poema introdutório de *As Flores do Mal*
@@ -3689,7 +3682,7 @@ reproduzida, Ela oferece assim indiretamente uma pista sobre a expe-
 riência que se apresenta aos olhos de Baudelaire, sem distorções, na fi-
 gura de seu leitor.
 
-#### II
+## II
 
 *Matière et Memoire* define o caráter da experiência na *durée* (du-
 ração)4 de tal maneira que o leitor se sente obrigado a concluir que
@@ -3782,7 +3775,7 @@ e davam-lhe pretexto de se reproduzir durante toda a vida. As
 recordações voluntárias e involuntárias perdem, assim, sua
 exclusividade recíproca.
 
-#### III
+## III
 
 Na busca de uma definição mais concreta do que parece ser um sub-
 produto da teoria bergsoniana no conceito proustiano de *memória da
@@ -3892,7 +3885,7 @@ missão. Ele entreviu espaços vazios nos quais inseriu sua poesia. Sua
 obra não só se permite caracterizar como histórica, da mesma forma que
 qualquer outra, mas também pretendia ser e se entendia como tal.
 
-#### IV
+## IV
 
 Quanto maior é a participação do fator do choque em cada uma das
 impressões, tanto mais constante deve ser a presença do consciente no
@@ -4002,7 +3995,7 @@ da obra de Baudelaire – uma ilusão que, de resto, continua atuando até
 hoje. O unanimismo de Jules Romain é um de seus mais admirados frutos
 tardios.
 
-#### V
+## V
 
 A multidão – nenhum tema se impôs com maior autoridade aos literatos do
 século XIX – começava a se articular como público em amplas camadas
@@ -4200,7 +4193,7 @@ elegia. Os olhares do poeta, como deve confessar à sua dama,
 23). Baudelaire não deixa nenhuma dúvida de que tenha olhado fundo
 nos olhos da mulher que passa.
 
-#### VI
+## VI
 
 Entre as concepções mais antigas do tema da multidão, podese
 considerar clássico um conto de Poe, traduzido por Baudelaire. Ele
@@ -4304,7 +4297,7 @@ ambivalência tem algo de cativante, quando ele a confessa com reservas.
 Talvez se deva a ela o charme quase insondável de seu *Crepúsculo
 Vespertino*.
 
-#### VII
+## VII
 
 Baudelaire achou certo equiparar o homem da multidão, em cujas pegadas o
 narrador do conto de Poe percorre a Londres noturna em todos os
@@ -4404,7 +4397,7 @@ céu. Baudelaire, que conhecia este conto, extrai da observação de
 Hofffmann uma variante no verso último de *Os Cegos*, desmentindo sua
 edificação moral: “... que buscam estes cegos ver no céu”. (p. 343)
 
-#### VIII
+## VIII
 
 A multidão metropolitana despertava medo, repugnância e horror
 naqueles que a viam pela primeira vez. Em Poe, ela tem algo de bárbaro.
@@ -4498,7 +4491,7 @@ conseguissem se expressar de forma automática. Seu comportamento é uma
 reação a choques. “Se eram empurrados, cumprimentavam graves aqueles que
 os tinham empurrado e pareciam muito embaraçados”.
 
-#### IX
+## IX
 
 À vivência do choque, sentida pelo transeunte na multidão, corresponde a
 “vivência” do operário com a máquina. Isso ainda não nos permite supor
@@ -4677,7 +4670,7 @@ paixão lúdica. Ele o encontrou em si próprio em sua condição mais
 pura. Sua irascibilidade possuía o poder de expressão da *Iracundia* de
 Giotto, em Pádua.
 
-#### X
+## X
 
 Se damos crédito a Bergson, a presentificação da *durée* (duração) é
 que libera a alma humana da obsessão do tempo. Proust simpatiza com esta
@@ -4928,7 +4921,7 @@ citados.
 “Contemplo do alto a terra esférica e sem cor, E nem procurou mais o
 abrigo de uma gruta”.77
 
-#### XI
+## XI
 
 Se chamamos de aura às imagens que, sediadas na *mémoire in-
 volontaire*, tendem a se agrupar em torno de um objeto de percepção,
@@ -5153,7 +5146,7 @@ bonitos versos de *As Flores do mal*:
 “Vaporoso, o Prazer fugirá no horizonte Como uma sílfide por trás dos
 bastidores,”97
 
-#### XII
+## XII
 
 *As Flores do Mal* foram a última obra lírica a exercer influência no
 âmbito europeu; nenhuma outra posterior ultrapassou as fronteiras mais
@@ -5519,10 +5512,9 @@ littéraires, 4ª série, 14ª ed., Paris, 1897, p. 31s.
 103\. Friedrich Nietzsche. *Unzeitgemässe Betrachtungen*, 2ª ed.,
 Leipzig, 1893. tomo 1. p. 164.
 
-Parque Central
---------------
+# Parque Central
 
-#### (1)
+## (1)
 
 A hipótese de Laforgue1 sobre o comportamento de Baudelaire no bordel
 ilumina toda a consideração psicanalítica que lhe dedica. Essa
@@ -5545,7 +5537,7 @@ próprias posições, os próprios juízos e os próprios tabus e como, por
 outro lado, estavam escrupulosamente delimitadas as tarefas do seu labor
 poético, então veremos manifestar-se nele um traço heroico.
 
-#### (2)
+## (2)
 
 O spleen como dique contra o pessimismo. Baudelaire não é nenhum
 pessimista. Não o é, porque sobre ele paira um tabu em relação ao
@@ -5567,7 +5559,7 @@ aventar uma hipótese, então diremos que pouca coisa lhe poderia dar
 conceito tão elevado de sua originalidade quanto a leitura dos satíricos
 romanos.
 
-#### (3)
+## (3)
 
 A “apreciação” ou apologia se esforça em encobrir os momentos
 revolucionários do curso histórico. Ela acalenta no coração o
@@ -5595,7 +5587,7 @@ parte da razão de Estado do Segundo Império e foram características de
 Napoleão III. Elas formam o gesto decio sivo nas publicações teóricas de
 Baudelaire.
 
-#### (4)
+## (4)
 
 O fermento novo e decisivo que, ao penetrar o *taedium vitae*, o
 transforma em *spleen*, é a autoalienação. Da infinita regressão da re-
@@ -5617,7 +5609,7 @@ significativo, à crise comparável da arte a que, por volta de 1852,
 estava destinada a teoria da l’art pour farto Essa crise da arte tinha
 suas razões tanto na situação política quanto na técnica.
 
-#### (5)
+## (5)
 
 Há duas lendas sobre Baudelaire. Uma, ele mesmo a difundiu, e nela ele
 aparece como inumano e como o terror da burguesia. A outra nasceu com
@@ -5647,7 +5639,7 @@ São o sempre igual em grandes massas.
 A depreciação do mundo das coisas na alegoria é sobrepujada dentro desse
 próprio mundo pela mercadoria.
 
-#### (6)
+## (6)
 
 Deve-se descrever o *art nouveau* como a segunda tentativa de a arte
 se entender com a técnica. A primeira foi o realismo, para o qual o
@@ -5680,7 +5672,7 @@ O *art nouveau* acalentava, no coração, a auréola. Nunca o Sol se
 deleitara tanto com sua coroa de raios; nunca o olho do ser humano
 fora mais brilhante do que em Fidus.5
 
-#### (7)
+## (7)
 
 O tema do andrógino, da lésbica, da mulher estéril, deve-se tratar em
 conexão com a violência destrutiva da intenção alegórica.
@@ -5703,7 +5695,7 @@ modernidade em Baudelaire é uma conquista; possui uma armadura. Parece
 que só Jules Laforgue o viu, quando falou do “americanismo” de
 Baudelaire.
 
-#### (8)
+## (8)
 
 Baudelaire não tinha o idealismo humanitário de um Victor Hugo ou de um
 Lamartine. Não estava predestinado à felicidade sentimental de um
@@ -5727,7 +5719,7 @@ tinha em si algo do ator que deve representar o papel do “poeta” diante
 de uma plateia e de uma sociedade que já não precisa do autêntico poeta
 e que só lhe dava, ainda, espaço como ator.
 
-#### (9)
+## (9)
 
 A neurose produz o artigo de massa na economia psíquica. Ele tem aí a
 forma da obsessão. Esta aparece na organização do neurótico em
@@ -5750,7 +5742,7 @@ alguns dos seus direitos. Diz Nietzsche: “Amo os hábitos de curta
 duração”, e já Baudelaire foi incapaz de desenvolver hábitos estáveis
 durante a vida inteira.
 
-#### (10)
+## (10)
 
 Na *via-crúcis* do melancólico as alegorias são as estações. O lugar do
 esqueleto na erotologia de Baudelaire, “A anônima elegância da humana
@@ -5779,7 +5771,7 @@ social, o desejo de ter filhos é talvez apenas um estímulo mais débil
 da potência. Em todo o caso, a teoria baudelairiana de serem as crianças
 o mais próximos do *péché* original é bastante reveladora.
 
-#### (11)
+## (11)
 
 Comportamento de Baudelaire no mercado literário: Graças à sua profunda
 experiência da natureza da mercadoria, Baudelaire estava capacitado, ou
@@ -5797,7 +5789,7 @@ alexandrino e a poética classicista através de suas típicas rupturas e
 deficiências no próprio verso clássico. Em suma, os seus poemas
 continham precauções especiais para o cerceamento de seus concorrentes.
 
-#### (12)
+## (12)
 
 A figura de Baudelaire penetra, num sentido decisivo, sua fama. Para a
 massa de leitores pequeno-burguesa, sua história foi uma imagem de
@@ -5821,7 +5813,7 @@ diferentes daqueles dos priimeiros poetas. Baudelaire era obrigado a
 reivindicar a dignidade do poeta numa sociedade que já não tinha nenhuma
 espécie de dignidade a conceder. Daí a bufonaria do seu comportamento.
 
-#### (13)
+## (13)
 
 Em Baudelaire, o poeta declara pela primeira vez seu direito a um valor
 de exposição. Baudelaire foi o seu próprio empresário. A *perte
@@ -5852,7 +5844,7 @@ A nova *desolação* de Paris (cf. o trecho sobre os gatos-pingados) se
 insere como elemento essencial na imagem da modernidade (cf.
 Veuillot).
 
-#### (14)
+## (14)
 
 A figura da mulher lésbica pertence, no sentido estrito, às heroicas
 “imagens-guias” de Baudelaire. Na linguagem de seu satanismo, ele
@@ -5874,7 +5866,7 @@ a vida que significa a morte. Essa qualidade convém, incondicionalmente,
 à puta. É a única que não se lhe pode negar, e, para Baudelaire, apenas
 isso conta.
 
-#### (15)
+## (15)
 
 Interromper o curso do mundo – esse era o desejo mais profundo em
 Baudelaire. O desejo de Josué. Não tanto o profético, pois ele não
@@ -5893,7 +5885,7 @@ verdadeiros objetos de *As Flores do Mal* se encontram em lugares mais
 invisíveis. São – a fim de permanecermos na imagem – as cordas jamais
 tocadas do instrumento inaudível em que Baudelaire devaneia.
 
-#### (16)
+## (16)
 
 O labirinto é o caminho certo para aquele que sempre chega a tempo à sua
 meta. Essa meta é o mercado.
@@ -5911,7 +5903,7 @@ Para os homens de hoje, só há uma nova radical – e esta é sempre a
 mesma: a morte. Inquietude entorpecida é também a fórmula para a imagem
 biográfica de Baudelaire, imagem que não conhece nenhuma evolução.
 
-#### (17)
+## (17)
 
 Um dos arcanos que só com a cidade grande foi revelado à prostituição é
 a massa. A prostituição inaugura a possibilidade de uma comunhão mística
@@ -5935,7 +5927,7 @@ Se é a fantasia que oferece à memória as correspondências, então é o
 pensamento que lhe dedica as alegorias. A memória conduz umas às
 outras.
 
-#### (18)
+## (18)
 
 A atração magnética que algumas poucas situações básicas repetidamente
 exerceram sobre o poeta pertence à síndrome da melancolia. A fantasia
@@ -5958,7 +5950,7 @@ definido, é aquele que é familiar com as alegorias.
 Em Baudelaire, a prostituição é o fermento que, em sua fantasia, faz
 crescer a massa das cidades grandes.
 
-#### (19)
+## (19)
 
 Majestade da intenção alegórica: destruição do orgânico e do vivente –
 destruição da ilusão. Deve ser consultada a passagem marcante na qual
@@ -5991,7 +5983,7 @@ concorrência.
 As estrelas que Baudelaire bane do seu mundo são justamente aquelas que,
 em Blanqui, se tornam o cenário do eterno retorno.
 
-#### (20)
+## (20)
 
 O ambiente objetivo do homem adota, cada. vez mais brutalmente, a
 fisionomia da mercadoria. Ao mesmo tempo, a propaganda se põe a
@@ -6018,7 +6010,7 @@ O heroico em Baudelaire é a forma sublime em que aparece o demoníaco, o
 “estética” devem ser decifradas. Não podem ficar nisso. – Anexação do
 heroico à latinidade antiga.
 
-#### (21)
+## (21)
 
 O choque como princípio poético de Baudelaire: a *estranha esgrima* da
 cidade dos *Quadros Parisienses* já não é pátria. É palco e país
@@ -6054,7 +6046,7 @@ O título “Os Limbos” talvez deva ser tratado na primeira parte, de modo
 que a cada parte caiba o comentário de um título; a segunda “As
 Lésbicas”, a terceira “As Flores do Mal”.
 
-#### (22)
+## (22)
 
 A glória de Baudelaire, ao contrário, por exemplo, da mais recente de
 Rimbaud, até agora não conheceu nenhuma queda. A dificuldade incomum
@@ -6077,7 +6069,7 @@ mais próximo de Nietzsche que de Baudelaire, mas nele predomina a
 resignação. Em Nietzsche, essa experiência se projeta cosmologicamente
 na tese: já não acontece nada de novo.
 
-#### (23)
+## (23)
 
 Baudelaire não teria escrito poemas se só tivesse tido os te emas
 poéticos que os poetas habitualmente têm.
@@ -6102,7 +6094,7 @@ suas velas. Para ele pensar significa: içar velas. Como estão dispostas,
 isso importa. Para ele, palavras são apenas velas. O modo como são
 dispostas é o que as transforma em conceito.
 
-#### (24)
+## (24)
 
 A ressonância ininterrupta que *As Flores do Mal* até hoje encontra se
 liga profundamente a um aspecto definido que a cidade grande tomou
@@ -6126,7 +6118,7 @@ primeiro lugar assimilado
 (Pechméja) e continuou atuando na *poésie pure* foi o lado sensitivo
 do seu gênio.
 
-#### (25)
+## (25)
 
 O silêncio como aura. Maeterlinck impede o desenvolvimento de aurático
 até a desordem.
@@ -6146,7 +6138,7 @@ Baudelaire é a fórmula excêntrica dessa renúncia absoluta à comodidade
 e o seu “satanismo” nada mais que a constante disposição de perturbar
 aquela comodidade, onde e quando ela se pudesse apresentar.
 
-#### (26)
+## (26)
 
 Em *As Flores do Mal* não há o menor indício de uma descrição de Paris.
 Isso bastaria para distingui-lo decisivamente da “lírica da cidade
@@ -6171,7 +6163,7 @@ inorgânico, a qualidade “instrumental” do orgânico é inteiramente
 limitada, possui menos disponibilidade. Cf. o testemunho de Coubert de
 que a cada dia Baudelaire parecia outro.
 
-#### (27)
+## (27)
 
 O comportamento heroico de Baudelaire poderia, talvez, aparentarse ao
 máximo com o de Nietzsche. Mesmo que Baudelaire persevere no
@@ -6195,7 +6187,7 @@ se encontrar em sua existência.
 – na mais íntima câmara da poesia de Baudelaire – jaz aos pés da puta,
 herdeira dos poderes plenos da alegoria barroca.
 
-#### (28)
+## (28)
 
 O cismador, cujo olhar, assustado, cai sobre o fragmento em sua mão,
 transforma-se em alegórico.
@@ -6217,7 +6209,7 @@ gem da “salvação”.
 A imagem dialética é a forma do objeto histórico que satisfaz as
 exigências de Goethe quanto a um objeto sintético.
 
-#### (29)
+## (29)
 
 Na atitude de mendicante, Baudelaire submeteu a uma prova ininterrupta o
 espécime dessa sociedade. Sua dependência da mãe, mantida
@@ -6249,7 +6241,7 @@ A correspondência entre antiguidade e modernidade é em Baudelaire a
 única concepção construtiva da história. Ela excluía uma concepção
 dialética, mais do que a incluía.
 
-#### (30)
+## (30)
 
 Observação de Leyris: a palavra “familier” seria, em Baudelaire, toda
 segredo e inquietação; designaria algo que antes nunca designara.
@@ -6274,7 +6266,7 @@ A observação de Leyris – as *Fleurs du mal* seria *le livre de poésie
 le plus irredutible* – talvez possamos entender se pensarmos que a
 experiência que o fundamenta é resgatada em grau mínimo.
 
-#### (31)
+## (31)
 
 Impotência masculina – figura-chave da solidão – sob o seu signo se
 consuma a paralisação das forças produtivas – um abismo separa os seres
@@ -6311,7 +6303,7 @@ A candidatura de Baudelaire à Academia foi um experimento sociológico.
 A teoria do eterno retorno como um sonho sobre as monstruosas
 descobertas iminentes no terreno da técnica de reprodução.
 
-#### (32)
+## (32)
 
 Se parece certo que a nostalgia do homem por uma existência mais pura,
 mais inocente e mais espiritual do que lhe coube busca necessariamente
@@ -6339,7 +6331,7 @@ Dialética da produção de mercadorias: a novidade do produto adquire
 pela primeira vez, o sempre igual aparece de modo evidente na produção
 de massa.
 
-#### (32 a)
+## (32 a)
 
 A lembrança é a relíquia secularizada.
 
@@ -6361,7 +6353,7 @@ no espaço. Ele é às vezes crasso, nunca é sonoro. O seu modo de falar se
 destaca tão exiguamente de sua experiência como
 o gesto de um prelado perfeito de sua pessoa.
 
-#### (33)
+## (33)
 
 O *art nouveau* aparece como o mal-entendido produtivo, graças ao qual
 o “novo” se transformou em “moderno”. Naturalmente, Baudelaire urde
@@ -6380,7 +6372,7 @@ se consuma, só se deixa sempre ganhar através da percepção daquilo que
 se perde irremediavelmente. Cabe aqui aludir à passagem metafórica da
 introdução sobre Jochmann.
 
-#### (34)
+## (34)
 
 Na época de Baudelaire, o conceito de contribuição literária original
 não era nem de longe tão corrente e determinante como hoje. Várias vezes
@@ -6406,7 +6398,7 @@ insubstituível para ele: ele descrevia o mundo onde as poesias e os
 interesses de Baudelaire encontravam suas razões. Compare a cabeça da
 Medusa em Nietzsche.
 
-#### (35)
+## (35)
 
 O eterno retorno é uma tentativa de unir os dois princípios an-
 tinômicos da felicidade: ou seja, o da eternidade e o do “mais uma
@@ -6438,7 +6430,7 @@ Comparada com a sua, a poesia posterior sobre a cidade grande vem sob o
 signo da fraqueza e não menos quando vê, na cidade grande, o trono do
 progresso. Mas Walt Whitman?
 
-#### (36)
+## (36)
 
 São as sólidas razões sociais da impotência masculina que, de fato,
 fazem da *via-crúcis* seguida por Baudelaire um caminho socialmente
@@ -6468,7 +6460,7 @@ de dentro.
 Que em Baudelaire faltem as estrelas, dá a ideia mais concludente da
 tendência de sua lírica para a ausência de ilusões.
 
-#### (37)
+## (37)
 
 Que Baudelaire se sinta atraído pelo latim tardio, deveria re-
 lacionar-se com a força de sua intenção alegórica.
@@ -6499,7 +6491,7 @@ conceito de arte não tivesse correspondido uma crítica própria e não
 menos radical. Baudelaire procurou, com sucesso, disfarçar essas
 tendências através do apelo a Gautier.17
 
-#### (38)
+## (38)
 
 Não se pode negar que as peculiaridades da fé no progresso e do
 panteísmo de Hugo se afinam com a mensagem das mesas dos espíritas. A
@@ -6522,7 +6514,7 @@ Pergunta: quando começou a mercadoria a se evidenciar na imagem da
 cidade? Seria decisivo estar informado estatisticamente sobre a
 introdução das vitrinas nas fachadas.
 
-#### (39)
+## (39)
 
 Em Baudelaire, a mistificação é um encanto apotropaico18 semelhante à
 mentira entre as prostitutas.
@@ -6544,7 +6536,7 @@ determinante para Baudelaire, o testemunha, enfim, que suas múltiplas
 evocações da puta nunca têm o bordel como pano de fundo, mas, ao
 contrário, a rua.
 
-#### (40)
+## (40)
 
 É muito importante que o “novo” em Baudelaire não preste nenhuma
 contribuição ao progresso. Aliás, em Baudelaire, praticamente não se
@@ -6563,7 +6555,7 @@ o decisivo, mais que para qualquer outro político revolucionário dessa
 “mais tarde”. O comportamento de Baudelaire em 1848 se ajusta muito bem
 a isso.
 
-#### (41)
+## (41)
 
 Em vista do sucesso medíocre que teve sua obra, Baudelaire, por fim, se
 pôs à venda. Lançando-se atrás de sua obra, confirmou
@@ -6584,7 +6576,7 @@ centro. Que ele traga a morte ao indivíduo não é decisivo. Decisiva é
 a imagem das forças mortíferas que ele encarna. E também esta imagem é
 nova para o habitante da cidade grande.
 
-#### (42)
+## (42)
 
 As *Flores do Mal* como arsenal; Baudelaire escreveu alguns de seus
 poemas a fim de destruir outros, escritos antes. Assim se pode
@@ -6605,7 +6597,7 @@ poéticas. E inversamente: já que as escolas se apresentavam aos seus
 olhos como simples formações superficiais, o público assume uma
 realidade mais plausível ante seus olhos.
 
-#### (43)
+## (43)
 
 Diferença entre alegoria e metáfora.
 
@@ -6626,7 +6618,7 @@ trabalho das *Afinidades Eletivas*).
 As *Flores do Mal* ganhou em peso certamente graças à circunstância de
 que Baudelaire não deixou nenhum romance.
 
-#### (44)
+## (44)
 
 A expressão de Melanchton (*Melancolia illa heroica*) é a mais perfeita
 descrição do engenho de Baudelaire. No entanto, no século XIX a
@@ -6652,7 +6644,7 @@ dizer que se tenha definido alguma vez como “intelectual” ou que tenha
 tomado partido do “intelecto”. Ainda não tinha sido descoberto o rótulo
 da produção artística.
 
-#### (45)
+## (45)
 
 Sobre essa truncada conclusão das investigações materialistas (em
 oposição ao final do livro sobre o Barroco).
@@ -6666,7 +6658,7 @@ sedução pela rotina que, na poesia do século XVII, deixou tão
 múltiplos rastros. Essa rotina prejudicou em certo grau a tendência
 destrutiva da alegoria, sua ênfase no fragmentário na obra de arte.
 
-#### (otas
+## (otas
 
 1.  Trata-se do livro do Dr. René Laforgue, *L’échec de Baudelaire.
 Etude psychanalytique sur la névrose de Charles Baudelaire*. (O
@@ -6730,28 +6722,26 @@ poeta o direito à solidão.
 
 19. Cf. *Sobre Alguns Temas Baudelairianos* –III.
 
-II
-==
+# O Flâneur
 
-**O Flâneur Jogo e prostituição**
-
-O Flâneur
----------
-
-“Uma paisagem encantada, intensa como o ópio”.
+*Uma paisagem encantada, intensa como o ópio.*
 
 Mallarmé
 
-“Ler aquilo que nunca foi escrito”.
+*Ler aquilo que nunca foi escrito.*
 
 Hofmannstahl
 
-“E eu viajo para conhecer a minha geografia”. *Un folle* (Marcel Réja,
+*E eu viajo para conhecer a minha geografia.* 
+
+*Un folle* (Marcel Réja,
 *L’art chez les fous*, Paris, 1907, p. 131)
 
-“Tudo aquilo que está algures está em Paris”. Victor Hugo, *Les
+*Tudo aquilo que está algures está em Paris.* 
+
+Victor Hugo, *Les
 misérables* (*Oeuvres complètes*, Paris, 1881, Romance 7, p. 30, do
-capítulo *Ecce Paris ecce homo*).
+capítulo "Ecce Paris ecce homo")
 
 Mas as grandes reminiscências, o frêmito histórico – são urna esmola que
 ele (o *flâneur*) deixa Lara o viajante, que então crê poder acercar-se,
@@ -8661,10 +8651,9 @@ Brasiliense, 1986).
 As canções e poemas em frânces no texto original foram gentilmente
 traduzidos por Ângela C. M. Guerra.
 
-Jogo e prostituição
--------------------
+# Jogo e prostituição
 
-“O amor é uma ave de arribação”.
+*O amor é uma ave de arribação.*
 
 *éovos Quadros de Paris ou Observações Sobre os Usos e Costumes dos
 Parisiensesnos Começos do Século XIX*, Paris. 1928, I, p. 37.
@@ -9934,8 +9923,7 @@ diamantes e sua escola de pintura. O Reino de Golconda teve no
 Ocidente uma reputação de riqueza legendária, a partir do sé-
 culo XVII.
 
-Sobre o autor
--------------
+# Sobre o autor
 
 Nascido em Berlim a 15 de julho de 1892, Walter Benjamin foi um dos mais
 notáveis intelectuais alemães deste século. Graduado em Filosofia pela
