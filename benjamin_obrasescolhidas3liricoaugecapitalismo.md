@@ -3572,7 +3572,7 @@ ingrato. É claro que existe uma explicação para isso: Baudelaire
 pretendia ser compreendido; por isso dedica seu livro àqueles que lhe
 são semelhantes. O poema dedicado ao leitor termina com a apóstrofe:
 
-“– Hipócrita leitor, meu igual, meu irmão!”l
+“– Hipócrita leitor, meu igual, meu irmão!”[^footnote1]
 
 A fórmula se torna mais fecunda quando reestruturada, isto é: Baudelaire
 escreveu um livro que, *a priori*, tinha poucas perspectivas de êxito
@@ -3580,7 +3580,8 @@ imediato junto ao público. Confiava no tipo de leitor descrito no poema
 introdutório. E aconteceu que este cálculo se mostrou de grande
 alcance. O leitor, para quem havia se preparado, serlhe-ia oferecido
 pelo período seguinte. Que seja assim, que, em
-outras palavras, as condições de receptividade da poesia lírica se tenham tornado mais desfavoráveis, é demonstrado por três fatos, entre
+outras palavras, as condições de receptividade da poesia lírica se tenham 
+tornado mais desfavoráveis, é demonstrado por três fatos, entre
 outros. Primeiro, porque o lírico deixou de ser considerado como poeta
 em si. Não é mais “o aedo”, como Lamartine ainda o fora; adotou um
 gênero. (Verlaine nos dá um exemplo concreto desta especialização;
@@ -3588,7 +3589,7 @@ Rimbaud, já esotérico, mantém o público, *ex officio*, afastado de sua
 obra). Segundo, depois de Baudelaire, nunca mais houve um êxito em massa
 da poesia lírica. (A lírica de Victor Hugo encontrou ainda forte
 ressonância, por ocasião de sua publicação. Na Alemanha é o *Buch der
-Lieder*2 que estabelece a linha divisória). Uma terceira circunstância,
+Lieder*[^footnote2] que estabelece a linha divisória). Uma terceira circunstância,
 decorrente das duas primeiras: o público se tornara mais esquivo mesmo
 em relação à poesia lírica que lhe fora transmitida do passado. O
 período em questão pode ser fixado a partir do meio do século
@@ -3613,41 +3614,49 @@ elas não partiam da existência do homem na sociedade; invocavam a
 literatura, melhor ainda a natureza e, finalmente, a época mítica, de
 preferência. *Das Erlebnis und die Dichtung* (A Vivência e a
 Literatura), obra de Dilthey, é das primeiras de uma série que termina
-com Klages e Jung, este comprometido com o fascismo.3 *Matière et
+com Klages e Jung, este comprometido com o fascismo.[^footnote3] *Matière et
 Mémoire* (*Matéria e Memória*), uma das primeiras obras de Bergson,
 destaca-se desta literatura como um monumento
-imponente, mantendo, mais do que as outras, relações com a investigação científica. Orienta-se pela biologia. Seu título demonstra que a
-estrutura da memória é considerada como decisiva para a estrutura filosófica da experiência. Na verdade, a experiência é matéria da tradição, tanto na vida privada quanto na coletiva. Forma-se menos com dados
+imponente, mantendo, mais do que as outras, relações com a investigação 
+científica. Orienta-se pela biologia. Seu título demonstra que a
+estrutura da memória é considerada como decisiva para a estrutura filosófica 
+da experiência. Na verdade, a experiência é matéria da tradição, tanto na vida 
+privada quanto na coletiva. Forma-se menos com dados
 isolados e rigorosamente fixados na memória, do que com dados
 acumulados, e com frequência inconscientes, que afluem à memória.
-Bergson não tem, por certo, qualquer intenção de especificar historicamente a memória. Ao contrário, rejeita qualquer determinação histórica da experiência, evitando com isto, acima de tudo, se aproximar
-daquela experiência, da qual se originou sua própria filosofia, ou melhor, contra a qual ela foi remetida. É a experiência inóspita,
+Bergson não tem, por certo, qualquer intenção de especificar historicamente 
+a memória. Ao contrário, rejeita qualquer determinação histórica da experiência, 
+evitando com isto, acima de tudo, se aproximar
+daquela experiência, da qual se originou sua própria filosofia, ou melhor, 
+contra a qual ela foi remetida. É a experiência inóspita,
 ofuscante da época da industrialização em grande escala. Os olhos que se
-fecham diante desta experiência confrontam outra de natureza complementar na forma por assim dizer de sua reprodução espontânea. A
+fecham diante desta experiência confrontam outra de natureza complementar 
+na forma por assim dizer de sua reprodução espontânea. A
 filosofia de Bergson é uma tentativa de detalhar e fixar esta imagem
-reproduzida, Ela oferece assim indiretamente uma pista sobre a experiência que se apresenta aos olhos de Baudelaire, sem distorções, na figura de seu leitor.
+reproduzida, Ela oferece assim indiretamente uma pista sobre a experiência 
+que se apresenta aos olhos de Baudelaire, sem distorções, na figura de seu leitor.
 
 ## II
 
-*Matière et Memoire* define o caráter da experiência na *durée* (duração)4 de tal maneira que o leitor se sente obrigado a concluir que
+*Matière et Memoire* define o caráter da experiência na *durée* (duração)[^footnote4] 
+de tal maneira que o leitor se sente obrigado a concluir que
 apenas o escritor seria o sujeito adequado de tal experiência. E, de
-fato, foi também um escritor quem colocou à prova a teoria da experiência de Bergson. Pode-se considerar a obra de Proust, *Em Busca do
+fato, foi também um escritor quem colocou à prova a teoria da experiência de Bergson. 
+Pode-se considerar a obra de Proust, *Em Busca do
 Tempo Perdido*, como a tentativa de reproduzir artificialmente, sob as
 condições sociais atuais, a experiência tal como Bergson a imagina, pois
 cada vez se poderá ter menos esperanças de realizá-la por meios
-naturais.\* Proust, aliás, não se furta ao debate desta questão em sua
+naturais.[^footnote*] Proust, aliás, não se furta ao debate desta questão em sua
 obra, introduzindo mesmo um elemento novo, que encerra uma crítica
 imanente a Bergson. Este não deixa de sublinhar o antagonismo existente
 entre a *vita activa* e a específica *vita contemplativa*,
-
-\* No ensaio freudiano os conceitos de lembrança e memória não
-apresentam distinções semânticas relevantes para o presente contexto.
-
- a qual se abre na memória. No entanto, sugere que o recurso à presentificação intuitiva do fluxo da vida seja uma questão de
+a qual se abre na memória. No entanto, sugere que o recurso à 
+presentificação intuitiva do fluxo da vida seja uma questão de
 livre escolha. Já de início Proust identifica terminologicamente a sua
 opinião divergente. A memória pura – a *mémoire pure* – da teoria
 bergsoniana se transforma, em Proust, na *mémoire involontaire*. Ato
-contínuo, confronta esta memória involuntária com a voluntária, sujeita à tutela do intelecto. As primeiras páginas de sua grande obra se
+contínuo, confronta esta memória involuntária com a voluntária, sujeita 
+à tutela do intelecto. As primeiras páginas de sua grande obra se
 incumbem de esclarecer esta relação. Nas reflexões que introduzem o
 termo, Proust fala da forma precária como se apresentou em sua
 lembrança, durante muitos anos, a cidade de Combray, onde, afinal, havia
@@ -3659,11 +3668,14 @@ uma memória sujeita aos apelos da atenção. Esta seria a *mémoire
 volontaire*, a memória voluntária; e as informações sobre o passado, por
 ela transmitidas, não guardam nenhum traço dele. “E é isto que acontece
 com nosso passado. Em vão buscamos evocá-lo deliberadamente; todos os
-esforços de nossa inteligência são inúteis”.5 Por isso Proust não hesita
+esforços de nossa inteligência são inúteis”.[^footnote5] Por isso Proust não hesita
 em afirmar, concludentemente, que o passado encontrar-se-ia “em um
 objeto material qualquer, fora do âmbito da inteligência e de seu campo
 de ação. Em qual objeto, isso não sabemos. E é questão de sorte, se
-nos deparamos com ele antes de morrermos ou se jamais o encontramos”.6
+nos deparamos com ele antes de morrermos ou se jamais o encontramos”.[^footnote6]
+
+[^footnote*]: No ensaio freudiano os conceitos de lembrança e memória não
+apresentam distinções semânticas relevantes para o presente contexto.
 
 Segundo Proust, fica por conta do acaso, se cada indivíduo adquire ou
 não uma imagem de si mesmo, e se pode ou não se apossar de sua própria
@@ -3678,7 +3690,8 @@ Seu propósito, no entanto, é o oposto, e ela o atinge. Consiste em
 isolar os acontecimentos do âmbito onde pudessem afetar a experiência
 do leitor.
 
-Os princípios da informação jornalística (novidade, concisão, inteligibilidade e, sobretudo, falta de conexão entre uma notícia e outra)
+Os princípios da informação jornalística (novidade, concisão, inteligibilidade e, 
+sobretudo, falta de conexão entre uma notícia e outra)
 contribuem para esse resultado, do mesmo modo que a paginação e o
 estilo linguístico. (Karl Kraus não se cansou de demonstrar a que
 ponto o estilo jornalístico tolhe a imaginação dos leitores.) A exclusão
@@ -3689,7 +3702,8 @@ possa informar a outro.
 
 Há uma rivalidade histórica entre as diversas formas da comunicação.
 Na substituição da antiga forma narrativa pela informação, e da
-informação pela sensação reflete-se a crescente atrofia da experiência. Todas essas formas, por sua vez, se distinguem da narração, que
+informação pela sensação reflete-se a crescente atrofia da experiência. 
+Todas essas formas, por sua vez, se distinguem da narração, que
 é uma das mais antigas formas de comunicação. Esta não tem a pretensão
 de transmitir um acontecimento, pura e simplesmente (como a informação o
 faz); integra-o à vida do narrador, para passá-lo aos ouvintes como
@@ -3727,44 +3741,55 @@ Reik desenvolve sua teoria da memória, em parte movem-se justamente na
 linha da diferenciação proustiana entre as lembranças voluntária e
 involuntária. “A função da memória Prescreve Reik – consiste em
 proteger as impressões; a lembrança tende a desagregá-las. A memória é
-essencialmente conservadora; a lembrança é destrutiva”.7 A proposição
+essencialmente conservadora; a lembrança é destrutiva”.[^footnote7] A proposição
 fundamental de Freud, subjacente a essas explanações, é formulada pela
 suposição, segundo a qual “o consciente surge no lugar de uma impressão
-mnemônica”.8 O consciente “se caracterizaria, portanto, por uma
+mnemônica”.[^footnote8] O consciente “se caracterizaria, portanto, por uma
 particularidade: o processo estimulador não deixa nele qualquer
 modificação duradoura de seus elementos, como acontece em todos os
 outros sistemas psíquicos, porém como que se esfumaça no fenômeno da
-conscientização”.9 O axioma desta hipótese é “que a conscientização e
+conscientização”.[^footnote9] O axioma desta hipótese é “que a conscientização e
 a permanência de um traço mnemônico são incompatíveis entre si para um
-mesmo sistema”.10 Resíduos mnemônicos são, por sua vez, “frequentemente
+mesmo sistema”.[^footnote10] Resíduos mnemônicos são, por sua vez, “frequentemente
 mais intensos e duradouros, se o processo que os imprime jamais chega
-ao consciente”,11 Traduzido em termos proustianos: Só pode se tornar
+ao consciente”,[^footnote11] Traduzido em termos proustianos: Só pode se tornar
 componente da *mémoire involontaire* aquilo que não foi expressa e
 conscientemente “vivenciado”, aquilo que não sucedeu ao sujeito como
-“vivência”,12 Segundo Freud, a função de acumular “traços permanentes
+“vivência”,[^footnote12] Segundo Freud, a função de acumular “traços permanentes
 como fundamento da memória” em processos estimuladores está reservada
 a “outros sistemas”, que devem ser entendidos como diversos da
-consciência.\* Ainda segundo Freud, o consciente
-
-\* Proust trata desses “outros sistemas” de maneiras diversas,
-representando-os, de preferência, por meio dos membros do corpo
-humano, falando incansavelmente das imagens mnemônicas
+consciência.[^footnote*] Ainda segundo Freud, o consciente
 como tal não registraria absolutamente nenhum traço mnemônico. Teria,
-isto sim, outra função importante, a de agir como proteção contra estímulos. “Para o organismo vivo, proteger-se contra os estímulos é uma
-função quase mais importante do que recebê-los; o organismo está dotado de reservas de energia próprias e, acima de tudo, deve estar empenhado em preservar as formas específicas de conversão de energia nele
-operantes contra a influência uniformizante e, por conseguinte, destrutiva das imensas energias ativas no exterior”.13 Aameaça destas energias
+isto sim, outra função importante, a de agir como proteção contra estímulos. 
+“Para o organismo vivo, proteger-se contra os estímulos é uma
+função quase mais importante do que recebê-los; o organismo está dotado de 
+reservas de energia próprias e, acima de tudo, deve estar empenhado em preservar 
+as formas específicas de conversão de energia nele
+operantes contra a influência uniformizante e, por conseguinte, 
+destrutiva das imensas energias ativas no exterior”.[^footnote13] A ameaça destas energias
 se faz sentir através de choques. Quanto mais corrente se tornar o
 registro desses choques no consciente, tanto menos se deverá esperar
 deles um efeito traumático. A teoria psicanalítica procura “entender...”
 a natureza do choque traumático “... a partir do rompimento da
 proteção contra o estímulo”. Segundo esta teoria, o sobressalto tem “seu
-significado” na “falta de predisposição para a angústia”.14
+significado” na “falta de predisposição para a angústia”.[^footnote14]
+
+[^footnote*]: Proust trata desses “outros sistemas” de maneiras diversas,
+representando-os, de preferência, por meio dos membros do corpo
+humano, falando incansavelmente das imagens mnemônicas neles contidas e de como, 
+repentinamente, elas penetram no consciente
+independentemente de qualquer sinal deste, desde que uma coxa, um
+braço ou uma omoplata assuma involuntariamente, na cama, uma posição,
+tal como o fizeram uma vez no passado. A *mémoire involontaire* dos
+membros do corpo é um dos temas favoritos de Proust. (Cf. Proust, *A
+la recherche du temps perdu*, tomo I: Du coté de chez Swann, id., ib.,
+610, I, p. 15.)
 
 A investigação de Freud foi ocasionada por um sonho típico dos
 neuróticos traumáticos, sonho este que reproduz a catástrofe que os
 atingiu. Segundo Freud, sonhos dessa natureza “procuram recuperar o
 domínio sobre o estímulo, desenvolvendo a angústia cuja omissão se
-tornou a causa da neurose traumática”.15 Valéry parece ter em mente algo
+tornou a causa da neurose traumática”.[^footnote15] Valéry parece ter em mente algo
 semelhante. E a coincidência merece registro, pois Valéry é dos que se
 interessam pela forma especial de funcionamento dos mecanismos psíquicos
 sob as condições atuais de existência. (Este interesse, aliás, ele
@@ -3775,20 +3800,13 @@ impressões e as sensações humanas pertencem à categoria das surpresas;
 são o testemunho de uma insuficiência do ser humano... A lembrança
 é... um fenômeno elementar que pretende nos conceder tempo para
 organizar” a recepção do estímulo – tempo “que nos faltou
-inicialmente”.16 A recepção do choque é atenuada por meio
-neles contidas e de como, repentinamente, elas penetram no consciente
-independentemente de qualquer sinal deste, desde que uma coxa, um
-braço ou uma omoplata assuma involuntariamente, na cama, uma posição,
-tal como o fizeram uma vez no passado. A *mémoire involontaire* dos
-membros do corpo é um dos temas favoritos de Proust. (Cf. Proust, *A
-la recherche du temps perdu*, tomo I: Du coté de chez Swann, id., ib.,
-610, I, p. 15.)
+inicialmente”.[^footnote16] A recepção do choque é atenuada por meio
 de um treinamento no controle dos estímulos, para o qual tanto o sonho
 quanto a lembrança podem ser empregados, em caso de necessidade. Via
 de regra, no entanto, este treinamento – assim supõe Freud – cabe ao
 consciente desperto, que teria sua sede em uma camada do córtex
 cerebral, a tal ponto queimada pela ação dos estímulos que
-proporcionaria “à sua recepção as condições adequadas”.17 O fato de o
+proporcionaria “à sua recepção as condições adequadas”.[^footnote17] O fato de o
 choque ser assim amortecido e aparado pelo consciente emprestaria ao
 evento que o provoca o caráter de experiência vivida em sentido
 restrito. E, incorporando imediatamente este evento ao acervo das
@@ -3810,7 +3828,7 @@ tornar-se um grande poeta, sem se tornar um Lamartine, nem um Hugo, nem
 um Musset. Não estou afirmando que este propósito fosse consciente em
 Baudelaire; mas deveria estar presente nele, necessariamente, ou melhor,
 este propósito era, na verdade, o próprio Baudelaire. Era a sua razão
-de Estado”.18 Causa estranheza falar de razão de Estado, com relação a
+de Estado”.[^footnote18] Causa estranheza falar de razão de Estado, com relação a
 um poeta. Mas implica algo notável: a emancipação com respeito às
 vivências. A produção poética de Baudelaire está associada a uma
 missão. Ele entreviu espaços vazios nos quais inseriu sua poesia. Sua
@@ -3822,21 +3840,26 @@ qualquer outra, mas também pretendia ser e se entendia como tal.
 Quanto maior é a participação do fator do choque em cada uma das
 impressões, tanto mais constante deve ser a presença do consciente no
 interesse em proteger contra os estímulos; quanto maior for o êxito com
-que ele operar, tanto menos essas impressões serão incorporadas à experiência, e tanto mais corresponderão ao conceito de vivência. Afinal,
+que ele operar, tanto menos essas impressões serão incorporadas à experiência, 
+e tanto mais corresponderão ao conceito de vivência. Afinal,
 talvez seja possível ver o desempenho característico da resistência ao
-choque na sua função de indicar ao acontecimento, às custas da integridade de seu conteúdo, uma posição cronológica exata na consciência. Este
+choque na sua função de indicar ao acontecimento, às custas da integridade de seu conteúdo, 
+uma posição cronológica exata na consciência. Este
 seria o desempenho máximo da reflexão, que faria do incidente uma
 vivência. Se não houvesse reflexão, o sobressalto agradável ou (na
-maioria das vezes) desagradável produzir-se-ia invariavelmente, sobressalto que, segundo Freud, sanciona a falha da resistência ao choque.
+maioria das vezes) desagradável produzir-se-ia invariavelmente, sobressalto que, 
+segundo Freud, sanciona a falha da resistência ao choque.
 Baudelaire fixou esta constatação na imagem crua de um duelo, em que o
-artista, antes de ser vencido, lança um grito de susto.19 Este duelo é o
+artista, antes de ser vencido, lança um grito de susto.[^footnote19] Este duelo é o
 próprio processo de criação. Assim, Baudelaire inseriu a experiência do
 choque no âmago de seu trabalho artístico. Este depoimento sobre si
 mesmo, confirmado por declarações de muitos contemporâneos, é da maior
 importância. Tomado pelo susto, Baudelaire não está longe de suscitá-lo
-ele próprio. Valles fala de seus gestos excêntricos;20 baseado em um
+ele próprio. Valles fala de seus gestos excêntricos;[^footnote20] baseado em um
 retrato feito por Nargeot, Pontmartin afirma ser a sua fisionomia
-confiscada; Claudel enfatiza o tom de voz cortante que utilizava em conversa; Gautier fala das “cesuras” e de como Baudelaire gostava de utilizá-las ao declamar;21 Nadar descreve o seu andar abrupto.22
+confiscada; Claudel enfatiza o tom de voz cortante que utilizava em conversa; 
+Gautier fala das “cesuras” e de como Baudelaire gostava de utilizá-las ao declamar;[^footnote21] 
+Nadar descreve o seu andar abrupto.[^footnote22]
 
 A psiquiatria registra tipos traumatófilos. Baudelaire abraçou como sua
 causa aparar os choques, de onde quer que proviessem, com o seu ser
@@ -3845,10 +3868,10 @@ choque. Quando descreve seu amigo Constantin Guys, visita-o na hora em
 que Paris está dormindo: (Ei-lo curvado sobre a mesa, fitando a folha
 com a mesma acuidade com que, durante o dia, espreita as coisas à sua
 volta; esgrimindo com seu lápis, sua pena, seu pincel; deixando a água
-do seu corpo respingar o teto e ensaiando a pena em sua camisa;23
+do seu corpo respingar o teto e ensaiando a pena em sua camisa;[^footnote23]
 perseguindo o trabalho, rápido e impetuoso, como se temesse que as
 imagens lhe fugissem e assim ele luta, mesmo sozinho, e apara seus
-próprios golpes.24 Envolvido nessa estranha esgrima, Baudelaire
+próprios golpes.[^footnote24] Envolvido nessa estranha esgrima, Baudelaire
 se retratou na estrofe inicial do poema O Sol; talvez a única passagem
 de *As Flores do Mal* que o mostra no trabalho poético.
 
@@ -3858,15 +3881,15 @@ cidade e o campo, os tetos e os trigais, Exercerei a sós a minha
 estranha esgrima, Buscando em cada canto os acasos da rima, Tropeçando
 em palavras como nas calçadas,
 
-Topando imagens desde há muito já sonhadas”.25
+Topando imagens desde há muito já sonhadas”.[^footnote25]
 
 A experiência do choque é uma das que se tornaram determinantes para a
 estrutura de Baudelaire. Gide trata das intermitências entre a imagem e
 a ideia, a palavra e o objeto, nas quais a emoção poética de Baudelaire
-encontraria sua verdadeira sede.26 Rivière aludiu aos golpes
+encontraria sua verdadeira sede.[^footnote26] Rivière aludiu aos golpes
 subterrâneos, que abalam o verso baudelairiano. É como se uma palavra se
 desmoronasse sobre si mesma. Rivière assinalou tais palavras
-cambaleantes:27
+cambaleantes:[^footnote27]
 
 “Et qui sait ces fleurs nouvelles que je rêve Trouveront dans ce sol
 lavé comme une grève Le mystique aliment qui *ferait* leu r vigueur?”
@@ -3874,15 +3897,15 @@ lavé comme une grève Le mystique aliment qui *ferait* leu r vigueur?”
 (“E quem sabe se as flores que meu sonho ensaia Não achem nessa gleba
 aguada como praia
 
-O místico alimento que as fará radiosas?”28 Ou ainda:
+O místico alimento que as fará radiosas?”[^footnote28] Ou ainda:
 
 “Cybèle, qui les aime, *augmente ses verdures”*. (“Cibele, que os
-adora, o verde faz crescer”).29
+adora, o verde faz crescer”).[^footnote29]
 
 Necessário acrescentar ainda o célebre início do poema: “La servante
 au grand coeur dont vous étiez *jalousie”*.
 
-(“À ama bondosa de quem tinhas tanto *ciúme*”).30
+(“À ama bondosa de quem tinhas tanto *ciúme*”).[^footnote30]
 
 Fazer justiça a essas leis ocultas, também fora da poesia – eis o
 propósito a que Baudelaire se entregou em *O Spleen de Paris*, seus
@@ -3894,7 +3917,7 @@ resistente para se adaptar às emoções líricas da alma, às ondulações do
 devaneio, aos choques da consciência. Este ideal, que se pode tornar
 ideia fixa, se apossará, sobretudo, daquele que, nas cidades
 gigantescas, está afeito à tramas de suas inúmeras relações
-entrecortantes”.31
+entrecortantes”.[^footnote31]
 
 A passagem sugere uma dupla constatação. Primeiro nos informa sobre a
 íntima relação existente em Baudelaire entre a imagem do choque e o
@@ -3915,7 +3938,7 @@ apreendida: é a multidão fantasma das palavras, dos fragmentos, dos
 inícios de versos com que o poeta, nas ruas abandonadas, trava o combate
 pela presa poética.
 
-\* Emprestar uma alma a esta multidão é o desejo mais íntimo do
+[^footnote*]: Emprestar uma alma a esta multidão é o desejo mais íntimo do
 *flâneur*. Os encontros com ela são para ele a vivência que nunca se
 cansa de narrar. Certos reflexos dessa ilusão não podem ser abstraídos
 da obra de Baudelaire – uma ilusão que, de resto, continua atuando até
@@ -3941,7 +3964,8 @@ foi, portanto, por acaso, que o jovem Marx encontrou ocasião para
 censurar severamente os *Mistérios de Paris*. Desde cedo, Marx tinha,
 como sua missão, extrair daquela massa amorfa, na época bajulada por
 um socialismo literário, a massa férrea do proletariado. Por essa razão,
-a descrição que Engels faz desta massa em suas primeiras obras prenuncia, ainda que timidamente, um dos temas marxistas. Na *Situação da
+a descrição que Engels faz desta massa em suas primeiras obras prenuncia, 
+ainda que timidamente, um dos temas marxistas. Na *Situação da
 Classe Operária na Inglaterra* encontra-se: “Uma cidade como Londres,
 onde se pode vagar horas a fio sem se chegar sequer ao início do fim,
 sem se encontrar com o mais ínfimo sinal que permita inferir a
@@ -3967,7 +3991,7 @@ mutuamente; e, no entanto, não ocorre a ninguém conceder ao outro um
 olhar sequer. Essa indiferença brutal, esse isolamento insensível de
 cada indivíduo em seus interesses privados, avultam tanto mais
 repugnantes e ofensivos quanto mais estes indivíduos se comprimem num
-exíguo espaço”.32
+exíguo espaço”.[^footnote32]
 
 Essa descrição é notavelmente diversa daquela encontrada nas obras do
 gênero dos pequenos mestres franceses – um Gozlan, um Delvau ou um
@@ -3984,7 +4008,7 @@ antes de sua morte, Hegel chegou pela primeira vez a Paris, escreveu à
 sua mulher: “Quando ando pelas ruas, as pessoas se parecem com as de
 Berlim – todas vestidas igual, os rostos mais ou menos os mesmos
 
-–, a mesma cena, porém numa massa populosa”.33 Mover-se em meio a essa
+–, a mesma cena, porém numa massa populosa”.[^footnote33] Mover-se em meio a essa
 massa era algo natural para o parisiense. Não importa qual fosse a
 distância que ele, por sua vez, exigisse e mantivesse desta massa, o
 fato é que ficou marcado por ela; não pôde, como Engels, observá-la de
@@ -3996,51 +4020,18 @@ Em Baudelaire, a massa é de tal forma intrínseca que em vão buscamos
 nele a sua descrição. Assim, seus mais importantes temas quase nunca são
 encontrados sob a forma descritiva. Como Des jardins declara com
 argúcia, a ele “interessa mais imprimir a imagem na memória, do que
-enfeitá-la e cobri-la”.34 Em vão procurar-se-á, tanto em *As Flores do
+enfeitá-la e cobri-la”.[^footnote34] Em vão procurar-se-á, tanto em *As Flores do
 Mal*, como em *O Spleen de Paris*, um tema equivalente aos afrescos
 urbanos, em que Victor Hugo era mestre. Baudelaire não descreve nem a
 população, nem a cidade. Ao abrir mão de tais descrições colocou-se em
 condições de evocar uma na imagem da outra. Sua multidão é sempre a da
 cidade grande; a sua Paris é invariavelmente superpovoada. Isto é o
 que o faz bem superior a Barbier, para quem as massas e a cidade se
-dissociam, por ser o seu um método descritivo.\* Nos *Quadros
+dissociam, por ser o seu um método descritivo.[^footnote*] Nos *Quadros
 Parisienses* é possível demonstrar, em quase toda parte, a presença
 secreta da massa. Quando Baudelaire escolhe por tema a alvorada, há nas
 ruas desertas qualquer coisa do “burburinho silencioso”, que Hugo
 pressente na Paris noturna. Mal o olhar de Baudelaire cai
-
-\* Típico do método de Barbier é o seu poema *Londres*, que descreve a
-cidade em vinte e quatro linhas, para concluir desajeitadamente com os
-seguintes versos:
-
-“Enfim, um amontoado de coisas, sombrio, imenso, Um povo negro,
-vivendo e morrendo em silêncio. Seres aos milhares seguindo o instinto
-fatal,
-
-E correndo atrás do ouro, para o bem e para o mal”.
-
-(Auguste Barbier, *Jambes et poümes*, Paris, 1841, p. 193s.) –
-Baudelaire foi profundamente influenciado pelos “poemas tendenciosos”
-de Barbier, em especial pelo ciclo londrino *Lazare* mais do que se
-quer admitir. O final de O Crepúsculo Vespertino baudelairiano diz o
-seguinte:
-
-“. .. eles terminam
-
-Seus destinos no horror de um abismo comum; Seus suspiros inundam o
-hospital; mais de um Não mais virá buscar a sopa perfumada,
-
-Junto ao fogo, à tarde, ao pé da bem-amada”.
-
-Compare-se este com o final da oitava estrofe de *Mineiros de
-Newcastle*, de Barbier: “E mais de um que sonhava no fundo de sua alma
-
-Com as doçuras do lar, com o olho azul de sua mulher. Encontra no
-ventre do abismo um túmulo eterno”.
-
-(Barbier, op. cit., p. 204s.) – Com alguns poucos retoques magistrais
-Baudelaire transforma *A Sina do Mineiro* no final banal do homem das
-metrópoles.
 sobre as pranchas dos atlas de anatomia expostos à venda sobre os cais
 empoeirados do Sena, e já, sobre essas folhas, a massa dos defuntos
 toma imperceptivelmente o lugar onde antes se viam esqueletos
@@ -4049,8 +4040,35 @@ Destacar-se desta grande massa com o passo que não pode manter o ritmo,
 com pensamentos que nada mais sabem do presente – eis o heroísmo das
 mulheres engelhadas, que o ciclo *As Velhinhas* acompanha em sua
 caminhada. A massa era o véu agitado através do qual Baudelaire via
-Paris.\* Sua presença caracteriza um dos poemas mais célebres de *As
+Paris.[^footnote**] Sua presença caracteriza um dos poemas mais célebres de *As
 Flores do Mal*.
+
+
+[^footnote*]: Típico do método de Barbier é o seu poema *Londres*, que descreve a
+cidade em vinte e quatro linhas, para concluir desajeitadamente com os
+seguintes versos: “Enfim, um amontoado de coisas, sombrio, imenso,/ Um povo negro,
+vivendo e morrendo em silêncio./ Seres aos milhares seguindo o instinto
+fatal,/ E correndo atrás do ouro, para o bem e para o mal”.
+(Auguste Barbier, *Jambes et poümes*, Paris, 1841, p. 193s.) –
+Baudelaire foi profundamente influenciado pelos “poemas tendenciosos”
+de Barbier, em especial pelo ciclo londrino *Lazare* mais do que se
+quer admitir. O final de O Crepúsculo Vespertino baudelairiano diz o
+seguinte: “. .. eles terminam/ Seus destinos no horror de um abismo comum;/ Seus suspiros inundam o
+hospital; mais de um/ Não mais virá buscar a sopa perfumada,/
+Junto ao fogo, à tarde, ao pé da bem-amada”.
+Compare-se este com o final da oitava estrofe de *Mineiros de
+Newcastle*, de Barbier: “E mais de um que sonhava no fundo de sua alma/
+Com as doçuras do lar, com o olho azul de sua mulher./ Encontra no
+ventre do abismo um túmulo eterno”.
+(Barbier, op. cit., p. 204s.) – Com alguns poucos retoques magistrais
+Baudelaire transforma *A Sina do Mineiro* no final banal do homem das
+metrópoles.
+
+[^footnote*]: A fantasmagoria, onde aquele que espera passa o tempo; a Veneza
+construída de galeria, que o 2º Império simula aos parisienses
+como sonho, transporta em seu painel de mosaicos só uns poucos. E
+por isso galerias não aparecem na obra de Baudelaire.
+
 
 Nenhuma expressão, nenhuma palavra designa a multidão no soneto *A uma
 Passante*. No entanto, o seu desenvolvimento repulsa inteiramente
@@ -4073,12 +4091,8 @@ nascer outra vez, Não mais hei de te ver senão na eternidade?
 Longe daqui! tarde demais! *nunca* talvez! Pois de ti já me fui, de
 mim tu já fugiste,
 
-Tu que eu teria amado, ó tu que bem o viste!”35
+Tu que eu teria amado, ó tu que bem o viste!”[^footnote35]
 
--   A fantasmagoria, onde aquele que espera passa o tempo; a Veneza
-construída de galeria, que o 2º. Império simula aos parisienses
-como sonho, transporta em seu painel de mosaicos só uns poucos. E
-por isso galerias não aparecem na obra de Baudelaire.
 
 Envolta no véu de viúva, misteriosa em seu ar taciturno ao ser arrastada
 pela. multidão, uma desconhecida cruza o olhar do poeta. O que o soneto
@@ -4093,7 +4107,7 @@ sujeito, ela atingiu também o âmago de seu sentimento. Aquilo que
 contrai o corpo em um espasmo – qual bizarro basbaque – não é a
 beatitude daquele que é invadido por Eros, em todos os recônditos do
 seu ser; é, antes, a perplexidade sexual que pode acometer um solitário.
-Dizer que esses versos “só puderam acontecer numa cidade grande”,36 como
+Dizer que esses versos “só puderam acontecer numa cidade grande”,[^footnote36] como
 julgou Thibaudet, não quer dizer muito. Afinal, eles revelam os estigmas
 infligidos ao amor pela vida numa cidade grande. Não foi de outra forma
 que Proust interpretou o soneto e, por isso mesmo, mais tarde deu à
@@ -4104,13 +4118,13 @@ assemelhava ao tipo ardente e, no entanto, pálido da parisiense, da
 mulher que, desafeita ao ar livre, enfraqueci da por seu modo de vida
 em meio às massas e, talvez, até por influência do vício, pode ser
 reconhecida por um certo olhar nas faces sem pintura que causa uma
-sensação de inquietação”.37 Em Proust, ainda, é assim o olhar do objeto
+sensação de inquietação”.[^footnote37] Em Proust, ainda, é assim o olhar do objeto
 de um amor como só o habitante das grandes cidades experimenta na
 forma em que Baudelaire o captou para a poesia, e desse amor, não
 raramente, se poderá dizer que frustraram a sua realização, mais do que
-a negaram.\*
+a negaram.[^footnote*]
 
--   O tema do amor à mulher que passa é tratado num dos primeiros poemas
+[^footnote*]: O tema do amor à mulher que passa é tratado num dos primeiros poemas
 de George. O decisivo, porém, lhe escapou: a corrente, na qual a
 mulher voga, levada pela multidão. Chega-se assim a uma tímida
 elegia. Os olhares do poeta, como deve confessar à sua dama,
@@ -4138,20 +4152,21 @@ contudo, ao cair da noite, a multidão aumentava a cada minuto; e, ao
 serem acesos os bicos de gás, duas densas correntes de transeuntes
 passavam se empurrando pelo café. Nunca antes me sentira em condições
 semelhantes, como àquela hora da tarde; e saboreava a nova excitação,
-que me sobreviera ante o espetáculo de um oceano de cabeças, encapelado. Pouco a pouco deixei de observar o que acontecia no recinto
-onde me achava. Perdi-me na contemplação da cena de rua”.38 Por mais
+que me sobreviera ante o espetáculo de um oceano de cabeças, encapelado. 
+Pouco a pouco deixei de observar o que acontecia no recinto
+onde me achava. Perdi-me na contemplação da cena de rua”.[^footnote38] Por mais
 importante que seja, a história introduzida por este prelúdio é obrigada
 a conter o seu curso; a moldura que envolve a cena exige ser
 contemplada.
 
 A própria multidão londrina aparece a Poe sombria e confusa como a luz a
 gás na qual se move. Isso vale não só para a gentalha que rasteja com
-a noite “para fora dos antros”.39 A classe dos altos funcionários é
+a noite “para fora dos antros”.[^footnote39] A classe dos altos funcionários é
 descrita por Poe da seguinte maneira: “Em geral, seu cabelo já estava
 bastante rarefeito; a orelha direita geralmente um tanto afastada da
 cabeça, devido a seu emprego como portas-caneta. Todos, por força do
 hábito, mexiam em seus chapéus, e todos usavam correntes de relógio
-curtas douradas, de forma antiquada”.40 Ainda mais surpreendente é a
+curtas douradas, de forma antiquada”.[^footnote40] Ainda mais surpreendente é a
 descrição da multidão segundo seu modo de movimentar-se. “A maioria dos
 que passavam parecia gente satisfeita consigo mesma, e bem instalada
 na vida. Parecia apenas pensar em abrir caminho através da multidão.
@@ -4161,15 +4176,14 @@ ajeitavam a roupa e seguiam apressados. Outros – e também esse grupo
 era numeroso – tinham movimentos desordenados, rostos rubicundos,
 falavam consigo mesmo e gesticulavam como se se sentissem sozinhos
 exatamente por causa da incontável multidão ao redor. Se tivessem de
-parar no meio do caminho, repentinamente essas pessoas paravam de murmurar, mas sua gesticulação ficava mais veemente, e esperavam
-
--   um sorriso forçado – até que as pessoas em seu caminho se desviassem. Se eram empurradas, cumprimentavam graves aqueles que as
-tinham empurrado e pareciam muito embaraçadas.41\* Poder-se-ia
+parar no meio do caminho, repentinamente essas pessoas paravam de murmurar, 
+mas sua gesticulação ficava mais veemente, e esperavam – um sorriso forçado – até que as pessoas em seu caminho se desviassem. Se eram empurradas, cumprimentavam graves aqueles que as
+tinham empurrado e pareciam muito embaraçadas.[^footnote41][^footnote*] Poder-se-ia
 pensar que se está falando de indivíduos empobrecidos e
 semiembriagados. Na verdade, trata-se de “gente de boa posição,
-negociantes, bacharéis e especuladores da Bolsa”.42\*\*
+negociantes, bacharéis e especuladores da Bolsa”.[^footnote42][^footnote**]
 
--   Em *Um Dia de Chuva* se encontra um paralelo para essa passagem.
+[^footnote*]: Em *Um Dia de Chuva* se encontra um paralelo para essa passagem.
 Embora assinado por outra mão, deve-se atribuir o poema a
 Baudelaire, (cf. Charles Baudelaire, *Vers retrouvés*, Ed. Jules
 Mouquet, Paris, 1929). O último verso, que dá ao poema o caráter
@@ -4182,16 +4196,12 @@ que alguém comparou ao estilo de Tertuliano”. (Poe, op. cit., p.
 624, p. 94.) O encontro de Baudelaire com Poe é aqui tanto mais
 surpreendente, porquanto os versos abaixo foram escritos, no
 máximo, em 1843 – uma época, portanto, em que não conhecia Poe.
+“Cada um, nos acotovelando sobre a calçada escorregadia,/ Egoísta e
+brutal, passa e nos enlameia,/ Ou, para correr mais rápido, distanciando-se nos empurra./
+Em toda a parte, lama, dilúvio, escuridão do céu:/
+Negro quadro com que teria sonhado o negro Ezequiel” (I, p. 211).
 
-“Cada um, nos acotovelando sobre a calçada escorregadia, Egoísta e
-brutal, passa e nos enlameia,
-
-Ou, para correr mais rápido, distanciando-se nos empurra. Em toda a
-parte, lama, dilúvio, escuridão do céu:
-
-Negro quadro com que teria sonhado o negro Ezequiel”. (I, p. 211)
-
-\*\* Os homens de negócio têm algo de demoníaco na obra de Poe.
+[^footnote**]: Os homens de negócio têm algo de demoníaco na obra de Poe.
 Pode-se pensar em Marx ao responsabilizar o “movimento jovem e febril
 da produção material” nos Estados Unidos por não haver tido “nem
 tempo, nem oportunidade de suprimir o velho mundo espiritual” (Karl
@@ -4223,25 +4233,41 @@ Vespertino*.
 
 Baudelaire achou certo equiparar o homem da multidão, em cujas pegadas o
 narrador do conto de Poe percorre a Londres noturna em todos os
-sentidos, com o tipo do *flâneur*.43 Nisto não podemos concordar: o
+sentidos, com o tipo do *flâneur*.[^footnote43] Nisto não podemos concordar: o
 homem da multidão não é nenhum *flâneur*. Nele o comportamento
 tranquilo cedeu lugar ao maníaco. Deste comportamento pode-se, antes,
 inferir o que sucederia ao *flâneur*, quando lhe fosse tomado o ambiente
 ao qual pertence. Se algum dia esse ambiente lhe foi mostrado por
 Londres, certamente não foi pela Londres descrita por Poe. Em
 comparação, a Paris de Baudelaire guarda ainda alguns traços dos velhos
-bons tempos. Ainda havia balsas cruzando o Sena onde mais tarde deveriam se lançar os arcos das pontes. No ano da morte de Baudelaire,
+bons tempos. Ainda havia balsas cruzando o Sena onde mais tarde deveriam
+se lançar os arcos das pontes. No ano da morte de Baudelaire,
 um empresário ainda podia ter a ideia de fazer circular
 quinhentas liteiras, para comodidade de habitantes abastados. Ainda se
 apreciavam as galerias, onde o flâneur se subtraía da vista dos
-veículos, que não admitem o pedestre como concorrente.\* Havia o
+veículos, que não admitem o pedestre como concorrente.[^footnote*] Havia o
 transeunte, que se enfia na multidão, mas havia também o *flâneur*, que
 precisa de espaço livre e não quer perder sua privacidade. Que os outros
 se ocupem de seus negócios: no fundo, o indivíduo só pode flanar se,
 como tal, já se afasta da norma. Lá onde a vida privada dá o tom, há tão
 pouco espaço para o *flâneur* como no trânsito da City. Londres tem seu
 homem da multidão. Nante, o ocioso das esquinas uma figura popular em
-Berlim, no período da Restauração – é sua antítese: o flâneur parisiense seria o meio-termo.\*\*
+Berlim, no período da Restauração – é sua antítese: o flâneur parisiense seria o meio-termo.[^footnote**]
+
+
+[^footnote*]: O pedestre sabia ostentar em certas condições sua ociosidade
+provocativamente. Por algum tempo, em torno de 1840, foi de bom-tom
+levar tartarugas a passear pelas galerias. De bom grado, o *flâneur*
+deixava que elas lhe prescrevessem o ritmo de caminhar. Se o tivessem
+seguido, o progresso deveria ter aprendido esse passo. Não foi ele,
+contudo, a dar a última palavra, mas sim Taylor, transformando em
+lema o “Abaixo a *flânerie*”.
+
+[^footnote**]: No personagem de Adolf Glassbrener, o ocioso se mostra como um
+rebento deplorável do cidadão. Nante não encontra qualquer motivo para
+se mexer. Ele se instala na rua, que obviamente não o conduzirá a
+parte alguma, tão confortavelmente, quanto o burguês tacanho entre
+suas quatro paredes.
 
 A forma como o homem privado vê a multidão nos é esclarecida em um
 pequeno conto de E. T. A. Hoffmann – o último que escreveu. Intitula-se
@@ -4257,24 +4283,11 @@ sugere seu posto de observação no apartamento. Dali ele examina a
 multidão; é dia de feira, e ela se sente em seu elemento. O seu binóculo
 de ópera põe em evidência cenas de gênero. O emprego deste instrumento
 corresponde inteiramente
-
-\*O pedestre sabia ostentar em certas condições sua ociosidade
-provocativamente. Por algum tempo, em torno de 1840, foi de bom-tom
-levar tartarugas a passear pelas galerias. De bom grado, o *flâneur*
-deixava que elas lhe prescrevessem o ritmo de caminhar. Se o tivessem
-seguido, o progresso deveria ter aprendido esse passo. Não foi ele,
-contudo, a dar a última palavra, mas sim Taylor, transformando em
-lema o “Abaixo a *flânerie*”.
-
-\*\* No personagem de Adolf Glassbrener, o ocioso se mostra como um
-rebento deplorável do cidadão. Nante não encontra qualquer motivo para
-se mexer. Ele se instala na rua, que obviamente não o conduzirá a
-parte alguma, tão confortavelmente, quanto o burguês tacanho entre
-suas quatro paredes.
 ao posicionamento íntimo do usuano. Pretende, como ele próprio
-confessa, iniciar seu visitante nos “princípios da arte de observar”,44\* que consiste na capacidade de se regozijar com quadros
-vivos, como se buscava fazer na época do *Biedermeier*.45 A
-interpretação se faz sob a forma de alíorismos edificantes.\*\* Esse
+confessa, iniciar seu visitante nos “princípios da arte de observar”,[^footnote44][^footnote*] 
+que consiste na capacidade de se regozijar com quadros
+vivos, como se buscava fazer na época do *Biedermeier*.[^footnote45] A
+interpretação se faz sob a forma de alíorismos edificantes.[^footnote**] Esse
 texto pode ser considerado como uma tentativa cuja realização começava a
 ter contornos. É claro, porém, que esta tentativa foi empreendida em
 Berlim sob condições que frustraram seu completo êxito. Se algum dia
@@ -4290,9 +4303,9 @@ correspondente. “Da última vez, andamos juntos algum tempo pelos
 bulevares. O esplendor, a vida destas ruas, únicas no gênero, me
 excitava à incansável admiração; em contrapartida, nessa ocasião,
 Heine acentuou, significativamente, o horror que se mesclava a este
-centro cosmopolita”.46
+centro cosmopolita”.[^footnote46]
 
-\*É notável como se chega a esta confissão. O primo estaria olhando –
+[^footnote*]: É notável como se chega a esta confissão. O primo estaria olhando –
 é o que sua visita pensa – o movimento lá embaixo, apenas porque tem
 prazer no jogo alternado das cores. A longo prazo, porém, isto deveria
 ser cansativo. Não muito mais tarde, provavelmente, e de forma
@@ -4309,7 +4322,7 @@ olhos do habitante das grandes cidades. Um quadro como a *Catedral
 de Chartres*, de Monet, que parece um formigueiro de pedras, poderia
 ilustrar esta suposição.
 
-\*\* Neste texto Hoffmann dedica considerações edificantes ao cego
+[^footnote**]: Neste texto Hoffmann dedica considerações edificantes ao cego
 (entre outras figuras), que mantém sua cabeça erguida em direção ao
 céu. Baudelaire, que conhecia este conto, extrai da observação de
 Hoffmann uma variante no verso último de *Os Cegos*, desmentindo sua
@@ -4329,7 +4342,7 @@ acurada visão da síndrome da “civilização”, assinala um fato pertinente.
 no estado de selvageria, isto é, de isolamento. A sensação de dependência em relação aos outros, outrora permanentemente estimulada
 pela necessidade, embota-se pouco a pouco no curso sem atritos do
 mecanismo social. Qualquer aperfeiçoamento deste mecanismo elimina
-certas formas de comportamento, certas emoções...”.47 O conforto
+certas formas de comportamento, certas emoções...”.[^footnote47] O conforto
 isola. Por outro lado, ele aproxima da mecanização os seus
 beneficiários. Com a invenção do fósforo, em meados do século passado,
 surge uma série de inovações que têm uma coisa em comum: disparar uma
@@ -4349,7 +4362,7 @@ estremecer em rápidas sequencias, como descargas de uma bateria.
 Baudelaire fala do homem que mergulha na multidão como em um tanque de
 energia elétrica. E, logo depois,
 descrevendo a experiência do choque, ele chama esse homem de “um
-caleidoscópio dotado de consciência”.48 Se, em Poe, os passantes
+caleidoscópio dotado de consciência”.[^footnote48] Se, em Poe, os passantes
 lançam olhares ainda aparentemente despropositados em todas as direções,
 os pedestres modernos são obrigados a fazê-lo para se orientar pelos
 sinais de trânsito. A técnica submeteu, assim, o sistema sensorial a um
@@ -4368,23 +4381,23 @@ formas de produção capitalista... – escreve Marx – têm em comum o fato
 de que não é o operário quem utiliza os meios de trabalho, mas, ao
 contrário, são os meios de trabalho que utilizam o operário; contudo,
 somente com as máquinas é que esta inversão adquire, tecnicamente, uma
-realidade concreta”.49 No trato com a máquina, os operários aprendem a
+realidade concreta”.[^footnote49] No trato com a máquina, os operários aprendem a
 coordenar seu “próprio movimento ao movimento uniforme, constante, de
-um autônomo”.50 Com estas palavras obtém-se uma compreensão mais nítida
+um autônomo”.[^footnote50] Com estas palavras obtém-se uma compreensão mais nítida
 acerca da natureza absurda da uniformidade com que Poe pretende
 estigmatizar a multidão. Uniformidade da indumentária, do
 comportamento e, não menos importante, a uniformidade dos gestos. O
 sorriso – exemplo a dar o que pensar. É, presumivelmente, o que está
 subentendido no hoje familiar *keep smiling*, que atua no caso como um
 amortecedor gestual. – “Todo trabalho com a máquina exige – é dito no
-texto acima – um adestramento prévio do operário”.51 Esse adestramento
+texto acima – um adestramento prévio do operário”.[^footnote51] Esse adestramento
 deve ser diferenciado da prática. Esta, decisiva apenas para o trabalho
 artesanal, ainda encontrava aplicação na manufatura. Com base na
 prática, “qualquer setor da produção encontra através da *experiência*
 uma forma técnica que lhe corresponda; e,
 
 *lentamente*, este setor a aperfeiçoa”. É certo que ele a cristaliza
-rapidamente, “tão logo seja alcançado certo grau de maturidade”.52 Por
+rapidamente, “tão logo seja alcançado certo grau de maturidade”.[^footnote52] Por
 outro lado, contudo, a mesma manufatura produz “em cada ofício de que se
 utiliza, uma classe dos chamados operários não especializados, que o
 funcionamento das corporações excluía rigorosamente. Quando a
@@ -4392,10 +4405,10 @@ manufatura eleva a especialização inteiramente limitada a uma única
 tarefa à categoria de virtuosismo às custas da capacidade total de
 trabalho, então começa a elevar a falta de qualquer formação à categoria
 de virtude. Paralelamente à ordem hierárquica, surge a divisão simples
-dos operários em especializa dos e não especializados”.53 O operário
+dos operários em especializa dos e não especializados”.[^footnote53] O operário
 não especializado é o mais profundamente degradado pelo
 condicionamento imposto pela máquina. Seu trabalho se torna alheio a
-qualquer experiência. Nele a prática não serve para nada.\* O que o
+qualquer experiência. Nele a prática não serve para nada.[^footnote*] O que o
 *Lunapark* realiza com seus brinquedos oscilantes, giratórios e
 diversões similares não é senão uma amostra do condicionamento a que
 se encontra submetido o operário não especializado na fábrica (uma
@@ -4408,17 +4421,17 @@ conseguissem se expressar de forma automática. Seu comportamento é uma
 reação a choques. “Se eram empurrados, cumprimentavam graves aqueles que
 os tinham empurrado e pareciam muito embaraçados”.
 
+[^footnote*]: Quanto mais curto é o tempo de adestramento do operário industrial,
+tanto mais longo é o dos militares. Talvez faça parte da preparação da
+sociedade para uma guerra total essa transferência do adestramento
+da produção para o da destruição.
+
 ## IX
 
 À vivência do choque, sentida pelo transeunte na multidão, corresponde a
 “vivência” do operário com a máquina. Isso ainda não nos permite supor
 que Poe possuísse uma noção do processo de trabalho industrial.
 Baudelaire, em todo caso, estava bem longe
-
-\* Quanto mais curto é o tempo de adestramento do operário industrial,
-tanto mais longo é o dos militares. Talvez faça parte da preparação da
-sociedade para uma guerra total essa transferência do adestramento
-da produção para o da destruição.
 de tal noção. Estava, porém, fascinado por um processo, em que o
 mecanismo reflexo e acionado no operário pela máquina pode ser examinado
 mais de perto no indivíduo ocioso, como em um espelho. Esse processo é
@@ -4429,7 +4442,7 @@ encerra em si o traço de que uma partida não depende de qualquer outra
 precedente... O jogo ignora totalmente qualquer posição conquistada.
 Méritos adquiridos anteriormente não são levados em consideração, e é
 nisto que o jogo se distingue do trabalho. O jogo... liquida rapidamente
-a importância do passado, sobre o qual se apoia o trabalho”.54 Ao
+a importância do passado, sobre o qual se apoia o trabalho”.[^footnote54] Ao
 dizer estas palavras, Alain tem em mente o trabalho altamente
 diferenciado (que pôde preservar certos traços do artesanal, da mesma
 forma que o trabalho intelectual); não é o mesmo dos operários de
@@ -4466,7 +4479,7 @@ memória.
 
 Não parece que Baudelaire fosse adepto do jogo, ainda que haja
 encontrado palavras de simpatia e até de homenagem para os que a ele se
-entregavam.55 O tema tratado por ele no poema noturno *O Jogo* foi
+entregavam.[^footnote55] O tema tratado por ele no poema noturno *O Jogo* foi
 previsto em sua visão do modernismo. Escrevê-lo constituía parte de
 sua tarefa. A figura do jogador se tornou, em Baudelaire, o verdadeiro
 complemento para a figura arcaica do gladiador. Para ele, tanto um como
@@ -4474,15 +4487,15 @@ o outro são figuras históricas. Börne viu através dos olhos de
 Baudelaire, quando escreveu: “Se reuníssemos toda a força e paixão... ,
 dissipadas a cada ano nas mesas de jogo da Europa... – seria isto
 suficiente para formar um povo romano e uma história romana? Mas é exatamente isto! Pois se cada homem nasce como um romano, a sociedade
-burguesa procura ‘desromanizá-lo’,56 e por esta razão foram introduzidos
+burguesa procura ‘desromanizá-lo’,[^footnote56] e por esta razão foram introduzidos
 os jogos de azar e de salão, os romances, a ópera italiana e os
-periódicos elegantes...”.57 A burguesia somente se tornou afeita ao
+periódicos elegantes...”.[^footnote57] A burguesia somente se tornou afeita ao
 jogo de azar no século XIX; no século anterior apenas a aristocracia
 jogava. O jogo fora propagado pelos exércitos napoleônicos e passou a
 fazer parte “dos espetáculos da vida mundana e dos milhares de
 existências desregradas, afeitas aos subterrâneos de uma cidade
 grande” – um espetáculo, em que Baudelaire pretende ver o heroico, “do
-modo como nossa época o encerra”.58
+modo como nossa época o encerra”.[^footnote58]
 
 Se examinamos o jogo de azar não tanto sob o ponto de vista técnico
 quanto pelo psicológico, então a concepção de Baudelaire se mostra ainda
@@ -4491,7 +4504,7 @@ mais significativa. O jogador parte do princípio do ganho – isso é o
 considerado como um desejo no verdadeiro sentido do termo. Talvez esteja
 imbuído de avidez, de uma determinação
 obscura. Em todo caso, ele não se encontra em condições de dar à
-experiência a devida importância.\* O desejo, ao contrário, pertence à
+experiência a devida importância.[^footnote*] O desejo, ao contrário, pertence à
 categoria da experiência. “Aquilo que desejamos na juventude,
 recebemos em abundância na idade madura”, escreveu Goethe. Na vida,
 quanto mais cedo alguém formular um desejo, tanto maior será a
@@ -4508,7 +4521,7 @@ estrela cadente. O tempo contido no instante em que a luz da estrela
 cadente cintila para uma pessoa é constituído da mesma matéria do
 tempo definido por Joubert, com a segurança que lhe é peculiar: “O tempo
 – escreve – se encontra mesmo na eternidade; mas não é o tempo terreno,
-secular... E um tempo que não destrói; aperfeiçoa, apenas”.59 E o
+secular... E um tempo que não destrói; aperfeiçoa, apenas”.[^footnote59] E o
 contrário daquele tempo infernal, em que transcorre a existência
 daqueles a quem nunca é permitido concluir o que foi começado. A má
 reputação do jogo de azar prende-se, na verdade, ao fato de que é o
@@ -4516,10 +4529,7 @@ próprio jogador quem dá as cartas. (Um frequentador incorrigível da
 Loteria não estará sujeito à mesma condenação como alguém que se
 dedique aos jogos de azar, em sentido restrito).
 
-O recomeçar sempre é a ideia regulativa do jogo (como a do trabalho
-assalariado) e adquire, por isso mesmo, o seu exato significado,
-
-\* O jogo invalida as ordens da experiência. Talvez seja uma obscura
+[^footnote*]: O jogo invalida as ordens da experiência. Talvez seja uma obscura
 sensação desse fato o que torna bem conhecida, justamente no ambiente
 de jogadores, o “apelo vulgar à experiência”. O jogador diz “meu
 número” como o libertino diz “meu tipo”. No final do Segundo Império
@@ -4530,14 +4540,17 @@ aposta. É uma forma de emprestar aos acontecimentos um caráter de
 choque, de subtraí-los do contexto da experiência. Para a burguesia,
 mesmo os acontecimentos políticos adquiriam facilmente a forma de
 eventos à mesa de jogo.
+
+O recomeçar sempre é a ideia regulativa do jogo (como a do trabalho
+assalariado) e adquire, por isso mesmo, o seu exato significado,
 quando, em Baudelaire, o ponteiro dos segundos – *la Seconde* – entra em
 cena como coadjuvante do jogador.
 
 “*Recorda*: o Tempo é sempre um jogador atento Que ganha, sem furtar,
-cada jogada! Éa lei”.60
+cada jogada! É a lei”.[^footnote60]
 
 Em um outro texto é o próprio Satã quem ocupa o lugar do ponteiro dos
-segundos imaginários.61 Aos seus domínios também pertence, sem dúvida
+segundos imaginários.[^footnote61] Aos seus domínios também pertence, sem dúvida
 alguma, o antro taciturno, para onde o poema *O Jogo* relega aqueles que
 sucumbiram ao jogo de azar.
 
@@ -4545,22 +4558,23 @@ sucumbiram ao jogo de azar.
 se desdobrando,
 
 Eu mesmo, posto a um canto do antro taciturno, Me vi, sombrio e mudo,
-imóvel, invejando, Invejando a essa gente a pertinaz paixão”.62
+imóvel, invejando, Invejando a essa gente a pertinaz paixão”.[^footnote62]
 
 O poeta não toma parte no jogo; está em seu canto, não mais feliz do que
 eles – os que estão jogando. Também ele é um homem espoliado em sua
 experiência – um homem moderno. Apenas recusa o entorpecente com que
 os jogadores procuram embotar o consciente, que os tornou vulneráveis à
-marcha do ponteiro dos segundos.\*
+marcha do ponteiro dos segundos.[^footnote*]
 
-\* O efeito entorpecente aqui tratado é cronologicamente especificado,
+[^footnote*]: O efeito entorpecente aqui tratado é cronologicamente especificado,
 da mesma forma que o sofrimento que ele deve aliviar. O tempo é o
 tecido no qual as fantasmagorias do jogo são urdidas. Gourdon escreve
 em seu *Les Faucheurs de éuit* (*Ceifeiros noturnos*): “Afirmo que a
 paixão pelo jogo é a mais nobre das paixões, pois reúne em si todas as
 outras. Uma sequencia de cartadas de sorte me proporciona mais
 prazer do que um homem que não joga pode ter em vários anos... Vocês
-acreditam que eu veja no ouro a que tenho direito apenas o lucro? Enganam-se. Vejo nele os prazeres que me proporciona e me delicio com
+acreditam que eu veja no ouro a que tenho direito apenas o lucro? 
+Enganam-se. Vejo nele os prazeres que me proporciona e me delicio com
 eles. Chegam-me por demais velozes para que possam me enfastiar e em
 variedade grande demais para me enfadar. Vivo cem vidas em uma única
 vida. Quando viajo, é da forma como viaja a centelha elétrica... Se
@@ -4578,7 +4592,7 @@ assunto de forma análoga.
 De quem se lança numa goela escancarada, E que, já farto de seu
 sangue, trocaria
 
-A morte pela dor e o inferno pelo nada!”63
+A morte pela dor e o inferno pelo nada!”[^footnote63]
 
 Nestes últimos versos Baudelaire faz da impaciência o substrato da
 paixão lúdica. Ele o encontrou em si próprio em sua condição mais
@@ -4599,7 +4613,7 @@ baudelairiana de Proust não abranja. “O tempo – escreve Proust – se
 desagregou em Baudelaire de uma forma surpreendente; apenas alguns
 poucos raros dias tomam forma; e são bem significativos. Isso nos faz
 compreender porque ele se utiliza com frequência de locuções do tipo
-‘uma noite, quando’ e outras análogas”.64 Estes dias significativos são
+‘uma noite, quando’ e outras análogas”.[^footnote64] Estes dias significativos são
 dias do tempo que aperfeiçoa, para citar Joubert. São dias do rememorar.
 Não são assinalados por qualquer vivência. Não têm qualquer associação
 com os demais; antes, se destacam do tempo. O que constitui seu teor,
@@ -4618,7 +4632,8 @@ pôde reconhecê-la como um desafio destinado a ele, exclusivamente, e que
 aceitou em *As Flores do Mal*. Se existe realmente uma arquitetura
 secreta neste livro – tantas foram as especulações em torno disto –,
 então o ciclo de poemas que inaugura a obra bem poderia estar dedicado
-a algo irremediavelmente perdido. Entram neste ciclo dois sonetos, idênticos em seus temas. O primeiro, intitulado *Correspondências*, começa
+a algo irremediavelmente perdido. Entram neste ciclo dois sonetos, 
+idênticos em seus temas. O primeiro, intitulado *Correspondências*, começa
 assim:
 
 “A Natureza é um templo onde vivos pilares Deixam filtrar não raro
@@ -4632,15 +4647,15 @@ unidade,
 
 Tão vasta quanto a noite e quanto a claridade,
 
-Os sons, as cores e os perfumes se harmonizam”.65
+Os sons, as cores e os perfumes se harmonizam”.[^footnote65]
 
 O significado que estas *correspondances* têm para Baudelaire pode ser
 definido como uma experiência que procura. se estabelecer ao abrigo de
 qualquer crise. E somente na esfera do culto ela é possível.. Transpondo
 este espaço, ela se apresenta como “o belo”. Neste, O valor cultual
-aparece como um valor da arte.\*
+aparece como um valor da arte.[^footnote*]
 
-\* O belo pode ser definido de dois modos: em suas relações com a
+[^footnote*]: O belo pode ser definido de dois modos: em suas relações com a
 história, e com a natureza. Em ambas, a aparência, o elemento
 problemático no belo, irá se impor. (A primeira relação será apenas
 esboçada. O belo é, segundo a sua existência *histórica*, um apelo à
@@ -4651,26 +4666,7 @@ o objeto idêntico buscado pela admiração não se encontra na obra. Esta
 admiração recolhe o que gerações anteriores admiraram na obra. Um
 pensamento de Goethe estabelece aqui a última conclusão de sabedoria:
 “Tudo aquilo que produziu grande efeito, na verdade não pode mais
-absolutamente ser julgado”.)
-
-As *correspondances* são os dados do “rememorar”. Não são dados
-históricos, mas da pré-história. Aquilo que dá grandeza e importância
-aos dias de festa é o encontro com uma vida anterior. Isto foi
-registrado por Baudelaire em um soneto intitulado *A Vida Anterior*. As
-imagens das grutas e das plantas, das nuvens e das ondas, evocadas no
-início deste segundo soneto, elevam-se da bruma quente das lágrimas de
-nostalgia. “O viandante olha estas vastidões envoltas em luto, e em seus
-olhos afloram lágrimas de histeria – *hysterical tears*”66 – escreve
-Baudelaire em sua introdução aos poemas de Marceline
-Desbordes-Valmore. Aqui não há correspondências simultâneas, como foram,
-cultivadas posteriormente pelos simbolistas. O passado murmura em
-sincronia nas correspondências baudelairianas, e a experiência canônica
-destas tem seu espaço numa vida anterior:
-
-“O mar, que do alto céu a imagem devolvia, Fundia em místicos e
-hieráticos rituais
-
-Em sua relação com a *natureza*, o belo pode ser definido como aquilo
+absolutamente ser julgado”.)Em sua relação com a *natureza*, o belo pode ser definido como aquilo
 que apenas “permanece essencialmente idêntico a si mesmo quando
 velado”. (Cf. *éeue deutsche Beiträge,* hrsg. von Hugo von
 Hofmannsthal, Munique, 1925, lI, 2, p. 161 ie. Benjamin, *Afinidades
@@ -4706,8 +4702,25 @@ vê ao alcance da mão o que, à melhor compreensão goethiana de Valéry,
 se apresenta como o “aqui”, onde o insuficiente se transforma em
 evento.
 
+As *correspondances* são os dados do “rememorar”. Não são dados
+históricos, mas da pré-história. Aquilo que dá grandeza e importância
+aos dias de festa é o encontro com uma vida anterior. Isto foi
+registrado por Baudelaire em um soneto intitulado *A Vida Anterior*. As
+imagens das grutas e das plantas, das nuvens e das ondas, evocadas no
+início deste segundo soneto, elevam-se da bruma quente das lágrimas de
+nostalgia. “O viandante olha estas vastidões envoltas em luto, e em seus
+olhos afloram lágrimas de histeria – *hysterical tears*”[^footnote66] – escreve
+Baudelaire em sua introdução aos poemas de Marceline
+Desbordes-Valmore. Aqui não há correspondências simultâneas, como foram,
+cultivadas posteriormente pelos simbolistas. O passado murmura em
+sincronia nas correspondências baudelairianas, e a experiência canônica
+destas tem seu espaço numa vida anterior:
+
+“O mar, que do alto céu a imagem devolvia, Fundia em místicos e
+hieráticos rituais
+
 As vibrações de seus acordes orquestrais À cor do poente que nos olhos
-meus ardia Ali foi que vivi...”.67
+meus ardia Ali foi que vivi...”.[^footnote67]
 
 Que a vontade restauradora de Proust permaneça cerrada nos limites da
 existência terrena, e que a de Baudelaire se projete para além deles,
@@ -4718,7 +4731,7 @@ ter-se resignado. O *Recolhimento* reproduz no céu profundo as
 alegorias dos anos passados,
 
 “... Vem ver curvarem-se os Anos passados nas varandas do céu, em
-trajes antiquados”.68
+trajes antiquados”.[^footnote68]
 
 Nesses versos Baudelaire se resigna a homenagear na forma do antiquado o
 imemorial que lhe escapou. Quando, no último volume de sua obra,
@@ -4730,7 +4743,7 @@ são decisivas, em minha opinião. Não existe outro como ele, que no odor
 de uma mulher, por exemplo, no perfume de seus cabelos e de seus seios,
 persiga – seletiva e, ao mesmo tempo, indolentemente – as
 correspondências inspiradas, que lhe evocam então ‘o azul do céu
-desmedido e abobadado’ ou ‘um porto repleto de chamas e mastros’”.69
+desmedido e abobadado’ ou ‘um porto repleto de chamas e mastros’”.[^footnote69]
 Estas palavras são uma epígrafe declarada à obra de Proust. Sua obra tem
 afinidades com a de Baudelaire que reuniu os dias de rememorar em um ano
 espiritual.
@@ -4741,12 +4754,11 @@ extraído poemas à ineficácia do mesmo lenitivo, à insuficiência do mesmo
 ardor, ao fracasso da mesma obra – poemas que nada ficam devendo
 àqueles em que as correspondances celebram suas festas. *Spleen e Idéal*
 é o primeiro dos ciclos de
-
 *As Flores do Mal*. O *idéal* insufla a força do rememorar; o *spleen*
 lhe opõe a turba dos segundos. Ele é seu soberano e senhor, como o
 demônio é o senhor das moscas. Na série de poesias-*spleen* encontra-se *O Gosto do éada*, em que se lê:
 
-“Perdeu a doce primavera o seu odor!”70
+“Perdeu a doce primavera o seu odor!”[^footnote70]
 
 Neste verso Baudelaire afirma algo extremo com extrema discrição; e
 isto o torna inconfundivelmente seu. O desmoronamento da experiência que
@@ -4764,44 +4776,21 @@ consolo para quem não pode mais fazer qualquer experiência. Porém não
 os homens indistintamente; ele não está mais em condições de discernir
 entre o amigo comprovado e o inimigo mortal. D’Aurevilly reconheceu com
 enorme perspicácia esta disposição em Baudelaire; “um Tímon com o
-gênio de Arquíloco”,71, 72 é como ele o chama. A ira, com seus arrebatamentos, marca o ritmo dos segundos, à mercê do qual se encontra o
+gênio de Arquíloco”,[^footnote71] [^footnote72] é como ele o chama. 
+A ira, com seus arrebatamentos, marca o ritmo dos segundos, à mercê do qual se encontra o
 melancólico.
 
 “O Tempo dia a dia os ossos me desfruta, Como a neve que um corpo
-enrija de torpor;”73
+enrija de torpor;”[^footnote73]
 
 Estes versos se seguem imediatamente aos citados acima. No *spleen*, o
 tempo está reificado; os minutos cobrem o homem como flocos de neve.
 Esse tempo é sem história, do mesmo modo que o da *mémoire
 involontaire*. No *spleen*, no entanto, a percepção do
 tempo está sobrenaturalmente aguçada; cada segundo encontra o consciente
-pronto para amortecer o seu choque.\*
+pronto para amortecer o seu choque.[^footnote*]
 
-A contagem do tempo, que sobrepõe à *durée* a sua uniformidade, não
-pode contudo evitar que nela persistam a existência de fragmentos
-desiguais e privilegiados. Legitimar a união de uma qualidade à medição
-da quantidade foi obra dos calendários que, por meio dos feriados, como
-que deixavam ao rememorar um espaço vago. O homem, para quem a
-experiência se perdeu, se sente banido do calendário. O habitante da
-cidade grande se depara com este sentimento nos domingos; Baudelaire o
-tem *avant la lettre* em um dos poemas-*spleen*.
-
-“Os sinos dobram, de repente, furibundos
-
-E lançam contra o céu um uivo horripilante, Como os espíritos sem
-pátria e vagabundos Que se põem a gemer com voz recalcitrante”.74
-
-Os sinos, que outrora anunciavam os dias festivos, foram excluídos do
-calendário, como os homens. Eles se assemelham às pobres almas que se
-agitam muito, mas não possuem nenhuma história. Se, no *spleen* e na
-*vida anterior*, Baudelaire ainda dispõe dos estilhaços da verdadeira
-experiência histórica, Bergson, por sua vez, em sua concepção da
-*durée*, se afastou consideravelmente da história. “O metafísico Bergson
-suprime a morte”.75 O fato de a morte ser eliminada da durée de Bergson
-isola a *durée* da ordem histórica (bem como de uma prérica). O conceito
-bergsoniano de
-
-\* No místico *Diálogo entre Monos e Una*, Poe como que reproduziu na
+[^footnote*]: No místico *Diálogo entre Monos e Una*, Poe como que reproduziu na
 *durée* o curso vazio do tempo, a que o sujeito está abandonado no
 *spleen*, e parece aceitar como beatitude que os medos do sujeito lhe
 tenham sido tomados. O “sexto sentido” de que é dotado o morto tem a
@@ -4819,10 +4808,32 @@ tique-taques me enchiam os ouvidos. Os mínimos desvios do ritmo
 certo... me afetavam, da mesma maneira que me afronta a violação da
 verdade abstrata entre os homens”. (Poe, op. cit., p. 624, p. 336s.)
 
-*action* tem a mesma corte. O “bom senso”, através do qual o “homem de
-ação” se distingue, serviu-lhe de padrinho.76 A *durée*, da qual a morte
+A contagem do tempo, que sobrepõe à *durée* a sua uniformidade, não
+pode contudo evitar que nela persistam a existência de fragmentos
+desiguais e privilegiados. Legitimar a união de uma qualidade à medição
+da quantidade foi obra dos calendários que, por meio dos feriados, como
+que deixavam ao rememorar um espaço vago. O homem, para quem a
+experiência se perdeu, se sente banido do calendário. O habitante da
+cidade grande se depara com este sentimento nos domingos; Baudelaire o
+tem *avant la lettre* em um dos poemas-*spleen*.
+
+“Os sinos dobram, de repente, furibundos
+
+E lançam contra o céu um uivo horripilante, Como os espíritos sem
+pátria e vagabundos Que se põem a gemer com voz recalcitrante”.[^footnote74]
+
+Os sinos, que outrora anunciavam os dias festivos, foram excluídos do
+calendário, como os homens. Eles se assemelham às pobres almas que se
+agitam muito, mas não possuem nenhuma história. Se, no *spleen* e na
+*vida anterior*, Baudelaire ainda dispõe dos estilhaços da verdadeira
+experiência histórica, Bergson, por sua vez, em sua concepção da
+*durée*, se afastou consideravelmente da história. “O metafísico Bergson
+suprime a morte”.[^footnote75] O fato de a morte ser eliminada da durée de Bergson
+isola a *durée* da ordem histórica (bem como de uma prérica). O conceito
+bergsoniano de *action* tem a mesma corte. O “bom senso”, através do qual o “homem de
+ação” se distingue, serviu-lhe de padrinho.[^footnote76] A *durée*, da qual a morte
 foi eliminada, tem a mísera eternidade de um arabesco; exclui a
-possibilidade de acolher a tradição.\* É a síntese de uma vivência que
+possibilidade de acolher a tradição.[^footnote*] É a síntese de uma vivência que
 se pavoneia nas vestes que toma emprestadas à experiência. O *spleen*,
 ao contrário, expõe a vivência em sua nudez. O melancólico vê,
 assombrado, a Terra de volta a um simples estado natural. Não a
@@ -4830,8 +4841,13 @@ envolve nenhum sopro de pré-história. Nenhuma aura. É assim que aparece
 nos versos de *O Gosto do éada*, que se acrescentam aos outros já
 citados.
 
+[^footnote*]: O declínio da experiência se manifesta em Proust no êxito completo
+do seu objetivo último. Nada mais hábil que o modo acidental, nada
+mais leal que o modo constante de procurar manter presente ao
+leitor: a redenção é a minha causa particular.
+
 “Contemplo do alto a terra esférica e sem cor, E nem procurou mais o
-abrigo de uma gruta”.77
+abrigo de uma gruta”.[^footnote77]
 
 ## XI
 
@@ -4845,27 +4861,22 @@ momento, em som e imagem, e se transformam assim em uma importante
 conquista para a sociedade, na qual o exercício se atrofia.
 
 A daguerreotipia possuía para Baudelaire alguma coisa de provocante e
-assustador; “surpreendente e cruel”,78 é como chama o seu encanto. Ele
+assustador; “surpreendente e cruel”,[^footnote78] é como chama o seu encanto. Ele
 pressentiu, portanto, a relação mencionada, embora certamente não a
 tenha aprofundado... Da mesma forma que sempre foi seu propósito
 reservar um lugar ao moderno, especialmente na arte, também com a
 fotografia pretendeu o mesmo. Toda vez que a sente ameaçadora, procura
-
-\* O declínio da experiência se manifesta em Proust no êxito completo
-do seu objetivo último. Nada mais hábil que o modo acidental, nada
-mais leal que o modo constante de procurar manter presente ao
-leitor: a redenção é a minha causa particular.
-responsabilizar por isso “a compreensão errada de seus progressos”,79
+responsabilizar por isso “a compreensão errada de seus progressos”,[^footnote79]
 admitindo, contudo, que esta compreensão errada era fomentada pela
 “estupidez da grande massa”. “Esta massa ansiava por um ideal que lhe
 fosse digno e correspondesse à sua natureza... Um deus vingativo
-ouviu-lhes as preces e Daguerre se tornou seu profeta”.80 Não
+ouviu-lhes as preces e Daguerre se tornou seu profeta”.[^footnote80] Não
 obstante, Baudelaire se esforçou por ter uma visão mais conciliadora.
 A fotografia pode se apoderar, sem ser molestada, das coisas
 transitórias, que têm o direito “a um lugar nos arquivos de nossa
 memória”, desde que se detenha ante os “domínios do abstrato, do
 imaginário”: ante o domínio da arte, onde só há espaço para aquilo “a
-que o homem entrega ao sua alma”.81 É difícil considerar o veredicto
+que o homem entrega ao sua alma”.[^footnote81] É difícil considerar o veredicto
 como uma sentença salomônica. A constante disponibilidade da lembrança
 voluntária, discursiva, favorecida pelas técnicas de reprodução, reduz o
 âmbito da imaginação. Esta talvez se defina como uma faculdade de
@@ -4878,56 +4889,51 @@ agradável ao olfato pelo tempo que se queira; não se pode esgotar esse
 perfume, que desperta em nós o desejo, e nenhuma lembrança, nenhum
 pensamento e nenhuma forma de comportamento desfaz seu efeito ou nos
 liberta do poder que ele exerce sobre nós. Quem se propõe fazer uma obra
-de arte, persegue o mesmo objetivo”.82 Com base nessas reflexões, uma
+de arte, persegue o mesmo objetivo”.[^footnote82] Com base nessas reflexões, uma
 pintura reproduziria em uma imagem o que os olhos não se fartam de
 ver. Aquilo com que o quadro satisfaria o desejo, que pode ser projetado
 retrospectivamente em sua origem, seria alguma coisa que alimenta
 continuamente esse desejo. O que separa a fotografia da pintura, e o
 motivo de não haver um princípio único e extensível de criação para
 ambas, está claro, portanto: para o olhar que não consegue se saciar ao
-ver uma pintura, uma fotografia significa, antes, o mesmo que o alimento para a fome ou a bebida para a sede.
+ver uma pintura, uma fotografia significa, antes, o mesmo que o alimento 
+para a fome ou a bebida para a sede.
 
 A crise que assim se delineia na reprodução artística pode ser vista
 como integrante de uma crise na própria percepção. – O que torna
 insaciável o prazer do belo é a imagem do mundo primitivo, que
 Baudelaire chama de velado por lágrimas de nostalgia. “Ó, fostes em
-idos tempos/minha irmã ou minha mulher”
-
--   esta confissão de Goethe é o tributo que o belo, como tal, pode
+idos tempos/minha irmã ou minha mulher” -  esta confissão de Goethe é o tributo que o belo, como tal, pode
 exigir. Enquanto a arte tiver em mira o belo e o “reproduzir”, mesmo
 que de maneira simples, fá-lo-á ascender das profundezas do tempo
-(como Fausto o faz com Helena).\* Na reprodução técnica isto não
+(como Fausto o faz com Helena).[^footnote*] Na reprodução técnica isto não
 mais se verifica. (Nela não há mais lugar para o belo.) No texto,
 onde constata a pobreza e a falta de profundidade nas imagens que
 a *mémoire volontaire* lhe oferece de Veneza, Proust escreve que,
 com a simples menção da palavra “Veneza”, esse mundo de imagens lhe
-teria parecido tão insípido como uma exposição de fotografias.83
+teria parecido tão insípido como uma exposição de fotografias.[^footnote83]
 Se consideramos que as imagens emergentes da *mémoire involontaire*
 se distinguem pela aura que possuem, então a fotografia tem um papel
-decisivo no fenômeno do “declínio da aura”. O que devia ser sentido como elemento inumano, mesmo mortal, por assim dizer, na
-daguerreotipia, era o olhar para dentro do aparelho (prolongadamente, aliás), já que o aparelho realmente registra a imagem
+decisivo no fenômeno do “declínio da aura”. O que devia ser sentido 
+como elemento inumano, mesmo mortal, por assim dizer, na
+daguerreotipia, era o olhar para dentro do aparelho (prolongadamente, aliás), 
+já que o aparelho realmente registra a imagem
 do homem sem lhe devolver o olhar. É, contudo, inerente ao olhar a
 expectativa de ser correspondido por quem o recebe. Onde essa
 expectativa é correspondida (e ela, no pensamento, tanto pode se
 ater a um olhar deliberado da atenção como a um olhar na simples
 acepção da palavra), aí cabe ao olhar a experiência da aura, em
 toda a sua plenitude. “A perceptibilidade é uma atenção”, afirma
-Novalis.84 E essa perceptibilidade a que se refere não é outra senão
+Novalis.[^footnote84] E essa perceptibilidade a que se refere não é outra senão
 a da aura. A experiência da aura se baseia, portanto, na
 transferência de uma forma de reação comum na sociedade humana à
 relação do inanimado ou da natureza com o homem. Quem é visto, ou
 acredita estar sendo visto, revida o olhar. Perceber a aura de uma
-coisa significa investi-la do
-
--   O momento em que isto sucede, por sua vez, não mais se repete. O
-alçado arquitetônico da obra de Proust se baseia nisso: cada uma
-das situações, nas quais o cronista é bafejado com o hálito do
-tempo perdido, se torna, por isso, incomparável e destacada da
-sequencia do tempo.
-poder de revidar o olhar.\* Os achados da *mémoire involontaire*
+coisa significa investi-la do 
+poder de revidar o olhar.[^footnote**] Os achados da *mémoire involontaire*
 confirmam isso. (E não se repetem, de resto: escapam da lembrança, que
 procura incorporá-los. Com isto elas corroboram um conceito de aura, que
-a concebe com o “fenômeno irrepetível de uma distância”.85 Esta
+a concebe com o “fenômeno irrepetível de uma distância”.[^footnote85] Esta
 definição tem a vantagem de tornar transparente o caráter cultual do
 fenômeno. O que é essencialmente distância é inacessível em sua
 essência: de fato, a inacessibilidade é uma qualidade fundamental da
@@ -4938,20 +4944,25 @@ mistérios sentem-se lisonjeados pela ideia de que alguma coisa dos
 olhares lançados sobre os objetos, neles permaneça”. (Talvez exatamente
 a capacidade de retribuí-los). “Eles acreditam que os monumentos e os
 quadros se mostrem apenas sob o tênue véu tecido à sua volta no decorrer
-dos séculos pelo amor e pela devoção de tantos admiradores. Esta quimera – conclui Proust evasivo – transformar-se-ia em verdade, se eles a
+dos séculos pelo amor e pela devoção de tantos admiradores. Esta quimera – 
+conclui Proust evasivo – transformar-se-ia em verdade, se eles a
 relacionassem com a única realidade existente para o indivíduo, a saber:
-o mundo de sua sensibilidade”.86 Análoga, mas de maior alcance, por ser
+o mundo de sua sensibilidade”.[^footnote86] Análoga, mas de maior alcance, por ser
 orientada objetivamente, é a definição da percepção no sonho, de
 Valéry, como uma percepção da aura. “Quando digo: vejo isto aqui, com
 isto não foi estabelecida qualquer equação entre mim e a coisa... No
 sonho, ao contrário, existe uma equação. As coisas que vejo, me veem
-tanto quanto eu as vejo”.87 A natureza dos templos é exatamente a mesma
+tanto quanto eu as vejo”.[^footnote87] A natureza dos templos é exatamente a mesma
 da percepção onírica, a que se refere o poeta:
 
-“O homem o cruza em meio a um bosque de segredos Que ali o espreitam
-com seus olhos familiares”.88
+[^footnote*] O momento em que isto sucede, 
+por sua vez, não mais se repete. O
+alçado arquitetônico da obra de Proust se baseia nisso: cada uma
+das situações, nas quais o cronista é bafejado com o hálito do
+tempo perdido, se torna, por isso, incomparável e destacada da
+sequencia do tempo.
 
--   Essa investidura é um manancial da poesia. Quando o homem, o animal
+[^footnote**]: Essa investidura é um manancial da poesia. Quando o homem, o animal
 ou um ser inanimado, investido assim pelo poeta, ergue o olhar,
 lança-o na distância; o olhar da natureza, assim despertado, sonha e
 arrasta o poeta à cata do seu sonho. As palavras também podem ter
@@ -4959,6 +4970,10 @@ sua aura. Karl Kraus a descreveu assim: “Quanto mais de perto se
 olha uma palavra, tanto maior a distância donde ela lança de volta o
 seu olhar”. (Karl Kraus. *Prodomo et mundo*, Munique, 1912,
 Ausgewählte Schriften. 4.°. p. 164.)
+
+
+“O homem o cruza em meio a um bosque de segredos Que ali o espreitam
+com seus olhos familiares”.[^footnote88]
 
 Quanto mais consciente disso foi Baudelaire, tanto maior a segurança
 com que inscreveu em sua obra poética o declínio da aura. Isto aconteceu
@@ -4971,7 +4986,6 @@ olhar. Como tal, porém, são dotados de um encanto que provê grande
 parte, senão a maioria das necessidades de seus instintos. Fascinado por
 esses olhos, o sexo, em Baudelaire, se dissociou de Eros. Se os versos
 de Goethe em *Ânsia bem-aventurada*
-
 “Nenhuma distância te impede De vir voando, fascinado”,
 são válidos para a descrição clássica *do* amor, saturado com a
 experiência da aura, então dificilmente haverá na poesia lírica versos
@@ -4986,7 +5000,7 @@ E mais ainda te adoro quanto mais te ausentas
 E quanto mais pareces, no ermo que ornamentas, Multiplicar irônica as
 celestes léguas
 
-Que me separam das imensidões sem trégua”.89
+Que me separam das imensidões sem trégua”.[^footnote89]
 
 Um olhar poderia ter efeito tanto mais fascinante quanto mais profunda
 fosse a distância daquele que olha e que foi superada nesse olhar. Esta
@@ -4994,11 +5008,11 @@ distância continua intacta nos olhos que refletem o olhar como um
 espelho. Estes olhos, por isso mesmo, nada conhecem da distância.
 Baudelaire incorporou sua brilhantez polida a verso engenhoso:
 
-Mergulha os olhos nos olhos fixos Das Satiresas ou das Nixes.90
+Mergulha os olhos nos olhos fixos Das Satiresas ou das Nixes.[^footnote90]
 
 Satiresas e náiades não mais pertencem à família humana. Encontram-se
 à parte. Baudelaire introduziu na poesia, de forma memorável, o olhar
-carregado de distância como um olhar familiar.91 Ele, que não constituiu
+carregado de distância como um olhar familiar.[^footnote91] Ele, que não constituiu
 família, dotou a palavra familiar de uma textura impregnada de promessas
 e renúncias. Caiu presa de olhos desprovidos de olhar e se abandona, sem
 ilusões, à sua mercê.
@@ -5006,19 +5020,19 @@ ilusões, à sua mercê.
 “Teus olhos, cuja luz recorda a dos lampejos E dos rútilos teixos que
 ardem nos festejos,
 
-Exibem arrogantes uma vã nobreza”.92
+Exibem arrogantes uma vã nobreza”.[^footnote92]
 
 “A estupidez – escreve Baudelaire em uma de suas primeiras publicações
 – é frequentemente um ornamento da beleza. E graças a ela que os olhos
 são tristes e translúcidos corno pântanos sombrios, ou têm a calma
-untuosa dos mares tropicais”.93 Se esses olhos ganham vida, então é a
+untuosa dos mares tropicais”.[^footnote93] Se esses olhos ganham vida, então é a
 vida da fera espreitando a presa e, simultaneamente, acautelando-se.
 (Assim também a prostituta, espiando os transeuntes e, ao mesmo tempo,
 vigilante devido à polícia. O tipo fisionômico produzido por este modo
 de vida, Baudelaire o reencontrou nos numerosos desenhos consagrados
 por Guys às prostitutas. “Ela fixa os olhos no horizonte, corno a fera;
 eles têm a inquietude da fera... e, às vezes, também a espreita tensa e
-brusca”.94) E evidente que o olho do habitante das metrópoles está
+brusca”.[^footnote94]) E evidente que o olho do habitante das metrópoles está
 sobrecarregado com funções de segurança. Simmel faz referência a um
 outro aspecto desgastante, porém menos evidente. “Quem vê sem ouvir, é
 muito mais... inquieto do que quem ouve sem ver. Eis aí algo
@@ -5028,7 +5042,7 @@ atividade da visão sobre a audição. O principal motivo para tal são os
 meios de transporte públicos. Antes da invenção dos ônibus, trens e
 bondes no século XIX, as pessoas não haviam chegado ao ponto de serem
 obrigadas a se olharem mutuamente, por longos minutos ou mesmo horas,
-sem se dirigirem a palavra”.95
+sem se dirigirem a palavra”.[^footnote95]
 
 O olhar prudente prescinde do sonho que divaga no longínquo, podendo
 chegar a sentir algo corno prazer na sua degradação. A curiosa citação
@@ -5042,7 +5056,7 @@ habilmente em trágica concisão, os meus mais caros sonhos. Estas coisas,
 porquanto absolutamente falsas, estão por isso mesmo infinitamente mais
 próximas da verdade; nossos pintores paisagistas, ao contrário, são em
 sua grande maioria mentirosos, justamente porque descuidaram de
-mentir”,96 Tendemos a dar menos valor à “ilusão útil” do que à
+mentir”,[^footnote96] Tendemos a dar menos valor à “ilusão útil” do que à
 “concisão *trágica*”. Baudelaire insiste no fascínio da distância, e
 avalia uma paisagem diretamente pelo padrão das pinturas expostas nas
 barracas das feiras. Pretenderia ele ver violado o fascínio da
@@ -5051,7 +5065,7 @@ aproxima demais de um cenário? O motivo foi tratado em um dos mais
 bonitos versos de *As Flores do mal*:
 
 “Vaporoso, o Prazer fugirá no horizonte Como uma sílfide por trás dos
-bastidores,”97
+bastidores,”[^footnote97]
 
 ## XII
 
@@ -5064,11 +5078,11 @@ seus temas considerados na presente análise colocam em questão a
 possibilidade mesma de uma poesia lírica. Estes três fatos determinam
 Baudelaire historicamente. Eles mostram com que firmeza Baudelaire
 assumia sua causa. Estava plenamente cônscio de sua missão. E de tal
-modo que designou como sua meta “criar um padrão”,98 E via nisso a
+modo que designou como sua meta “criar um padrão”,[^footnote98] E via nisso a
 condição para todo e qualquer lírico futuro. Tinha pouco apreço por
 aqueles que não se mostravam à altura dela. “Tomais caldo de ambrosia?
 Comeis costeletas de Paros? Quanto se paga por uma lira na casa de
-penhores?”99 O lírico de auréola tornou-se antiquado para Baudelaire.
+penhores?”[^footnote99] O lírico de auréola tornou-se antiquado para Baudelaire.
 
 Reservou-lhe o lugar de figurante em uma prosa intitulada *Perda da
 Auréola*. Só mais tarde o texto se tornou conhecido. Por ocasião da
@@ -5094,21 +5108,22 @@ bem aqui. Apenas o senhor me reconheceu. De resto, entedia-me a
 dignidade. Além disso apraz-me o pensamento que um mau poeta qualquer a
 apanhará e se enfeitará com ela, sem nenhum pudor. Fazer alguém ditoso
 – que felicidade! Sobretudo alguém que me fará rir! Imagine X ou Y!
-Não, isto será burlesco!”100 O mesmo motivo se encontra nos diários,
+Não, isto será burlesco!”[^footnote100] O mesmo motivo se encontra nos diários,
 com um final divergente. O poeta retoma rapidamente a auréola. Então,
 porém, o inquieta a sensação de que o incidente seja um mau
-presságio.101\*
+presságio.[^footnote101][^footnote*]
 
-O autor desses escritos não é um *flâneur*. Eles registram ironicamente as mesmas experiências que, de passagem e sem qualquer
+[^footnote*]: É bem possível que o motivo para esta prosa tenha sido um choque
+patogênico. Tanto mais reveladora é a forma que o relaciona à obra de
+Baudelaire.
+
+O autor desses escritos não é um *flâneur*. Eles registram ironicamente 
+as mesmas experiências que, de passagem e sem qualquer
 acabamento, Baudelaire confia à frase: “Perdido neste mundo vil,
 *acotovelado pelas multidões*, sou como o homem fatigado cujos olhos não
 veem no passado, na profundidade dos anos nada
-
-\* É bem possível que o motivo para esta prosa tenha sido um choque
-patogênico. Tanto mais reveladora é a forma que o relaciona à obra de
-Baudelaire.
 além do desengano e da amargura, e, à sua frente, senão a tempestade,
-onde não está contido nada de novo, nem ensinamentos nem dores”.102 Ser
+onde não está contido nada de novo, nem ensinamentos nem dores”.[^footnote102] Ser
 objeto dos encontrões da multidão: Baudelaire assinala esta experiência,
 entre todas as outras que fizeram de sua vida aquilo que ela foi, como o
 critério verdadeiro e insubstituível. Para ele havia se apagado a
@@ -5117,29 +5132,28 @@ quem o *flâneur* havia se deslumbrado. Para imprimir em si sua vileza,
 ele não perde de vista o dia em que até mesmo as mulheres perdidas, as
 rejeitadas, chegarão ao ponto de ditar preceitos à vida regrada, de
 condenar a libertinagem e não deixar subsistir nada além do dinheiro.
-Traído por esses seus últimos aliados, Baudelaire se volta contra a multidão; e o faz com a fúria impotente de quem luta contra a chuva e o
+Traído por esses seus últimos aliados, Baudelaire se volta contra a multidão; 
+e o faz com a fúria impotente de quem luta contra a chuva e o
 vento. Tal é a natureza da vivência que Baudelaire pretendeu elevar à
 categoria de verdadeira experiência. Ele determinou o preço que é
 preciso pagar para adquirir a sensação do moderno: a desintegração da
 aura na vivência do choque. A conivência com esta destruição lhe saiu
 cara. Mas é a lei de sua poesia que paira no céu do Segundo Império como
-“um astro sem atmosfera”.103
+“um astro sem atmosfera”.[^footnote103]
 
-#### (otas
-
-1.  Charles Baudelaire, *As Flores do Mal*, trad. Ivan Junqueira, Rio de
+[^footnote1]: Charles Baudelaire, *As Flores do Mal*, trad. Ivan Junqueira, Rio de
 Janeiro, Nova Fronteira, 1985, 2. edição, p. 100. (Os poemas de
 *As Flores do Mal* foram extraídos desta edição; doravante só serão
 indicados os números das páginas.) (N. do T.)
 
-2.  O *Buch der Lieder* (Livro de Canções) de Heinrich Heine (179771856)
+[^footnote2]: O *Buch der Lieder* (Livro de Canções) de Heinrich Heine (179771856)
 foi um dos maiores sucessos literários de todos os tempos e uma das
 mais lidas coletâneas de poesia lírica do século XIX. Foi editado
 doze vezes, antes da morte de Heine, e muitas de suas poesias foram
 eternizadas por composições de Schubert, Schumann, Mendelssohn,
 Brahms e Hugo Wolf. (N. do T.)
 
-3.  Possivelmente, Benjamin enganou-se a respeito de Jung. Diz Gerhard
+[^footnote3]: Possivelmente, Benjamin enganou-se a respeito de Jung. Diz Gerhard
 Wehr em sua biografia de Jung: “... Em 1946, apareceu o volume
 *Aufsätze zur Zeitgeschichte* (Temas para a História
 Contemporânea), de grande importância para a avaliação pessoal de
