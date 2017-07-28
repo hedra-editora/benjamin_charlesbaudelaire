@@ -1480,32 +1480,21 @@ causa da incontável multidão ao seu redor. Se tivessem de parar no meio
 do caminho, repentinamente paravam de murmurar, mas sua gesticulação
 ficava mais veemente, e esperavam – um sorriso forçado – até que as
 pessoas em seu caminho se desviassem. Se eram empurradas, cumprimentavam as pessoas que as tinham empurrado e pareciam muito
-embaraçadas.[^footnote45] \* Poder-se-ia pensar que se está falando de indivíduos
+embaraçadas.[^footnote45][^footnote*] Poder-se-ia pensar que se está falando de indivíduos
 empobrecidos e semi-embriagados. Na verdade, trata-se de “gente de boa
 posição, negociantes, bacharéis de especuladores da Bolsa”.[^footnote46] Algo
-diverso de uma psicologia de classes está aqui em jogo.\*\*
+diverso de uma psicologia de classes está aqui em jogo.[^footnote**]
 
-Há uma litografia de Senefelder que representa uma casa de jogo. Nenhum
-dos retratados acompanha o jogo da maneira habitual. Cada um está
-possuído por seu afeto: um, por uma alegria irreprimida; outro, pela
-desconfiança em relação ao parceiro; um terceiro, por um surdo
-desespero; um quarto, por sua mania de
-
-\* Em *Um Dia de Chuva* se encontra um paralelo para essa passagem.
+[^footnote*]: Em *Um Dia de Chuva* se encontra um paralelo para essa passagem.
 Embora assinado por outra mão, deve-se atribuir o poema a Baudelaire
 (cf. Charles Baudelaire, *Vers retrouvés*, Paris, Ed. Mouquet, 1929).
 A analogia dos últimos versos com a referência de Poe a Tertuliano,
 é tanto mais notável quando se sabe que Baudelaire os escreveu o mais
-tardar em 1843, época em que nada sabia a respeito de Poe.
+tardar em 1843, época em que nada sabia a respeito de Poe. “Cada um, nos acotovelando sobre a calçada escorregadia,/ Egoísta e
+brutal, passa e nos enlameia,/ Ou, para correr mais rápido, distanciando-se nos empurra./ Em toda a parte, lama, dilúvio, escuridão do céu,/
+Quadro com que teria sonhado o negro Ezequiel.” (I, p. 211).
 
-“Cada um, nos acotovelando sobre a calçada escorregadia, Egoísta e
-brutal, passa e nos enlameia,
-
-Ou, para correr mais rápido, distanciando-se nos empurra. Em toda a
-parte, lama, dilúvio, escuridão do céu.
-quadro com que teria sonhado o negro Ezequiel.” (I, p. 211)
-
-\*\* A imagem da América que Marx trazia dentro de si parece ser feita
+[^footnote**]: A imagem da América que Marx trazia dentro de si parece ser feita
 do mesmo material que a descrição de Poe. Ele destaca “o movimento
 jovem e febril da produção material” nos Estados Unidos e o
 responsabiliza pelo fato de que “não tenha havido nem tempo nem oportunidade de suprimir o velho mundo espiritual” (Karl Marx, *O 18
@@ -1515,6 +1504,12 @@ Baudelaire descreve como, ao anoitecer, “...demônios insepultos no
 ócio/acordam do estupor, como homens de negócio...” (p. 351). Talvez
 esse trecho de *O Crepúsculo Vespertino* tenha sido influenciado
 pelo texto de Poe.
+
+Há uma litografia de Senefelder que representa uma casa de jogo. Nenhum
+dos retratados acompanha o jogo da maneira habitual. Cada um está
+possuído por seu afeto: um, por uma alegria irreprimida; outro, pela
+desconfiança em relação ao parceiro; um terceiro, por um surdo
+desespero; um quarto, por sua mania de
 discutir; outro, ainda, se prepara para deixar este mundo. Essa gravura recorda Poe pela sua extravagância. Sem dúvida, a censura de Poe é
 maior, e a ela correspondem os meios de que se utiliza. Seu traço
 magistral nessa descrição consiste em expressar o isolamento
@@ -1607,23 +1602,17 @@ nada dele; não sentem nenhuma empatia por ele. Aquilo que fala nas
 frases desse importante texto em prosa, *As Multidões*, é o próprio
 fetiche. Com ele a sensibilidade de Baudelaire vibra em tão perfeita
 ressonância que a empatia com o inorgânico se tornou uma das fontes de
-sua inspiração.\*
+sua inspiração.[^footnote*]
 
-\* O segundo poema da série intitulada *Spleen* aparece como
+[^footnote*]: O segundo poema da série intitulada *Spleen* aparece como
 complemento importantíssimo para as provas reunidas na primeira
 parte desse ensaio. Dificilmente, antes de Baudelaire, algum poeta
 terá escrito um verso que corresponda a “sou como um camarim onde há
 rosas fanadas”. O poema está totalmente voltado para a empatia com uma
 matéria que está morta em duplo sentido: é a matéria inorgânica e,
-ademais, está excluída do processo de circulação .
-
-“– Doravante hás de ser, ó pobre e humano escombro! Um granito
-açoitado por ondas de assombro,
-
-A dormir nos confins de um Saara brumoso; Uma esfinge que o mundo
-ignora, descuidoso, Esquecida no mapa, e cujo áspero humor
-
-Canta apenas aos raios do Sol a se pôr”. (pp. 293-4)
+ademais, está excluída do processo de circulação. “– Doravante hás de ser, ó pobre e humano escombro!/ Um granito
+açoitado por ondas de assombro,/ A dormir nos confins de um Saara brumoso;/ Uma esfinge que o mundo
+ignora, descuidoso,/ Esquecida no mapa, e cujo áspero humor/ Canta apenas aos raios do Sol a se pôr” (pp. 293-4).
 
 A imagem da esfinge com que se fecha o poema tem a beleza sombria dos
 artigos sem saída que ainda são encontrados nas galerias.
@@ -1763,7 +1752,7 @@ mas também com a obscuridade indispensável o que só se revelou obscuro
 e indistinto.[^footnote62] Um dos três poemas de *Quadros Parisienses* dedicados a
 Victor Hugo começa com uma invocação à cidade superpovoada – “Cidade a
 fervilhar, cheia de sonhos...”[^footnote63]; outro persegue as velhinhas no “ébrio
-cenário”[^footnote64] da cidade através da multidão.\* A multidão é um objeto
+cenário”[^footnote64] da cidade através da multidão.[^footnote*] A multidão é um objeto
 novo na poesia lírica. Em honra do inovador Sainte-Beuve, ainda se considerava 
 conveniente e apropriado a um poeta dizer “a multidão é
 insuportável”.[^footnote65] Durante seu exílio em Jersey, Hugo trouxe esse objeto
@@ -1774,7 +1763,7 @@ modelo é o oceano a quebrar-se contra as rochas, e o pensador que
 reflete sobre esse espetáculo é o verdadeiro investigador da multidão,
 na qual se perde como no rumor do mar.
 
-\* No ciclo *As Velhinhas*, o terceiro poema sublinha essa rivalidade
+[^footnote*]: No ciclo *As Velhinhas*, o terceiro poema sublinha essa rivalidade
 através de um apoio verbal no terceiro poema da série hugoana
 Fantasmas. Assim, uma das mais perfeitas poesias de Baudelaire fica
 correspondendo a uma das mais fracas que Hugo jamais escreveu.
@@ -1918,12 +1907,10 @@ debate da Câmara do dia 25 de novembro de 1848, Hugo havia vociferado
 contra a bárbara repressão de Cavaignac à Revolta de Junho. Mas, em 20
 de junho, no debate sobre os *ateliers nationaux*,[^footnote75] ele cunhara a
 seguinte frase: “A monarquia tem seus ociosos; a república, seus
-vagabundos”.\* Coexistem em Hugo o reflexo da opinião
+vagabundos”.[^footnote*] Coexistem em Hugo o reflexo da opinião
 
-\* Pélin, um representante típico da baixa boêmia, escreveu em sua
-folha, *Lesboulets rouges*. *Feuille*
-
-*du club pacifique des droits de l’homme*, a respeito desse discurso:
+[^footnote*]: Pélin, um representante típico da baixa boêmia, escreveu em sua
+folha, *Lesboulets rouges*. *Feuille du club pacifique des droits de l’homme*, a respeito desse discurso:
 “O *citoyen* Hugo debutou na Assembleia Nacional. Como era esperado,
 revelou-se como declamador, gesticulador e herói da frase; perseverando 
 em seu último mural, de teor pérfido e calunioso, falou dos
@@ -1936,6 +1923,7 @@ duas ou três ocasiões, quando a política não tinha nenhum valor”.
 (Eugène Spuller, *Histoire parlamentaire de la Seconde République
 suivie d’une petite histoire du Second Empire*, Paris, 1891, p. 111,
 266.)
+
 superficial do presente e da mais crédula opinião acerca do futuro junto
 ao profundo pressentimento da vida a se formar no seio da natureza e do
 povo. Hugo jamais conseguiu uma mediação entre esses dois termos; não a
@@ -1977,8 +1965,6 @@ Victor Hugo festeja a massa como a heroína numa epopeia moderna,
 Baudelaire espreita um refúgio para o herói na massa da cidade grande.
 Como *citoyen*, Hugo se transplanta para a multidão; como herói,
 Baudelaire se afasta.
-
-#### (otas
 
 [^footnote1]: Grande tela circular e contínua, pintada de maneira enganosa sobre
 as paredes de uma rotunda iluminada por cima e que representa uma
