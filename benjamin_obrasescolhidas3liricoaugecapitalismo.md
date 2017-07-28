@@ -2191,19 +2191,19 @@ o início, uma intercede pela outra. “A força de vontade – escreve em
 *Salão de 1845* – deve ser de fato um dom precioso e obviamente nunca há
 de ser empregada em vão, pois é suficiente para dar um toque
 inconfundível a obras de segunda categoria. O espectador saboreia o
-esforço; sorve o suor”. l Em *Conselhos aos Jovens Literatos*, do ano
+esforço; sorve o suor”.[^footnote1] Em *Conselhos aos Jovens Literatos*, do ano
 seguinte, encontramos a bela formulação segundo a qual “a contemplação
-obstinada da obra de amanhã”2 é a garantia da inspiração. Baudelaire
-conhece a “indolência natural dos inspirados”3; Musset nunca teria
+obstinada da obra de amanhã”[^footnote2] é a garantia da inspiração. Baudelaire
+conhece a “indolência natural dos inspirados”;[^footnote3] Musset nunca teria
 entendido quanto trabalho se requer para “fazer com que de uma fantasia
-nasça uma obra de arte”.4 Baudelaire, ao contrário, desde o primeiro
+nasça uma obra de arte”.[^footnote4] Baudelaire, ao contrário, desde o primeiro
 momento surge diante do público com um código próprio, com preceitos e
 tabus próprios. Barres quer “reconhecer em cada ínfimo vocábulo
 baudelairiano o rastro dos esforços que o ajudaram a alcançar tamanha
-grandeza”.5 “Mesmo em suas crises nervosas – escreve Gourmont – Baudelaire conserva algo de sadio”.6 A
+grandeza”.[^footnote5] “Mesmo em suas crises nervosas – escreve Gourmont – Baudelaire conserva algo de sadio”.[^footnote6] A
 formulação mais feliz, porém, é a do simbolista Gustave Kahn ao dizer
 que “em Baudelaire, o trabalho literário era semelhante a um esforço
-físico”.7 A prova disso deve ser encontrada em sua própria obra, a
+físico”.[^footnote7] A prova disso deve ser encontrada em sua própria obra, a
 saber, numa metáfora que merece um exame mais detalhado.
 
 É a metáfora do esgrimista. Nela Baudelaire gostava de apresentar como
@@ -2212,13 +2212,13 @@ era muito apegado, visita-o numa hora em que os outros dormem: “Ei-lo
 curvado sobre a mesa, fitando a folha de papel com a mesma acuidade com
 que, durante o dia, espreita as coisas à sua volta; esgrimindo com seu
 lápis, sua pena, seu pincel; deixando a água do seu copo respingar o
-teto, enxugando8 a pena em sua camisa; perseguindo o trabalho rápido e
+teto, enxugando[^footnote8] a pena em sua camisa; perseguindo o trabalho rápido e
 impetuoso, como se temesse que as imagens lhe fugissem. E assim ele
-luta, mesmo sozinho, e apara seus próprios golpes”.9 Envolvido nessa
+luta, mesmo sozinho, e apara seus próprios golpes”.[^footnote9] Envolvido nessa
 “estranha esgrima” Baudelaire se retratou na estrofe inicial de *O Sol*,
 talvez a única passagem de *As Flores do Mal* que o mostra no trabalho
 poético. O duelo em que todo o artista se envolve e no qual “antes de
-ser vencido, solta um grito de terror”10 está compreendido na moldura de
+ser vencido, solta um grito de terror”[^footnote10] está compreendido na moldura de
 um idílio; sua violência passa a segundo plano, e permite a seu charme
 aparecer.
 
@@ -2228,7 +2228,7 @@ cidade e o campo, os tetos e os trigais, Exercerei a sós a minha
 estranha esgrima, Buscando em cada canto os acasos da rima, Tropeçando
 em palavras como nas calçadas,
 
-Topando imagens desde há muito já sonhadas”.11
+Topando imagens desde há muito já sonhadas”.[^footnote11]
 
 Um dos propósitos perseguidos por Baudelaire em *Spleen de Paris*, seus
 poemas em prosa, foi render justiça também na prosa a essas experiências
@@ -2241,7 +2241,7 @@ rima; bastante flexível e resistente para se adaptar às emoções líricas
 da alma, às ondulações do devaneio, aos choques da consciência. Esse
 ideal, que se pode tornar ideia fixa, se apossará sobretudo, daquele
 que, nas cidades gigantescas, está afeito à trama de suas inúmeras
-relações entrecortantes”.12
+relações entrecortantes”.[^footnote12]
 
 Se quisermos tornar presente esse ritmo e investigar essa maneira de
 trabalhar, verificaremos que o *flâneur* de Baudelaire não é um
@@ -2250,7 +2250,7 @@ importante do Baudelaire real – ou seja, daquele que se entrega à sua
 obra – não entrou nessa imagem. Trata-se da distração. – No *flâneur*,
 o desejo de ver festeja o seu triunfo. Ele pode concentrar-se na
 observação – disso resulta o detetive amador; pode se estagnar na
-estupefação – nesse caso o *flâneur* se torna um basbaque.\* As
+estupefação – nesse caso o *flâneur* se torna um basbaque.[^footnote*] As
 descrições reveladoras da cidade grande não se originam nem de um nem
 de outro; procedem daqueles que, por assim dizer, atravessaram a cidade
 distraídos, perdidos em pensamentos ou preocupações. É a eles que faz
@@ -2265,8 +2265,11 @@ preocupava mais que o resto... No escuro ficava sob os lampiões de
 Holborn e em Charing Cross padecia o martírio”. “Não aspirava a observar
 como fazem os pedantes; não olhava Charing Cross para se instruir não
 contava os lampiões de
+Holborn para aprender aritmética... Dickens não recolhia em seu espírito
+a impressão das coisas; seria mais exato dizer que era ele quem imprimia
+o seu espírito nas coisas”.[^footnote13]
 
-\* “Não se deve confundir o *flâneur* com o basbaque; existe aí uma
+[^footnote*]: “Não se deve confundir o *flâneur* com o basbaque; existe aí uma
 nuance a considerar... O simples *flâneur* está sempre em plena posse
 de sua individualidade; a do basbaque, ao contrário, desaparece. Foi
 absorvida pelo mundo exterior...; este o inebria até o esquecimento de
@@ -2275,9 +2278,6 @@ basbaque se torna um ser impessoal; já não é um ser humano; é o
 público, é a multidão”. (Victor Fournel, *Ce qu’on voit dans les rues
 de Paris*, Paris, 1858, p. 263).
 
-Holborn para aprender aritmética... Dickens não recolhia em seu espírito
-a impressão das coisas; seria mais exato dizer que era ele quem imprimia
-o seu espírito nas coisas”.13
 
 Em seus últimos anos Baudelaire não podia passear muito pelas ruas de
 Paris. Seus credores perseguiam-no, a doença se manifestava, e a isso
@@ -2293,7 +2293,7 @@ preocupações poéticas pelas esquinas de Paris nem sempre eram
 voluntárias. Nos primeiros anos de sua existência como literato, quando
 habitava o Hotel Pimodan, seus amigos podiam admirar a discrição com que
 banira de seu quarto todos os vestígios de trabalho, a começar pela
-escrivaninha.\* Naquela época aspirava, simbolicamente, à conquista da
+escrivaninha.[^footnote*] Naquela época aspirava, simbolicamente, à conquista da
 rua. Mais tarde, ao abandonar paulatinamente sua existência burguesa, a
 rua se tornou cada vez mais um refúgio. Desde o início, porém, havia na
 *flânerie* a consciência da fragilidade dessa existência. Ela faz da
@@ -2303,8 +2303,44 @@ partes, é característica da concepção do herói em Baudelaire.
 A penúria que aqui se disfarça não é apenas material; diz respeito
 também à produção poética. Os estereótipos nos experimentos de
 Baudelaire, a falta de mediação entre suas ideias, a
+agitação entorpecida em seus traços deixam entrever que as reservas
+que abrem ao ser humano um vasto saber e uma abrangente visão histórica
+não estavam à sua disposição. “Para um escritor, Baudelaire tinha um
+grande defeito do qual ele mesmo não suspeitava: sua ignorância. O que
+sabia, sabia a fundo, mas sabia pouca coisa. História, fisiologia,
+arqueologia permaneceram-lhe desconhecidas... O mundo exterior pouco lhe
+interessava; talvez o percebesse, mas, de qualquer modo, não o
+estudava”.[^footnote14] Frente a essas críticas e outras semelhantes, sem dúvida é
+tentador e mesmo legítimo aludir ao hermetismo necessário e fecundo daquele que trabalha, às idiossincrasias indispensáveis a qualquer
+produção; mas os fatos têm outro aspecto. Favorecem exigências
+excessivas ao que produz em nome do princípio “criador”, tanto mais
+perigosas quando, adulando a autoestima do produtor, defendem os
+interesses de uma ordem social que lhe é hostil. O estilo de vida da
+boêmia contribuiu para desenvolver uma superstição sobre a criação à
+qual Marx se opõe com uma afirmação válida tanto para o trabalho
+mental quanto manual. A respeito da primeira frase do *Programa de
+Gotha*[^footnote15] – “o trabalho é a fonte de toda a riqueza e de toda a cultura”
+–, Marx nota criticamente: “Os burgueses têm ótimas razões para
+imputar ao trabalho uma força criadora sobrenatural, pois justamente do
+condicionamento do trabalho à natureza se segue que o homem desprovido
+de qualquer outra propriedade além de sua força de trabalho deve ser, em
+quaisquer condições sociais ou culturais, escravo dos outros homens
+que se fizeram detentores das condições concretas de trabalho”.[^footnote16]
+Baudelaire possuiu pouco daquilo que é parte das condições materiais
+do trabalho intelectual: desde a biblioteca até o apartamento, não houve
+nada a que não tivesse de renunciar durante o transcurso de sua
+existência instável, tanto dentro quanto fora de Paris. Escreve à mãe em
+26 de dezembro de 1853: “Estou a tal ponto habituado a sofrimentos
+físicos, sei tão bem contentar-me com umas calças rotas, com uma
+jaqueta que deixa passar o vento e com duas camisas apenas, tenho tanta
+prática em encher os sapatos furados com palha ou mesmo com papel, que
+quase só sinto os padecimentos morais. Todavia devo confessar que agora
+estou a ponto de não mais fazer movimentos bruscos, de não caminhar
+muito, por medo de dilacerar ainda mais as minhas coisas”.[^footnote17] Dentre as
+experiências que Baudelaire transfigurou na imagem do herói, as mais
+inequívocas foram as dessa espécie.
 
-\* Prarond, amigo de juventude de Baudelaire, escreve em memória dos
+[^footnote*]: Prarond, amigo de juventude de Baudelaire, escreve em memória dos
 tempos de 1845: “Escrivaninhas onde refletíssemos ou escrevêssemos
 alguma coisa eram pouco usadas por nós... Eu, de minha parte –
 prossegue após uma menção a Baudelaire –, via-o à minha frente, rua
@@ -2316,42 +2352,6 @@ dicionários, nem gabinete de trabalho, nem escrivaninha; tampouco
 havia guarda-louças nem copa, nem nada que lembrasse a disposição de
 um apartamento burguês”. (Théodore De Banville, *Mes souvenirs*,
 Paris, 1882, pp. 81-2).
-agitação entorpecida em seus traços deixam entrever que as reservas
-que abrem ao ser humano um vasto saber e uma abrangente visão histórica
-não estavam à sua disposição. “Para um escritor, Baudelaire tinha um
-grande defeito do qual ele mesmo não suspeitava: sua ignorância. O que
-sabia, sabia a fundo, mas sabia pouca coisa. História, fisiologia,
-arqueologia permaneceram-lhe desconhecidas... O mundo exterior pouco lhe
-interessava; talvez o percebesse, mas, de qualquer modo, não o
-estudava”.14 Frente a essas críticas e outras semelhantes, sem dúvida é
-tentador e mesmo legítimo aludir ao hermetismo necessário e fecundo daquele que trabalha, às idiossincrasias indispensáveis a qualquer
-produção; mas os fatos têm outro aspecto. Favorecem exigências
-excessivas ao que produz em nome do princípio “criador”, tanto mais
-perigosas quando, adulando a autoestima do produtor, defendem os
-interesses de uma ordem social que lhe é hostil. O estilo de vida da
-boêmia contribuiu para desenvolver uma superstição sobre a criação à
-qual Marx se opõe com uma afirmação válida tanto para o trabalho
-mental quanto manual. A respeito da primeira frase do *Programa de
-Gotha*15 – “o trabalho é a fonte de toda a riqueza e de toda a cultura”
-–, Marx nota criticamente: “Os burgueses têm ótimas razões para
-imputar ao trabalho uma força criadora sobrenatural, pois justamente do
-condicionamento do trabalho à natureza se segue que o homem desprovido
-de qualquer outra propriedade além de sua força de trabalho deve ser, em
-quaisquer condições sociais ou culturais, escravo dos outros homens
-que se fizeram detentores das condições concretas de trabalho”.16
-Baudelaire possuiu pouco daquilo que é parte das condições materiais
-do trabalho intelectual: desde a biblioteca até o apartamento, não houve
-nada a que não tivesse de renunciar durante o transcurso de sua
-existência instável, tanto dentro quanto fora de Paris. Escreve à mãe em
-26 de dezembro de 1853: “Estou a tal ponto habituado a sofrimentos
-físicos, sei tão bem contentar-me com umas calças rotas, com uma
-jaqueta que deixa passar o vento e com duas camisas apenas, tenho tanta
-prática em encher os sapatos furados com palha ou mesmo com papel, que
-quase só sinto os padecimentos morais. Todavia devo confessar que agora
-estou a ponto de não mais fazer movimentos bruscos, de não caminhar
-muito, por medo de dilacerar ainda mais as minhas coisas”.17 Dentre as
-experiências que Baudelaire transfigurou na imagem do herói, as mais
-inequívocas foram as dessa espécie.
 
 Por esse tempo, o despossuído aparece em outro ponto sob a imagem do
 herói e, com efeito, ironicamente. É o caso em Marx que, ao se referir
@@ -2362,13 +2362,13 @@ heróis”. Só que agora, no governo de Napoleão III, o exército “já não 
 a fina flor da juventude rural, mas a flor do pântano do mendicante
 proletariado camponês. Compõe-se, sobretudo, de prepostos... assim como
 o próprio Bonaparte II é apenas um substituto, um suplente de
-Napoleão”.18 O olhar que se volta desta visão para a do poeta esgrimista
+Napoleão”.[^footnote18] O olhar que se volta desta visão para a do poeta esgrimista
 encontra-a por alguns segundos superposta à do salteador, o mercenário
-que “esgrime” de modo diferente e que erra pela região.\* Mas, acima
+que “esgrime” de modo diferente e que erra pela região.[^footnote*] Mas, acima
 de tudo, são esses dois famosos versos de Baudelaire que, com sua
 síncope imperceptível, ressoam no vácuo de que fala Marx. Eles concluem
 a segunda estrofe do terceiro poema de *As Velhinhas*. Proust as
-acompanha com as seguintes palavras: “Parece impossível ir além”.19
+acompanha com as seguintes palavras: “Parece impossível ir além”.[^footnote19]
 
 “Ah, como tenho acompanhado essas velhinhas! Uma, entre tantas, quando
 o Sol agonizante
@@ -2379,9 +2379,9 @@ plácida e distante,
 Para ouvir um banda, rica de metais,
 
 Que os jardins muita vez inunda com seus hinos E que, na noite de ouro
-que sonhar nos faz, Algo de heroico põe na alma dos citadinos”.20
+que sonhar nos faz, Algo de heroico põe na alma dos citadinos”.[^footnote20]
 
-\*Cf. “Ao velho salteador/Já não seduz o amor, nem tampouco a disputa”
+[^footnote*]: Cf. “Ao velho salteador/Já não seduz o amor, nem tampouco a disputa”
 (p. 301). - Uma das poucas publicações repugnantes na vasta e, na
 maioria das vezes, descolorida literatura sobre Baudelaire é o livro
 de um tal de Peter Klassen. Esse livro, composto na terminologia
@@ -2399,7 +2399,7 @@ nenhum sentimento que não encontra lugar no peito dessa gente miúda,
 reunida para ouvir a música militar.
 
 Os jardins de que se fala no poema são aqueles abertos ao habitante da
-cidade, cuja nostalgia vagueia em vão ao redor dos grandes parques21
+cidade, cuja nostalgia vagueia em vão ao redor dos grandes parques[^footnote21]
 fechados. O público que neles aparece não é de modo algum aquele que
 circunda o *flâneur*. “Não importa o partido a que se pertença – escreve
 Baudelaire em 1851 é impossível não ficar emocionado com o espetáculo
@@ -2409,7 +2409,7 @@ mercúrio e todos os venenos usados na fabricação de obras-primas... Essa
 multidão se consome pelas maravilhas, as quais, não obstante, a Terra
 lhe deve. Sente borbulhar em suas veias um sangue púrpura e lança um
 olhar demorado e carregado de tristeza à luz do Sol e às sombras dos
-grandes parques”.22 Essa população é o pano de fundo do qual se
+grandes parques”.[^footnote22] Essa população é o pano de fundo do qual se
 destaca o perfil do herói. A imagem que assim se apresenta foi rotulada
 por Baudelaire à sua maneira: abaixo dela escreveu “A modernidade”. O
 herói é o verdadeiro objeto da modernidade. Isso significa que, para
@@ -2431,7 +2431,7 @@ ao leitor o herói em sua aparência moderna. Em Balzac, o gladiador se
 torna caixeiro-viajante. O grande Gaudissart se prepara para trabalhar
 Touraine. Balzac descreve seus preparativos e se interrompe para
 exclamar: “Que atleta! Que arena! E que armas! Ele, o mundo e a sua
-lábia!”23. Baudelaire, ao contrário, reconhece no proletário o lutador
+lábia!”[^footnote23]. Baudelaire, ao contrário, reconhece no proletário o lutador
 escravizado; entre as promessas que o vinho há de cumprir ao deserdado,
 cita a quinta estrofe do poema *A Alma do Vinho*:
 
@@ -2440,7 +2440,7 @@ soltar a força e as cores,
 
 E serei para tão tíbio atleta da vida
 
-O óleo que os músculos enrija aos lutadores”.24
+O óleo que os músculos enrija aos lutadores”.[^footnote24]
 
 Aquilo que o trabalhador assalariado executa no labor diário não é nada
 menos do que o que, na antiguidade, trazia glória e aplauso ao
@@ -2451,7 +2451,7 @@ glorificarem um Rafael ou um Veronese com a intenção velada de
 desvalorizar tudo o que se produziu depois deles... então pergunto a mim
 mesmo se uma produção que, como tal, pudesse no mínimo ser equiparada
 à deles... não seria infinitamente mais valiosa, uma vez que se
-desenvolveu numa atmosfera e num terreno hostis”.25 – Baudelaire gostava
+desenvolveu numa atmosfera e num terreno hostis”.[^footnote25] – Baudelaire gostava
 de inserir suas teses no contexto de modo crasso e, por assim dizer, sob
 uma iluminação barroca. Fazia parte de sua razão de Estado teórica
 dissimular, quando existissem, as conexões entre elas. Quase sempre
@@ -2468,23 +2468,24 @@ vá enfraquecendo e busque refúgio na morte.
 A modernidade deve manter-se sob o signo do suicídio, selo de uma
 vontade heroica, que nada concede a um modo de pensar hostil. Esse
 suicídio não é renúncia, mas sim paixão heroica. É *a* conquista da
-modernidade no âmbito das paixões.\* Assim, o suicídio, como a “paixão
+modernidade no âmbito das paixões.[^footnote*] Assim, o suicídio, como a “paixão
 particular à vida moderna”, aparece na clássica passagem dedicada à
 teoria da modernidade. O suicídio de heróis antigos é uma exceção. “Onde
 encontramos suicídios nas representações antigas, à exceção de
-Hércules no Monte Eta, de Catão de Utica e de Cleópatra?”.26 Não que
-Baudelaire as encontrasse nos modernos; a referência a Rousseau27 e ao
+Hércules no Monte Eta, de Catão de Utica e de Cleópatra?”.[^footnote26] Não que
+Baudelaire as encontrasse nos modernos; a referência a Rousseau[^footnote27] e ao
 personagem suicida de Balzac que se segue àquela pergunta é
 insuficiente. Mas a modernidade mantém pronta a matéria-prima de tais
 representações e espera um mestre. Essa matéria-prima se depositou nas
-camadas, que, de ponta a ponta, aparecem como o fundamento da modernidade. Os primeiros esboços de sua teoria datam de 1845. Por esse mesmo
+camadas, que, de ponta a ponta, aparecem como o fundamento da modernidade. 
+Os primeiros esboços de sua teoria datam de 1845. Por esse mesmo
 tempo, a noção de suicídio penetrou nas massas trabalhadoras.
 “Disputam-se as cópias de uma litografia que representa um operário
 inglês no momento em que tira a própria vida, desesperado por não mais
 poder ganhar seu sustento. Um operário chega a entrar na casa de Eugene
 Sue e aí se enforca; na mão tem um bilhete: ‘Pensei que a morte me
 seria mais leve se eu morresse sob o teto de um homem que intercede por
-nós e que nos ama’”.28 Um tipógrafo de nome Adolphe Boyer publicou em
+nós e que nos ama’”.[^footnote28] Um tipógrafo de nome Adolphe Boyer publicou em
 1841 uma pequena obra intitulada *Sobre o Estado do Operariado e Sobre o
 seu Aperfeiçoamento Através da Organização do Trabalho*, uma exposição
 em estilo moderado que procurava conquistar para a ideia de associação
@@ -2494,17 +2495,16 @@ exortava seus companheiros de infortúnio a segui-lo. O suicídio podia
 parecer aos olhos de um Baudelaire o único ato heroico que restara às
 “populações doentias” das cidades naqueles tempos reacionários. Talvez
 tenha visto a “Morte” de
+Rethel,[^footnote29] a quem muito admirava como um ágil desenhista em frente do
+cavalete, lançando à tela os diversos modos de morrer dos suicidas.
+Quanto às cores da imagem, a moda as forneceu.
 
-\* Sob uma perspectiva semelhante surge mais tarde o suicídio em
+[^footnote*]: Sob uma perspectiva semelhante surge mais tarde o suicídio em
 Nietzsche. “Não se pode condenar suficientemente o cristianismo por
 depreciar um grande movimento niilista purificador, quando este se
 desenvolvia... sempre impedindo o ato do niilismo, o suicídio”. (Cit.
 Karl Löwith, *éietzsches Philosophie der ewigen Wiederkunft des
 Gleichens*, Berlim, 1935, p. 108.).
-
-Rethel,29 a quem muito admirava como um ágil desenhista em frente do
-cavalete, lançando à tela os diversos modos de morrer dos suicidas.
-Quanto às cores da imagem, a moda as forneceu.
 
 Desde a Monarquia de Julho, o preto e o cinza começaram a predominar nos
 trajes masculinos. Essa novidade foi tratada por Baudelaire em *Salão de
@@ -2513,19 +2513,19 @@ será aquele que souber extrair da vida presente o seu lado épico e nos
 ensinar a compreender em linhas e cores como somos grandes e poéticos em
 nossas gravatas e botas envernizadas. – Possam os verdadeiramente
 pioneiros oferecer-nos no ano próximo a singular alegria de festejar a
-chegada do verdadeiro *novo*!30 Um ano depois escreve: “Quanto à roupa,
+chegada do verdadeiro *novo*![^footnote30] Um ano depois escreve: “Quanto à roupa,
 esse invólucro do herói moderno – ... não teria a sua beleza e o seu
 charme próprios...? Não será a roupa de que a nossa época precisa,
 época que sofre e que carrega sobre os ombros negros e descarnados o
 símbolo de uma tristeza eterna? A roupa preta e o redingote não têm
 apenas sua beleza política, expressão da igualdade universal, mas também
 sua beleza poética, sem dúvida expressão da alma pública representada
-numa imensa procissão de gatos-pingados31 – gatos-pingados políticos,
+numa imensa procissão de gatos-pingados[^footnote31] – gatos-pingados políticos,
 gatos-pingados eróticos, gatos-pingados burgueses. Nós todos celebramos
 algum enterro. – A libré continuamente igual da desolação testemunha a
 igualdade... E não têm as pregas na fazenda, pregas que fazem caretas
 e que se enroscam como serpentes em torno da carne mortificada, o seu
-secreto encanto?”.32 Essas ideias contribuíram para a profunda
+secreto encanto?”.[^footnote32] Essas ideias contribuíram para a profunda
 fascinação que a transeunte enlutada do soneto exerceu sobre o poeta.
 O citado texto de 1846 assim conclui: “Pois os heróis da Ilíada não
 chegam aos vossos pés, Vautrin, Rastignac, Birotteau – nem aos teus,
@@ -2533,13 +2533,13 @@ Fontanares, que não ousaste confessar ao público o que sofrias sob o
 fraque macabro e contraído como numa convulsão, fraque que nós todos
 usamos; nem aos teus, Honoré de Balzac, o mais singular, o mais
 romântico, o mais poético dentre todos os personagens que tua fantasia
-criou”.33 Quinze anos mais tarde, o democrata Vis Cher, da Alemanha do
+criou”.[^footnote33] Quinze anos mais tarde, o democrata Vis Cher, da Alemanha do
 Sul, ao fazer uma crítica da moda masculina, chega a conclusões semelhantes às de Baudelaire. Só muda o acento: o que em Baudelaire
 aparece como tonalidade da perspectiva crepuscular do moderno,
 em Vischer surge como brilhante argumento para a luta política. “Declarar a cor – escreve Vischer com vista ao reacionarismo dominante
 desde 1850 – passa por ridículo, ser rígido passa por infantil; como
 então o vestuário não se tornaria sem cor, largo e apertado ao mesmo
-tempo?”34 Os extremos se tocam; a crítica política de Vischer, ao tomar
+tempo?”[^footnote34] Os extremos se tocam; a crítica política de Vischer, ao tomar
 um cunho metafórico, se cruza com uma imagem fantasia do jovem
 Baudelaire. Em seu soneto, *O Albatroz*, originário da viagem
 transoceânica com que se esperava corrigir o jovem poeta, Baudelaire
@@ -2551,13 +2551,13 @@ canhestro e envergonhado, Deixa pender, qual par de remos junto aos
 pés, As asas em que fulge um branco imaculado.
 
 Antes tão belo, como é feio na desgraça Esse viajante agora flácido e
-acanhado!”35
+acanhado!”[^footnote35]
 
 A respeito de mangas do paletó, que são largas e caem sobre os punhos,
 diz Vischer: “Já não são braços, mas rudimentos de asa, cotos de asa de
 pinguim, barbatanas de peixe e, em marcha, esses apêndices amorfos
 lembram um disparatado e simplório gesticular, um empurrar, um
-comichar, um remar”.36 A mesma visão do assunto – a mesma imagem.
+comichar, um remar”.[^footnote36] A mesma visão do assunto – a mesma imagem.
 
 Mais claramente ainda define Baudelaire o semblante da modernidade,
 sem desmentir-lhe o sinal de Caim sobre a fronte: “A maioria dos poetas
@@ -2569,10 +2569,10 @@ temas da vida privada bem mais heroicos. O espetáculo da vida mundana e
 das milhares de existências desregradas que habitam os subterrâneos de
 uma cidade grande – dos criminosos e das mulheres manteúdas –, *La
 Gazette des Tribunaux e Le Moniteur* provam que precisamos apenas abrir
-os olhos para reconhecer nosso heroísmo”.37 Aqui surge o apache38 na
+os olhos para reconhecer nosso heroísmo”.[^footnote37] Aqui surge o apache[^footnote38] na
 imagem do herói. Encarna os caracteres que Bounoure assinala no
 isolamento de Baudelaire: “um não-me-toques, um encapsulamento do
-indivíduo em sua diferença”.39 O apache renega as virtudes e as leis.
+indivíduo em sua diferença”.[^footnote39] O apache renega as virtudes e as leis.
 Rescinde de uma vez por todas o contrato social. Assim se crê separado
 do burguês por todo um mundo. Não reconhece neste os traços do cúmplice,
 delineados com efeito marcante por Hugo em *Os Castigos*. Às ilusões de
@@ -2585,7 +2585,9 @@ personagem Vautrin experimenta ascensão e queda, numa carreira como a
 de todos os heróis balzaquianos. O itinerário do criminoso é como o de
 outros. Também Ferragus medita sobre coisas grandiosas e planeja para
 prazos futuros; é da linhagem dos carbonários. Antes de Baudelaire, o
-apache que, durante toda a vida permanece relegado à periferia da sociedade e da cidade grande, não tem lugar algum na literatura. A formulação mais nítida desse tema em *As Flores do Mal*, o poema *O Vinho
+apache que, durante toda a vida permanece relegado à periferia da sociedade 
+e da cidade grande, não tem lugar algum na literatura. A formulação mais nítida 
+desse tema em *As Flores do Mal*, o poema *O Vinho
 do Assassino*, tornou-se ponto de partida de um gênero parisiense. Seu
 “atelier” tornou-se o *Le Chat éoir*. “Transeunte, seja moderno” –
 levava essa inscrição nos primeiros tempos heroicos.
@@ -2601,7 +2603,7 @@ que destruiu, é reunido e registrado por ele. Compila os anais da
 devassidão, o cafarnaum da escória; separa as coisas, faz uma seleção
 inteligente; procede como um avarento com seu tesouro e se detém no
 entulho que, entre as maxilas da deusa indústria, vai adotar a forma de
-objetos úteis ou agradáveis”.40 Essa descrição é apenas uma dilatada
+objetos úteis ou agradáveis”.[^footnote40] Essa descrição é apenas uma dilatada
 metáfora do comportamento do poeta
 segundo o sentimento de Baudelaire. Trapeiro ou poeta – a escória diz
 respeito a ambos; solitários, ambos realizam seu negócio nas horas em
@@ -2618,44 +2620,47 @@ espécie dos líricos da face da Terra.
 
 Uma luz suspeita cai sobre a poesia do apachismo. Representa a escória
 os heróis da cidade grande ou será antes herói o poeta que edifica sua
-obra a partir dessa matéria?\* – Ateoria da modernidade admite ambas as
+obra a partir dessa matéria?[^footnote*] – Ateoria da modernidade admite ambas as
 hipóteses. Porém, já envelhecendo, Baudelaire insinua, num poema de
 1862, *As Queixas de um Ícaro*, já não sentir empatia pela espécie de
 gente entre a qual buscava heróis na juventude.
 
-“Os amantes das rameiras são Ágeis, felizes e devassos; Quanto a mim,
-fraturei os braços
+>Os amantes das rameiras são 
 
-Por ter-me alçado além do chão”.41
+>Ágeis, felizes e devassos; 
+
+>Quanto a mim, fraturei os braços
+
+>Por ter-me alçado além do chão.[^footnote41]
 
 O poeta, como diz o título do poema, ocupa o lugar do herói antigo e
 teve de ceder espaço ao herói moderno, cujos feitos são relatados por
-*La Gazette des Tribunaux*\*\*. Na verdade, esse recuo já está previsto
+*La Gazette des Tribunaux*.[^footnote**] Na verdade, esse recuo já está previsto
 no conceito do herói moderno que, fadado à decadência, dispensa o
 surgimento de qualquer poeta trágico para
-
-\* Durante muito tempo, Baudelaire alimentou o propósito de escrever
-romances sobre esse ambiente. Em seu espólio encontraram-se rastros
-dessa intenção nos títulos: *Os Ensinamentos de um Monstro, O
-Mantenedor, A Mulher Desonesta*.
-
-\*\* Três quartos de século mais tarde foi reavivado o confronto entre
-cáften e literato. Quando os escritores foram expulsos da Alemanha,
-ingressou na literatura alemã a legenda de Horst Wessel. (Horst Wessel
-foi membro do partido nazista desde 1926. Vítima de um atentado em
-janeiro de 1930, tornou-se uma espécie de herói graças ao canto
-*Horst-Wessel-Lied*, que se tornou o hino do partido).
 descrever a fatalidade dessa queda. Mas assim que vê seus direitos
 conquistados, a modernidade expira. Então será posta à prova. Após sua
 extinção, verificar-se-á se algum dia pode ou não tornar-se
 antiguidade.
 
+[^footnote*]: Durante muito tempo, Baudelaire alimentou o propósito de escrever
+romances sobre esse ambiente. Em seu espólio encontraram-se rastros
+dessa intenção nos títulos: *Os Ensinamentos de um Monstro, O
+Mantenedor, A Mulher Desonesta*.
+
+[^footnote**] Três quartos de século mais tarde foi reavivado o confronto entre
+cáften e literato. Quando os escritores foram expulsos da Alemanha,
+ingressou na literatura alemã a legenda de Horst Wessel. (Horst Wessel
+foi membro do partido nazista desde 1926. Vítima de um atentado em
+janeiro de 1930, tornou-se uma espécie de herói graças ao canto
+*Horst-Wessel-Lied*, que se tornou o hino do partido).
+
 Essa questão sempre esteve no espírito de Baudelaire. Ele experimentou
 a antiga pretensão à imortalidade como a de ser lido algum dia como
 autor antigo. “Que toda a modernidade mereça um dia se tornar
-antiguidade”42 – assim descrevia a tarefa da arte de modo geral. Gustave
+antiguidade”[^footnote42] – assim descrevia a tarefa da arte de modo geral. Gustave
 Kahn assinala em Baudelaire, com muita propriedade, uma “rejeição à
-ocasião oferecida pela natureza do pretexto lírico”.43 A consciência
+ocasião oferecida pela natureza do pretexto lírico”.[^footnote43] A consciência
 daquela tarefa o fazia esquivo a ocasiões e aparências. Na época que lhe
 coube viver, nada lhe está mais próximo da “tarefa” do herói antigo, dos
 “trabalhos” de um Hércules, do que a que se impôs a si mesmo como a sua:
@@ -2664,27 +2669,27 @@ dar forma à modernidade.
 De todas as relações estabelecidas pela modernidade, a mais notável é a
 que tem com a antiguidade. Segundo Baudelaire, ela aparece na obra de
 Victor Hugo. “O destino levou-o... a transformar a ode antiga e a
-tragédia antiga... até os poemas e dramas que dele conhecemos”.44 A
+tragédia antiga... até os poemas e dramas que dele conhecemos”.[^footnote44] A
 modernidade assinala uma época; designa, ao mesmo tempo, a força que age
 nessa época e que a aproxima da antiguidade. A contragosto, e em casos
 contados, Baudelaire a atribui a Hugo. Wagner, ao contrário, lhe
 parece a emanação sem limites e sem falsificações dessa força. “Se
 Wagner, na escolha de seus temas e no seu proceder dramático, se
 aproxima da antiguidade, torna-se, graças à sua força de expressão
-apaixonada, o representante mais importante da modernidade”.45 A frase
+apaixonada, o representante mais importante da modernidade”.[^footnote45] A frase
 contém em essência a teoria de Baudelaire sobre a arte moderna. Segundo
 essa teoria, o exemplo da antiguidade se limita à construção; a
 substância e a inspiração são assuntos da modernidade. “Ai de quem
 estude na antiguidade outra coisa que não a arte pura, a lógica, o
 método geral. Se o seu mergulho na antiguidade for por demais
 profundo... então se despojará... dos privilégios que a ocasião lhe
-oferece”.46 E nas frases finais do ensaio sobre Guys diz-se: “Por toda a
+oferece”.[^footnote46] E nas frases finais do ensaio sobre Guys diz-se: “Por toda a
 parte buscou a beleza transitória e fugaz de nossa vida presente. O
-leitor nos permitiu chamá-la de modernidade”.47 Em suma,
+leitor nos permitiu chamá-la de modernidade”.[^footnote47] Em suma,
 a doutrina se apresenta assim: “No belo atuam conjuntamente um elemento
 eterno e imutável... e um elemento relativo e limitado. Este último... é
 fornecido pela época, pela moda, pela moral, pelas paixões. Sem esse
-segundo elemento... o primeiro não seria assimilável”.48 Não se pode
+segundo elemento... o primeiro não seria assimilável”.[^footnote48] Não se pode
 dizer que isso vá fundo na questão.
 
 A teoria da arte moderna é, na visão baudelairiana da modernidade, o
@@ -2704,7 +2709,7 @@ A frente deles está o poema *O Cisne*. Não é à toa que se trata de um
 poema alegórico. Essa cidade tomada por constante movimentação se
 paralisa. Torna-se quebradiça como o vidro, mas, também como o vidro,
 transparente – ou seja, transparente em seu significado. “(De uma cidade
-a história/Depressa muda mais que um coração infiel.)”49 A estatura de
+a história/Depressa muda mais que um coração infiel.)”[^footnote49] A estatura de
 Paris é frágil; está cercada por símbolos da fragilidade. Símbolos de
 criaturas vivas (a negra e o cisne); e símbolos históricos (Andrômaca,
 “viúva de Heitor e... mulher de Heleno”). O traço comum aos dois é a
@@ -2730,7 +2735,7 @@ Se algum dia, do fundo das brumas e dos véus Surgir um novo Cristo, em
 luz esculpido
 
 Que levante em sua direção a humanidade E a batize no fogo de novas
-estrelas.”50
+estrelas.”[^footnote50]
 
 Baudelaire desconhece tais perspectivas. Sua ideia acerca da debilidade
 da cidade grande explica a permanência dos poemas que escreveu sobre
@@ -2753,13 +2758,13 @@ de mármore de uma de nossas chaminés, ou o ladrilhamento cimentado de
 uma de nossas chaminés modernas, então os via como eles são: ou seja, a
 pedra do lar, a pedra do lar antigo. Quando via a porta da casa e a
 soleira que normalmente é pedra talhada, reconhecia nessa pedra
-talhada a linha antiga: a linha do umbral sagrado, que é a mesma”.51
+talhada a linha antiga: a linha do umbral sagrado, que é a mesma”.[^footnote51]
 Não há comentário melhor para a seguinte passagem de Os Miseráveis: “As
 tavernas do subúrbio de
 Saint-Antoine se assemelham às tavernas do Aventino, erguidas sobre a
 gruta da sibila e associadas a sacras inspirações; as mesas dessas
 tavernas eram quase tripés, e Ênio fala do vinho sibilino que lá se
-tomava”.52 Dessa mesma concepção procede a obra onde aparece a
+tomava”.[^footnote52] Dessa mesma concepção procede a obra onde aparece a
 primeira imagem de uma “antiguidade parisiense”: o ciclo de poemas
 hugoanos, *Ao Arco do Triunfo*. A glorificação desse monumento
 arquitetônico parte da visão de um campo parisiense, uma “campina
@@ -2773,12 +2778,12 @@ Já sete anos antes, o historiador Friedrich von Raumer anota em suas
 *Cartas de Paris e da França no Ano de 1830*: “Ontem olhei da torre de
 Notre-Dame essa imensa cidade; quem construiu a primeira casa? quando
 desabará a última? e quando o solo de Paris se assemelhará ao de Tebas e
-ao da Babilônia?”.53 Hugo descreveu como será esse solo quando um dia
+ao da Babilônia?”.[^footnote53] Hugo descreveu como será esse solo quando um dia
 “essa margem onde a água se quebra em sonoros arcos de ponte for
-restituída aos juncos murmurantes que se curvam”:54
+restituída aos juncos murmurantes que se curvam”:[^footnote54]
 
 “Mas não, tudo estará morto. Nada mais nesta planície Além de um povo
-desvanecido que ainda a ocupa”. 55
+desvanecido que ainda a ocupa”.[^footnote55]
 
 Cem anos após Von Raumer, Léon Dausset lança o olhar sobre Paris a
 partir do Sacré-Coeur, outro ponto elevado da cidade. Em seus olhos se
@@ -2795,7 +2800,7 @@ trabalho, isto é certo, mas tem também outras necessidades, entre as
 quais a do suicídio, inserida nele e na sociedade que o forma, e mais
 forte que o seu instinto de preservação. Por isso fica-se admirado ao
 olhar desde o Sacré-Coeur, desde Fourvieres e NotreDame de la Garde e
-ver que Paris, Lyon e Marselha ainda existem”.56 Eis o rosto que recebeu
+ver que Paris, Lyon e Marselha ainda existem”.[^footnote56] Eis o rosto que recebeu
 no século XX a “paixão moderna”, reconhecida por Baudelaire no
 suicídio.
 
@@ -2823,7 +2828,7 @@ Roma no tempo dos Césares... Graças a uma inspiração fulminante, que às
 vezes nos fornece um tema fora do comum, concebeu o plano de escrever
 sobre Paris o livro que os historiadores da antiguidade não haviam
 escrito sobre as próprias cidades... A obra de sua idade madura apareceu
-diante de sua visão interior”.57 No poema de Hugo *Ao Arco do Triunfo* e
+diante de sua visão interior”.[^footnote57] No poema de Hugo *Ao Arco do Triunfo* e
 na grande descrição técnico-administrativa que Du Camp fez de sua
 cidade, deve-se reconhecer a mesma inspiração decisiva para a ideia
 baudelairiana da modernidade.
@@ -2834,13 +2839,13 @@ sentida há tempo, e projetos de lei lhe abriram o caminho. “Depois de
 tornar inabitável. A constante expansão da rede ferroviária... acelerava
 o trânsito e o crescimento populacional da cidade. As pessoas
 sufocavam nas antigas ruelas estreitas, sujas e tortuosas, nas quais
-ficavam encurraladas, pois não viam saída”.58 No início da década de
+ficavam encurraladas, pois não viam saída”.[^footnote58] No início da década de
 1850, a população parisiense começou a aceitar a ideia de uma grande e
 inevitável expurgação da imagem urbana. Pode-se supor que, em seu
 período de incubação, essa limpeza fosse capaz de agir sobre uma
 fantasia significativa com tanta força, se não mais, quanto o espetáculo
 dos próprios trabalhos urbanísticos. “Os poetas são mais inspirados
-pelas imagens do que pela própria presença dos objetos”,59 diz Joubert.
+pelas imagens do que pela própria presença dos objetos”,[^footnote59] diz Joubert.
 O mesmo é válido para os artistas. Aquilo que sabemos que, em breve, já
 não teremos diante de nós torna-se imagem. Provavelmente isso ocorreu
 com as ruas de Paris daquele tempo. De qualquer jeito, a obra cuja
@@ -2860,11 +2865,8 @@ Ambos tinham afinidades eletivas. Nasceram no mesmo ano; suas mortes
 estão separadas por meses apenas. Ambos morreram isolados e seriamente
 perturbados; Meryon como demente em Charenton; Baudelaire, afásico, numa
 clínica particular. A fama sobreveio a ambos tardiamente. Durante a
-vida, Meryon praticamente teve Baudelaire como único defensor\*.
+vida, Meryon praticamente teve Baudelaire como único defensor.[^footnote*]
 Poucas coisas há
-
-\* No século XX, Meryon encontrou um biógrafo em Geffroy. Não é por
-acaso que a obra-prima deste autor seja uma biografia de Blanqui.
 nos textos em prosa de Baudelaire que possam rivalizar com o curto texto
 que escreveu sobre Meryon. Quando trata de Meryon, reverencia a
 modernidade, mas lhe homenageia o rosto antigo. Porque também em Meryon
@@ -2876,26 +2878,37 @@ Apesar de sua sutileza, os versos que Meryon pôs sob a vista da Pont
 Neuf estão, como interpretação, em íntima vizinhança com *O Esqueleto
 Lavrador*:
 
-“Aqui jaz da velha Pont-Neuf A exata aparência
+[^footnote*]: No século XX, Meryon encontrou um biógrafo em Geffroy. Não é por
+acaso que a obra-prima deste autor seja uma biografia de Blanqui.
 
-Toda reformada e nova Por prescrição recente. O sábios médicos, Hábeis
-cirurgiões,
+>Aqui jaz da velha Pont-Neuf 
 
-De nós por que não fazer
+>A exata aparência
 
-Como com a ponte de pedra.”60\*
+>Toda reformada e nova 
+
+>Por prescrição recente. 
+
+>Os sábios médicos, 
+
+>Hábeis cirurgiões,
+
+>De nós por que não fazer
+
+>Como com a ponte de pedra.[^footnote60][^footnote*]
 
 Geffroy acerta no centro da obra de Meryon, acerta também na sua
 afinidade com Baudelaire, mas acerta, sobretudo, na fidelidade da
 reprodução de Paris – que logo se converteria em um campo de ruínas –,
 quando tenta explicar a singularidade dessas gravuras em “que elas
 embora feitas imediatamente a partir da vida, dão impressão de vida já
-passada, já extinta ou prestes a morrer”.61\*\*
+passada, já extinta ou prestes a morrer”.[^footnote61][^footnote**]
 
-\* Meryon começou como oficial de marinha. Sua última água-forte
+[^footnote*]: Meryon começou como oficial de marinha. Sua última água-forte
 representa o Ministério da Marinha na *Place de la Concorde*. Um
 séquito de cavalos, carruagens e delfins se lança a partir das nuvens
-sobre o ministério. Não faltam navios nem serpentes marítimas; algumas criaturas antropomorfas podem também ser vistas na multidão. Sem
+sobre o ministério. Não faltam navios nem serpentes marítimas; algumas 
+criaturas antropomorfas podem também ser vistas na multidão. Sem
 rodeios, Geffroy encontra o “significado” da gravura, sem se deter na
 forma da alegoria: “Seus sonhos se arrojam sobre esse prédio firme
 como uma fortaleza. Ali, durante sua juventude, quando se achava ainda
@@ -2904,7 +2917,7 @@ carreira oficial. E agora se despede dessa cidade, dessa casa, pelas
 quais sofreu tanto”. (Gustave Geffroy, *Charles Meryon*, loc. cit., p.
 161).
 
-\*\* O desejo de conservar o “rastro” tem a mais decisiva participação
+[^footnote**]: O desejo de conservar o “rastro” tem a mais decisiva participação
 nessa arte. O título de Meryon para a sequencia das gravuras mostra
 uma pedra rachada com os rastros impressos de plantas fósseis.
 
@@ -2913,20 +2926,20 @@ significação dessa antiguidade parisiense: “Raramente vimos representada
 com maior força poética a solenidade natural de uma cidade grande: a
 majestade da pedra acumulada, as torres das igrejas cujos dedos apontam
 para o céu, os obeliscos da indústria despachando para o firmamento
-seus batalhões de fumaça,\* os andaimes que paradoxalmente assentam
+seus batalhões de fumaça,[footnote*] os andaimes que paradoxalmente assentam
 sobre os blocos maciços das construções em reparo, sua estrutura
 cravejada e com a forma de teia de aranha, o céu nevoento e prenhe de
 cólera e rancor e as profundas perspectivas, cuja poesia reside nos
 dramas com que se lhe equipa o espírito – não é esquecido nenhum dos
 elementos complexos que compõem o doloroso e glorioso ornato da
-civilização”.62 Entre os projetos cujo fracasso devemos lamentar como
+civilização”.[^footnote62] Entre os projetos cujo fracasso devemos lamentar como
 perda está o do editor Delâtre, que contava publicar a série de Meryon
 acompanhada por textos de Baudelaire. Que esses textos não se
 escrevessem, deve-se ao trabalhador; ele não podia imaginar a tarefa
 de Baudelaire senão como um inventário das casas e dos arruamentos por
 ele reproduzidos. Se Baudelaire tivesse se dedicado a esse trabalho,
 então as palavras de Proust sobre “o papel das cidades antigas na obra
-de Baudelaire e a cor escarlate que por vezes transmitem à sua obra”,63
+de Baudelaire e a cor escarlate que por vezes transmitem à sua obra”,[^footnote63]
 seriam hoje mais claras. Entre tais cidades, Roma ocupa para ele o
 primeiro lugar. Num artigo sobre Leconte de Lisle, confessa sua “natural
 predileção” por essa cidade. Provavelmente, deve essa predileção às
@@ -2936,20 +2949,22 @@ ainda junto da cidade moderna.
 O soneto que figura como o trigésimo nono de *As Flores do Mal* começa
 assim:
 
-“Estes versos te dou para que, se algum dia, Feliz chegar meu nome às
-épocas futuras
+>Estes versos te dou para que, se algum dia, 
 
-E lá fizer sonhar as humanas criaturas,
+>Feliz chegar meu nome às épocas futuras
 
-Nau que um esplêndido aquilão ampara e guia,
+>E lá fizer sonhar as humanas criaturas,
 
-\* Cf. a observação crítica de Pierre Hamp: “O artista... admira as
+>Nau que um esplêndido aquilão ampara e guia,
+
+>Tua memória, irmã das fábulas obscuras, 
+
+>Canse o leitor com pertinaz monotonia”.[^footnote64]
+
+[footnote*]: Cf. a observação crítica de Pierre Hamp: “O artista... admira as
 colunas do templo babilônico e despreza a chaminé da fábrica”.
 (Pierre Hamp, *La littérature, image de la societé*, in: *Encyclopédie
 française*, vol. 16, Paris, 1935, fasc. 16. 64-1.)
-
-Tua memória, irmã das fábulas obscuras, Canse o leitor com pertinaz
-monotonia”.64
 
 Baudelaire quer ser lido como um escritor da antiguidade. Essa pretensão
 foi satisfeita espantosamente rápido. Pois o distante futuro, as
@@ -2962,7 +2977,7 @@ mais frágil, em sua experiência, tudo que estivera sob o signo do
 consegue mesmo; e a antiguidade – que deveria estar nela inserida –
 apresenta, em realidade, a imagem do antiquado. “De novo encontramos
 Herculano sob as cinzas; uns poucos anos, porém, soterram os costumes de
-uma sociedade e o fazem melhor do que toda a lava dos vulcões”.65
+uma sociedade e o fazem melhor do que toda a lava dos vulcões”.[^footnote65]
 
 A antiguidade de Baudelaire é romana. Só num ponto a antiguidade grega
 sobressai em seu universo. A Grécia fornece-lhe a imagem da heroína que
@@ -2979,7 +2994,7 @@ revelado a lésbica para a arte. Balzac já a conhecia em *A Menina dos
 Olhos* de Ouro; Gautier em *Senhorita Maupin*; Lelatouche em *A
 Fragoletta*; Baudelaire também a conheceu através de Delacroix; na
 crítica dos seus quadros, um tanto disfarçadamente, fala sobre uma
-“manifestação heroica da mulher moderna na direção do infernal”.66
+“manifestação heroica da mulher moderna na direção do infernal”.[^footnote66]
 
 O tema se origina no sansimonismo que, em suas veleidades cultistas,
 com frequência valorizou a ideia do andrógino. Entre elas se arrola o
@@ -2988,7 +3003,7 @@ templo que deveria luzir na “Cidade Nova” de Duveyrier.
 Um adepto da escola faz a seguinte observação: “O templo deverá
 representar um andrógino, um homem e uma mulher... A mesma divisão
 deve ser prevista para a cidade inteira, para todo o reino e para toda a
-Terra: haverá o hemisfério do homem e o da mulher”.67 Quanto ao seu
+Terra: haverá o hemisfério do homem e o da mulher”.[^footnote67] Quanto ao seu
 conteúdo antropológico, a utopia sansimoniana é mais assimilável na
 ordem de ideias de Claire Demar do que nessa arquitetura que não foi
 edificada. As presunçosas fantasias de Enfantin fizeram com que Claire
@@ -3008,7 +3023,7 @@ uma obra e cumprir uma função... Assim deveis, pois, vos decidir a
 transferir o recém-nascido de sua mãe natural para os braços da mãe
 social, para os braços da ama a ser empregada pelo Estado. Desse modo, a
 criança terá uma educação melhor... Só então, e não antes, o homem, a
-mulher e a criança se libertarão da lei do sangue, da lei da exploração da humanidade por si própria”.68
+mulher e a criança se libertarão da lei do sangue, da lei da exploração da humanidade por si própria”.[^footnote68]
 
 Aqui se estampa em sua versão original a imagem da mulher heroica
 recolhida por Baudelaire. Sua modificação em lésbica não foi levada a
@@ -3020,18 +3035,18 @@ seguinte confissão curiosa de uma mulher partidária do sansimonismo:
 para o homem sua força física e a espécie de inteligência que lhe é
 própria, mas, ao seu lado, coloquei como de igual valor a beleza física
 da mulher
-e os dons espirituais que lhe são próprios”.69 Soa como eco dessa
+e os dons espirituais que lhe são próprios”.[^footnote69] Soa como eco dessa
 confissão uma observação crítica de Baudelaire que dificilmente geraria
 equívocos. Refere-se à primeira heroína de Flaubert: “Pelo que tem de
 mais enérgico e pelos seus objetivos de extrema ambição, mas também
 pelos seus sonhos mais profundos, Madame Bovary... permaneceu sendo um
 homem. Como a Palas Atena surgida da cabeça de Zeus, esse extraordinário
 ser andrógino conserva todo o poder sedutor da alma masculina num
-encantador corpo feminino”.70 E mais adiante sobre o próprio Flaubert:
+encantador corpo feminino”.[^footnote70] E mais adiante sobre o próprio Flaubert:
 “Todas as mulheres intelectuais lhe devem ser gratas por elevar a
 ‘fêmea’ a uma altura... onde ela participa da dupla natureza que
 constitui o ser humano perfeito: a aptidão para o cálculo e para o
-sonho”.71 De um só golpe, como sempre soube fazer, Baudelaire eleva a
+sonho”.[^footnote71] De um só golpe, como sempre soube fazer, Baudelaire eleva a
 esposa do pequeno-burguês de Flaubert à condição de heroína.
 
 Há na poesia de Baudelaire um número de fatos importantes, e mesmo
@@ -3045,12 +3060,12 @@ paixão:
 sutil, do Egeu orgulho eterno,
 
 O vosso credo, assim como os demais, é augusto, E o amor rirá tanto do
-Céu quanto do Inferno!”72
+Céu quanto do Inferno!”[^footnote72]
 
 Assim diz o primeiro poema; o segundo porém: “– Descei, descei, ó
 tristes vítimas sublimes,
 
-Descei por onde o fogo arde em clarões eternos!”73
+Descei por onde o fogo arde em clarões eternos!”[^footnote73]
 
 Essa surpreendente discrepância se esclarece assim: como Baudelaire não
 via a mulher lésbica como um problema nem social nem de predisposição
@@ -3059,9 +3074,9 @@ posicionamento em relação a ela. Reservara-lhe um espaço na imagem da
 modernidade; na
 realidade não a reconhecia. Por isso escreve despreocupadamente:
 “Conhecemos a autora filantrópica... a poetisa republicana, a poetisa
-do futuro, seja partidária de Fourier ou de Saint-Simon\* – e os nossos
+do futuro, seja partidária de Fourier ou de Saint-Simon[footnote*] – e os nossos
 olhos nunca puderam se acostumar a esses modos compassados e
-repugnantes..., essas imitações da alma masculina”.74 Seria desacertado
+repugnantes..., essas imitações da alma masculina”.[^footnote74] Seria desacertado
 supor que tenha alguma vez ocorrido a Baudelaire intervir publicamente
 com seus poemas a favor da mulher lésbica. As propostas que fez ao seu
 advogado para a defesa no processo contra *As Flores do Mal* são uma
@@ -3080,19 +3095,18 @@ inclusive da luta política como tal, podiam também favorecer traços
 masculinos, mas de uma forma mais nobre. Talvez se possa entender nesse
 sentido o movimento das Vesuvianas, que ofereceu à Revolução de
 Fevereiro uma corpo ração de mulheres. “Vesuvianas” – lê-se nos
-estatutos
-
--   “é como nos chamamos, significando isso que em cada mulher filiada a
-nós opera um vulcão revolucionário”.75 Nessa modificação da
+estatutos – “é como nos chamamos, significando isso que em cada mulher filiada a
+nós opera um vulcão revolucionário”.[^footnote75] Nessa modificação da
 natureza feminina se revelaram tendências que puderam ocupar a
 fantasia de Baudelaire. Não seria surpreendente que sua profunda
-idiossincrasia à gravidez também participasse disso.\*\* A
+idiossincrasia à gravidez também participasse disso.[footnote**] A
 masculização da mulher comprovava essa aversão. Baudelaire,
-portanto, aprovava o fenômeno. Ao mesmo tempo, porém, lhe importava desligá-lo da tutela da economia. Assim, conseguiu dar a
+portanto, aprovava o fenômeno. Ao mesmo tempo, porém, lhe importava 
+desligá-lo da tutela da economia. Assim, conseguiu dar a
 
-\* Talvez seja uma alusão a *Minha Lei do Porvir*, de Claire Demar.
+[footnote*]: Talvez seja uma alusão a *Minha Lei do Porvir*, de Claire Demar.
 
-\*\* Um fragmento de 1844 parece conclusivo. – Um conhecido desenho de
+[footnote**]: Um fragmento de 1844 parece conclusivo. – Um conhecido desenho de
 pena que Baudelaire fez da amante mostra uma maneira de andar que
 muito se assemelha à da gravidez. Isso nada prova contra a sua
 idiossincrasia.
@@ -3114,7 +3128,7 @@ no entanto, usufrui o toque especial que essa indústria trouxe a nossa
 vida diária... Creio que o especificamente baudelairiano consiste em
 unir sempre dois modos opostos de reação... poder-se-ia dizer: uma
 passada e uma presente. Uma obra-prima da vontade...; a última novidade
-no domínio da vida dos sentimentos”.76 Apresentar essa atitude como uma
+no domínio da vida dos sentimentos”.[^footnote76] Apresentar essa atitude como uma
 proeza da vontade estava na mente de Baudelaire. Mas seu reverso é uma
 falta de convicção, de discernimento, de perseverança. Uma mudança
 súbita, como de um choque, sujeitava Baudelaire em todas as suas
@@ -3128,7 +3142,7 @@ Barcos de humor vagabundo; É para atender
 
 Teu menor prazer
 
-Que eles vêm do fim do mundo”.77
+Que eles vêm do fim do mundo”.[^footnote77]
 
 Um ritmo acalentador caracteriza essa conhecida estrofe; seu movimento
 capta os navios atracados no canal. Ser acalentado
@@ -3138,7 +3152,7 @@ secreto e paradoxal de Baudelaire: ser levado, ser acolhido pela
 grandeza. “Esses belos e grandes navios que balouçam imperceptivelmente
 nas águas calmas, esses navios robustos que parecem tão nostálgicos e
 ociosos – será que não nos perguntam num linguajar mudo: ‘Quando
-partimos para a felicidade?’”.78 Nesses navios se unem a indolência e a
+partimos para a felicidade?’”.[^footnote78] Nesses navios se unem a indolência e a
 disposição para um extremo desdobramento de forças. Isso lhes confere
 uma significação secreta. Há uma constelação especial de
 circunstâncias onde, também no ser humano, se reúnem grandeza e
@@ -3154,14 +3168,14 @@ derradeira encarnação, o herói aparece como dândi. Quando nos deparamos
 com uma dessas figuras que, graças à sua energia e serenidade, são
 perfeitas em cada gesto, dizemos: “Aquele que lá vai talvez seja um
 rico, mas, com toda a certeza, nesse transeunte se esconde um Hércules
-para quem não há nenhum trabalho”.79 Age como se fosse levado pela
+para quem não há nenhum trabalho”.[^footnote79] Age como se fosse levado pela
 própria grandeza. Assim se compreende a crença de Baudelaire de que sua
 *flânerie*, em certas horas, se revestisse da mesma dignidade que a
 tensão de sua força poética.
 
 Para Baudelaire, o dândi se apresentava como descendente de grandes
 antepassados. O dandismo é para ele “o último brilho do heroico em
-tempos de decadência”.80 Agrada-lhe descobrir em Chateaubriand uma
+tempos de decadência”.[^footnote80] Agrada-lhe descobrir em Chateaubriand uma
 alusão a dândis índios – testemunho da antiga época de florescimento
 daquelas raças. Na verdade, é impossível desconhecer nos traços reunidos
 no dândi uma assinatura histórica bem definida. O dândi é uma criação
@@ -3178,7 +3192,7 @@ tique, por algum tempo considerado distinto, é, até certo modo, a
 representação desajeitada e subalterna do problema. Assim, a seguinte
 observação é muito significativa: “O rosto de um homem elegante deve
 sempre ter... alguma coisa de convulsivo e torcido. Pode-se, caso se
-queira, atribuir esses trejeitos a um satanismo natural”.81 Assim um
+queira, atribuir esses trejeitos a um satanismo natural”.[^footnote81] Assim um
 frequentador de bulevares parisienses imaginava a figura do dândi
 londrino, assim ela se refletia fisionomicamente em Baudelaire. Seu amor
 pelo dandismo não foi feliz. Não tinha o dom de agradar, um elemento
@@ -3207,13 +3221,13 @@ retesados,
 
 A discutir com meu espírito ermo e lasso
 
-Por vielas onde ecoavam carroções pesados”.82
+Por vielas onde ecoavam carroções pesados”.[^footnote82]
 
 Cenário, ator e herói estão reunidos nessas estrofes de maneira
 inequívoca. Os contemporâneos não precisavam dessa indicação. Ao
 pintá-lo, Coubert reclama que a cada dia Baudelaire tem uma aparência
 diferente. E Champfleury lhe atribui o dom de dissimular a expressão do
-rosto como um fugitivo das galés.83 Em seu maldoso necrológio,
+rosto como um fugitivo das galés.[^footnote83] Em seu maldoso necrológio,
 testemunha de perspicácia, Vallès chamou Baudelaire de cabotino.
 
 Por detrás das máscaras que usava o poeta em Baudelaire guardava o
@@ -3226,23 +3240,20 @@ exato, como aos conspiradores antes· da eclosão da revolta. Baudelaire
 conspira com a própria língua, calcula os seus efeitos passo a passo.
 Que sempre tenha evitado descobrir-se frente ao leitor atraiu os mais
 capazes. Gide observa um desacordo muito calculado entre imagem e
-objeto.84 Rivière acentuou como Baudelaire parte da palavra distante,
+objeto.[^footnote84] Rivière acentuou como Baudelaire parte da palavra distante,
 como a faz apresentar-se de leve enquanto a aproxima cautelosamente da
-coisa.85 Lemaitre fala de formas constituídas de modo a impedir a
-erupção da paixão,86 e Laforgue põe em relevo a metáfora baudelairiana
+coisa.[^footnote85] Lemaitre fala de formas constituídas de modo a impedir a
+erupção da paixão,[^footnote86] e Laforgue põe em relevo a metáfora baudelairiana
 que, por assim dizer, desmente a pessoa lírica e penetra no texto como
 desmancha-prazeres. “A noite se adensava igual a uma clausura”
-–“outros exemplos se acham em abundância”,87 acrescenta Laforgue.\*
+–“outros exemplos se acham em abundância”,[^footnote87] acrescenta Laforgue.[footnote*]
 
-\* Exemplos dessa abundância:
-
-“Furtamos ao acaso uma carícia esguia
-
-Para espremê-la qual laranja que se enruga”. (P. 101) “Teu colo
-vitorioso é como um belo armário”. (P. 231) “Como um soluço à tona da
-sanguínea espuma,
-
-A voz do galo ao longe espedaçava a bruma”. (P. 373)
+[footnote*]: Exemplos dessa abundância: “Furtamos ao acaso uma carícia esguia/ 
+Para espremê-la qual laranja que se enruga” (p. 101). “Teu colo
+vitorioso é como um belo armário” (p. 231). “Como um soluço à tona da
+sanguínea espuma,/ A voz do galo ao longe espedaçava a bruma” (p. 373). 
+“A cabeça, com sua hostil crina sombria/ E as joias raras que a matizam/ 
+Na mesa junto à cama, assim como um ranúnculo,/ Repousa” (p. 393). 
 
 A separação das palavras em umas que pareciam adequadas a um uso elevado
 e em outras a serem excluídas do mesmo influía em toda a produção
@@ -3257,13 +3268,14 @@ as da linguagem elevada. Sainte-Beuve procedera de modo semelhante. Em
 *Vida de Joseph Deelorme*, ele se explica: “Procurei ser original a
 meu modo, modestamente, aburguesadamente... Chamei as coisas da vida
 íntima pelo seu nome; mas a cabana esteve mais próxima de mim do que o
-*boudoir*”.88 Baudelaire ultrapassou tanto o jacobinismo linguístico de
+*boudoir*”.[^footnote88] Baudelaire ultrapassou tanto o jacobinismo linguístico de
 Victor Hugo quanto as liberdades bucólicas de Sainte-Beuve. Suas
 imagens são originais pela vileza dos objetos de comparação. Espreita o
 processo banal para aproximar o poético. Fala do “difuso terror dessas
-noites medonhas/Que o peito oprime como um papel que se amassa”.89
+noites medonhas/Que o peito oprime como um papel que se amassa”.[^footnote89]
 Esses ademanes linguísticos, típicos do artista em Baudelaire, só se
-tornam realmente significativos no alegórico. Conferem à sua alegoria o elemento desconcertante que a distingue das usuais. Lemercier
+tornam realmente significativos no alegórico. Conferem à sua alegoria 
+o elemento desconcertante que a distingue das usuais. Lemercier
 foi o último a povoar o parnaso do império com essas alegorias
 ordinárias; assim fora alcançado o ponto mais baixo da poesia
 neoclássica. Baudelaire não ligou para isso. Usa alegorias
@@ -3273,11 +3285,6 @@ primeiro livro a usar na lírica palavras não só de proveniência
 prosaica, mas também urbana. Com isso, não evita expressões que, livres
 da pátina poética, saltam aos olhos pelo brilho do seu cunho. Usa termos
 como *quinquet* (candeeiro), *wagon, omnibus* e
-
-“A cabeça, com sua hostil crina sombria E as joias raras que a
-matizam,
-
-Na mesa junto à cama, assim como um ranúnculo, Repousa”.(p. 393)
 não se atemoriza diante de *bilan* (balanço), réverbère (lampião),
 *voirie* (lixeira). Assim se substitui o vocabulário lírico no qual, de
 súbito e sem nenhuma preparação, aparece uma alegoria. Se o espírito
@@ -3298,7 +3305,7 @@ técnica é a do *putsch*.
 
 Poucos anos após a morte de Baudelaire, Blanqui coroou sua carreira de
 conspirador com uma peça de mestre, digna de ser lembrada. Foi depois
-do assassinato de Victor Noir.90 Blanqui queria ter uma visão de
+do assassinato de Victor Noir.[^footnote90] Blanqui queria ter uma visão de
 conjunto do efetivo de suas tropas. De vista conhecia em essência
 apenas os seus imediatos. Resta saber se todos entre os seus homens o
 conheceram. Entendeu-se com Granger, seu ajudantes de ordens, que tomou
@@ -3313,225 +3320,242 @@ sua inspeção sem que ninguém suspeitasse coisa alguma do estranho
 espetáculo. No meio da multidão a assistir como ele, o Velho, encostado
 a uma árvore, viu com atenção seus companheiros chegarem em colunas,
 se aproximarem mudos sob um
-murmúrio continuamente interrompido por aclamações”.91 A força que
+murmúrio continuamente interrompido por aclamações”.[^footnote91] A força que
 tomava possível algo como isso está conservada na palavra através da
 poesia de Baudelaire.
 
 Ocasionalmente, Baudelaire quis também reconhecer a imagem do herói
 moderno no conspirador. “Basta de tragédias!” – escreveu durante as
 jornadas de Fevereiro em Le Salut publico “Basta de história de Roma!
-Não seremos hoje maiores do que Brutus?”92 Ser maior que Brutus
+Não seremos hoje maiores do que Brutus?”[^footnote92] Ser maior que Brutus
 significava naturalmente ser ainda menor. Pois quando Napoleão III
 chegou ao poder, Baudelaire nele não reconheceu o César. Nisto Blanqui
 lhe foi superior. Porém, mais profundas que a diversidade entre ambos
 eram suas afinidades – a teimosia e a impaciência, a força de indignação
 e a do ódio, e também a impotência, quinhão de ambos. Num trecho famoso,
 Baudelaire, com o coração leve, se despede “deste mundo onde o sonho e a
-ação vivem a sós”.93 Seu sonho não estava tão só como lhe parecia, a
+ação vivem a sós”.[^footnote93] Seu sonho não estava tão só como lhe parecia, a
 ação de Blanqui foi irmã do sonho de Baudelaire. Ambos se entrelaçam:
 são as mãos entrelaçadas sobre uma pedra debaixo da qual Napoleão III
 enterrara as esperanças dos combatentes de Junho.
 
-#### (otas
+[^footnote1]: II, p. 26.
 
-1\. II, p. 26.
+[^footnote2]: II, p. 388.
 
-2\. II, p. 388.
+[^footnote3]: II, p. 531.
 
-3\. II, p. 531.
+[^footnote4]:  Cit. Albert Thibaudet, *Intérieurs*, Paris, 1924, p. 15.
 
-4.  Cit. Albert Thibaudet, *Intérieurs*, Paris, 1924, p. 15.
-
-5.  Cit. André Gide, *Baudelaire et M. Faguet*, in: *éouvelle revue
+[^footnote5]:  Cit. André Gide, *Baudelaire et M. Faguet*, in: *éouvelle revue
 française*, tomo 4, 1.0 de novembro de 1910, p. 513.
 
-6.  Rémy de Gourmont, *Promenades littéraires*, 2.ª série, Paris,
+[^footnote6]:  Rémy de Gourmont, *Promenades littéraires*, 2.ª série, Paris,
 1906, p. 86.
 
-7.  Charles Baudelaire, *Mon coeur mis à nu et fusées*. *Journaux
+[^footnote7]:  Charles Baudelaire, *Mon coeur mis à nu et fusées*. *Journaux
 intimes*, prefácio de Gustave Kahn, Paris, 1909, p. 5.
 
-8.  No texto em francês de Baudelaire se lê *essuyant* (enxugando) e não
-*essayant*
+[^footnote8]:  No texto em francês de Baudelaire se lê *essuyant* (enxugando) e não
+*essayant* (ensaiando), conforme a tradução de Benjamin. (N. do T.)
 
-(ensaiando), conforme a tradução de Benjamin. (N. do T.)
+[^footnote9]: II, p. 334.
 
-9\. II, p. 334.
+[^footnote10]: Cit. Ernst Raynaud, loc. cit., p. 318. 
 
-10\. Cit. Ernst Raynaud, loc. cit., p. 318. 11. P. 319.
+[^footnote11]: P. 319.
 
-12\. I, pp. 405·6.
+[^footnote12]: I, pp. 405·6.
 
-13. G. K. Chesterton, *Charles Dickens*, trad. Achille Laurent, Paris,
+[^footnote13]: G. K. Chesterton, *Charles Dickens*, trad. Achille Laurent, Paris,
 1927, p. 31.
 
-14. Maxime Du Camp, *Souvenirs littéraires*, Paris, 1906, p. 65.
+[^footnote14]: Maxime Du Camp, *Souvenirs littéraires*, Paris, 1906, p. 65.
 
-15. Programa de coalizão entre o partido operário socialdemocrata e a
+[^footnote15]: Programa de coalizão entre o partido operário socialdemocrata e a
 Associação geral dos trabalhadores alemães. Marx criticou suas
 tendências reformistas e nacionalistas. (N. do T.)
 
-16. Karl Marx, *Randglossen zum Programm der Deutschen Arbeiterpartei*,
+[^footnote16]: Karl Marx, *Randglossen zum Programm der Deutschen Arbeiterpartei*,
 Berlim, Leipzig, 1922, p. 22.
 
-17. Charles Baudelaire, *Dernières lettres inédites à sa mère*, Paris,
+[^footnote17]: Charles Baudelaire, *Dernières lettres inédites à sa mère*, Paris,
 1926, pp. 44-5.
 
-18. Karl Marx, *Der achtzehnte Brumaire des Louis Bonaparte*, loc. cit.,
+[^footnote18]: Karl Marx, *Der achtzehnte Brumaire des Louis Bonaparte*, loc. cit.,
 pp. 122-3.
 
-19. Marcel Proust, *A propos de Baudelaire*, in: *éouvelle revue
+[^footnote19]: Marcel Proust, *A propos de Baudelaire*, in: *éouvelle revue
 française*, tomo 16, 1.” de junho de 1921, p. 646.
 
-20\. pp. 339 e 341.
+[^footnote20]: pp. 339 e 341.
 
-21\. “Os parques, bem no centro da cidade de pedra e de suas classes
+[^footnote21]: “Os parques, bem no centro da cidade de pedra e de suas classes
 sociais, abrem um espaço onde o sonho do citadino é levado por uma
 nostalgia mitológica, talvez a nostalgia de uma sociedade sem classes”.
 (Cf. W. Benjamin, loc. cit., p. 264.) (N. do T.)
 
-22\. II, p. 408.
+[^footnote22]: II, p. 408.
 
-23\. Honoré de Balzac, *L’illustre Gaudissart*. *Oeuvres completes*.
-Paris, 1901, p. 5. 24. p. 377.
+[^footnote23]: Honoré de Balzac, *L’illustre Gaudissart*. *Oeuvres completes*.
+Paris, 1901, p. 5. 
 
-25\. II, p. 239.
+[^footnote24]: p. 377.
 
-26\. II, pp. 133-4.
+[^footnote25]: II, p. 239.
 
-27. Por muito tempo se acreditou que Rousseau tivesse cometido suicídio;
+[^footnote26]: II, pp. 133-4.
+
+[^footnote27]: Por muito tempo se acreditou que Rousseau tivesse cometido suicídio;
 hoje se admite que tenha morrido de morte natural. (N. do T.)
 
-28. Charles Benoist, *L’homme de 1848*. II. In: *Revue des deux mondes,*
+[^footnote28]: Charles Benoist, *L’homme de 1848*. II. In: *Revue des deux mondes,*
 84.° ano, 6.° período, tomo 19, 10 de fevereiro de 1914, p. 667.
 
-29. Alfred Rethel (1789-1869), desenhista e gravador alemão.
+[^footnote29]: Alfred Rethel (1789-1869), desenhista e gravador alemão.
 Provavelmente sob a influência da Revolução de 1848, deu início a
 uma série de gravuras intitulada *A Dança dos Mortos*. (N. do T.)
 
-30\. II, pp. 54-5.
+[^footnote30]: II, pp. 54-5.
 
-31\. Indivíduos que acompanhavam, com tocha ou archote, os enterros a pé.
-32. II, p. 134.
+[^footnote31]: Indivíduos que acompanhavam, com tocha ou archote, os enterros a pé.
 
-33\. II, p. 136.
+[^footnote32]: II, p. 134.
 
-34\. F. T. Vischer, *Kritische Gange*, Stuttgart, 1861, p. 117. 35. P.
-111.
+[^footnote33]: II, p. 136.
 
-36\. F. T. Vischer, loc. cit., p. 111. 37. II, pp. 134-5.
+[^footnote34]: F. T. Vischer, *Kritische Gange*, Stuttgart, 1861, p. 117. 
 
-38. Homem mau e perigoso, malfeitor, no linguajar parisiense.
+[^footnote35]: P. 111.
 
-39. Gabriel Bounoure, loc. cit., p. 40. 40. I, pp. 249-50.
+[^footnote36]: F. T. Vischer, loc. cit., p. 111. 
 
-41\. P. 475.
+[^footnote37]: II, pp. 134-5.
 
-42\. II, p. 336.
+[^footnote38]: Homem mau e perigoso, malfeitor, no linguajar parisiense.
 
-43\. Gustave Kahn, loc. cit., p. 15. 44. II, p. 580.
+[^footnote39]: Gabriel Bounoure, loc. cit., p. 40. 
 
-45\. II, p. 508.
+[^footnote40]: I, pp. 249-50.
 
-46\. II. p. 337.
+[^footnote41]: P. 475.
 
-47\. II, p. 363.
+[^footnote42]: II, p. 336.
 
-48\. II, p. 326.
+[^footnote43]: Gustave Kahn, loc. cit., p. 15. 
 
-49\. P. 327.
+[^footnote44]: II, p. 580.
 
-50. Emile Verhaeren, *Les Villes Tentaculaires*, Paris, 1904, p. 119.
+[^footnote45]: II, p. 508.
 
-51. Charles Péguy, *Oeuvres complètes*, obras em prosa, IV: *éotre
+[^footnote46]: II. p. 337.
+
+[^footnote47]: II, p. 363.
+
+[^footnote48]: II, p. 326.
+
+[^footnote49]: P. 327.
+
+[^footnote50]: Emile Verhaeren, *Les Villes Tentaculaires*, Paris, 1904, p. 119.
+
+[^footnote51]: Charles Péguy, *Oeuvres complètes*, obras em prosa, IV: *éotre
 jeunesse. Victor-Marie*, *comte Hugo*, Paris, 1916, pp. 388-9.
 
-52. Victor Hugo, Oeuvres complètes, loc. cit., romance, vol. 8: *Les
+[^footnote52]: Victor Hugo, Oeuvres complètes, loc. cit., romance, vol. 8: *Les
 Misérables*, Paris, 1881, pp. 55-6. .
 
-53. Friedrich Von Raumer, *Briefe aus Paris und Frankreich im Jahre
+[^footnote53]: Friedrich Von Raumer, *Briefe aus Paris und Frankreich im Jahre
 1830*, segunda parte, Leipzig, 1831, p. 127.
 
-54. Victor Hugo, *Oeuvres complètes*, loc. cit., poesia, vol. 3, Paris,
-1880, p. 234. 55. Id., ibid., p. 244.
+[^footnote54]: Victor Hugo, *Oeuvres complètes*, loc. cit., poesia, vol. 3, Paris,
+1880, p. 234. 
 
-<!-- -->
+[^footnote55]: Id., ibid., p. 244.
 
-56. Léon Daudet, *Paris vécu. Rive droite*, Paris, 1930, pp. 243-4.
+[^footnote56]: Léon Daudet, *Paris vécu. Rive droite*, Paris, 1930, pp. 243-4.
 
-57. Paul Bourget, *Discours académique du 13 juin 1895. Sucession à
+[^footnote57]: Paul Bourget, *Discours académique du 13 juin 1895. Sucession à
 Maxime Du Camp*, Paris, 1921, vol. 2, pp. 191-3.
 
-58. Maxime Du Camp, *Paris, ses organes, ses fonctions et sa vie dans la
+[^footnote58]: Maxime Du Camp, *Paris, ses organes, ses fonctions et sa vie dans la
 seconde moitié du XIX siècle*, Paris, 1886, vol. 6, p. 253.
 
-59. Joseph Joubert, *Pensées*, Paris, 1869, vol. 2, p. 267.
+[^footnote59]: Joseph Joubert, *Pensées*, Paris, 1869, vol. 2, p. 267.
 
-60. Cit. Gustave Geffroy, *Charles Meryon*, Paris, 1926, p. 59.
+[^footnote60]: Cit. Gustave Geffroy, *Charles Meryon*, Paris, 1926, p. 59.
 
-61. Id., ibid., p. 3. 62. lI, p. 293.
+[^footnote61]: Id., ibid., p. 3. 
 
-63\. Marcel Proust, loc. cit., p. 656. 64. P. 201.
+[^footnote62]: lI, p. 293.
 
-65\. J.-A. Barbed D’Aurevilly, *Du dandysme et de G. Brummel*, Paris,
-1887, p. 30. 66. lI, p. 162.
+[^footnote63]: Marcel Proust, loc. cit., p. 656. 
 
-67. Henry-René D’Allemagne, *Les Saint-Simoniens 1827-1837*, Paris,
+[^footnote64]: P. 201.
+
+[^footnote65]: J.-A. Barbed D’Aurevilly, *Du dandysme et de G. Brummel*, Paris,
+1887, p. 30. 
+
+[^footnote66]: lI, p. 162.
+
+[^footnote67]: Henry-René D’Allemagne, *Les Saint-Simoniens 1827-1837*, Paris,
 1930, p. 310.
 
-68. Claire Demar, *Ma loi d’avenir*, Paris, 1834, pp. 58-9.
+[^footnote68]: Claire Demar, *Ma loi d’avenir*, Paris, 1834, pp. 58-9.
 
-69. Cit. Maillard, *La légende de la femme emancipée*, Paris, s/d, p.
-65. 70. lI, p. 445.
+[^footnote69]: Cit. Maillard, *La légende de la femme emancipée*, Paris, s/d, p. 65. 
 
-71\. lI, p. 448.
+[^footnote70]: lI, p. 445.
 
-72\. P. 501.
+[^footnote71]: lI, p. 448.
 
-73\. P. 511.
+[^footnote72]: P. 501.
 
-74\. lI, p. 534.
+[^footnote73]: P. 511.
 
-75. *Paris sous la République de 1848. Exposition de la Bibliothèque et
+[^footnote74]: lI, p. 534.
+
+[^footnote75]: *Paris sous la République de 1848. Exposition de la Bibliothèque et
 des travaux historiques de la ville de Paris*, Paris, 1909, p. 28.
 
-76. Jules Lemaître, loc. cit., pp. 28-31. 77. I, p. 67.
+[^footnote76]: Jules Lemaître, loc. cit., pp. 28-31. 
 
-78\. lI, p. 630.
+[^footnote77]: I, p. 67.
 
-79\. lI, p. 352.
+[^footnote78]: lI, p. 630.
 
-80\. lI, p. 351.
+[^footnote79]: lI, p. 352.
 
-81\. *Les Petits-Paris. Par les auteurs des Mémoires de Bilboquet*,
+[^footnote80]: lI, p. 351.
+
+[^footnote81]: *Les Petits-Paris. Par les auteurs des Mémoires de Bilboquet*,
 Paris, 1854, vol. 10, p. 26.
 
-82\. P. 331.
+[^footnote82]: P. 331.
 
-83. Cf. Jules Husson, Champfleury, *Souvenirs et portraits de jeunesse*,
+[^footnote83]: Cf. Jules Husson, Champfleury, *Souvenirs et portraits de jeunesse*,
 Paris, 1872, p. 135.
 
-84. Cf. André Gide, loc. cit., p. 512.
+[^footnote84]: Cf. André Gide, loc. cit., p. 512.
 
-85. Cf. Jacques Rivière, *Etudes*, Paris, 1948, p. 15.
+[^footnote85]: Cf. Jacques Rivière, *Etudes*, Paris, 1948, p. 15.
 
-86. Cf. Jules Lemaêtre, loc. cit., p. 29.
+[^footnote86]: Cf. Jules Lemaêtre, loc. cit., p. 29.
 
-87. Jules Laforgue, *Mélanges posthumes*, Paris, 1903, p. 113.
+[^footnote87]: Jules Laforgue, *Mélanges posthumes*, Paris, 1903, p. 113.
 
-88. Charles-Augustin Sainte-Beuve. *Vie, poésies et pensées de Joseph
+[^footnote88]: Charles-Augustin Sainte-Beuve. *Vie, poésies et pensées de Joseph
 Delorme*, loc. cit., p. 170.
 
-89\. I, p. 57.
+[^footnote89]: I, p. 57.
 
-90. Jornalista morto num duelo com o príncipe Pierre Bonaparte. O seu
-enterro
+[^footnote90]: Jornalista morto num duelo com o príncipe Pierre Bonaparte. O seu
+enterro – 1870 – ocasionou importante manifestação republicana.
 
--   1870 –ocasionou importante manifestação republicana.
+[^footnote91]: Gustave Geffroy, L’enfermé, loc. cit., pp. 276-7.
 
-90. Gustave Geffroy, L’enfermé, loc. cit., pp. 276-7.
+[^footnote92]: Cito Eugène Crépet, loc. cit., p. 81. 
 
-91. Cito Eugène Crépet, loc. cit., p. 81. 93. I. p. 136
+[^footnote93]: I. p. 136
 
 # Sobre alguns temas em Baudelaire
 
