@@ -5161,7 +5161,6 @@ Jung de sua postura frente ao fascismo e, indiretamente, frente ao
 antissemitismo fascista, já que difundiu-se o boato de que Jung,
 ‘ariano’ outrora separado do ‘judeu’ Freud, teria certa simpatia
 pelo déspota do Terceiro Reich.
-
 “Porém, nazista ou antissemita, Jung nunca foi. Em fevereiro de 1933,
 portanto dias após a tomada do poder por Hitler, Jung proferiu
 conferências em que dá a conhecer, de modo inequívoco, como se
@@ -5180,29 +5179,30 @@ nacional-socialistas e seu cruel desmascaramento não carecem de mais
 comentários. Quem viveu e sofreu esse tempo, sabe o que significa’”.
 (Nota do Revisor Técnico)
 
-1.  Segundo Bergson, para medir o tempo, a ciência fabrica o verdadeiro
+[^footnote4]: Segundo Bergson, para medir o tempo, a ciência fabrica o verdadeiro
 dado temporal, a *durée*. Ao contrário do tempo da ciência, a
 *durée* não é quantitativa, mas apenas qualitativa. A mesma hora do
 relógio pode parecer interminável, se vazia ou se ocupada pelo tédio
 ou pela espera, e pode parecer um instante, se preenchida por uma
 vida psicológica intensa. (N. do R. T.)
 
-2.  Marcel Proust, *A la recherche du temps perdu*, tomo I: Du coté de
+[^footnote5]:  Marcel Proust, *A la recherche du temps perdu*, tomo I: Du coté de
 chez Swann, Paris, I, p. 69.
 
-6\. Id., ib., p. 69.
+[^footnote6]: Id., ib., p. 69.
 
-7.  Theodor Reik, *Der überraschte Psychologe*. Über Erraten und
+[^footnote7]: Theodor Reik, *Der überraschte Psychologe*. Über Erraten und
 Verstehen unbewusster Vorgänge, Leiden, 1935, p. 132.
 
-8.  Sigmund Freud, *Jenseits des Lustprinzips*, Viena, 1923, 3. ed., p.
-31. 9. Id., ib., p. 31s.
+[^footnote8]: Sigmund Freud, *Jenseits des Lustprinzips*, Viena, 1923, 3. ed., p. 31. 
 
-10\. Id., ib., p. 31.
+[^footnote9]: Id., ib., p. 31s.
 
-11\. Id., ib., p. 612, p. 30.
+[^footnote10]: Id., ib., p. 31.
 
-12. Este ensaio de Benjamin se baseia na oposição entre Erfahrung e
+[^footnote11]: Id., ib., p. 612, p. 30.
+
+[^footnote12]: Este ensaio de Benjamin se baseia na oposição entre Erfahrung e
 Erlebnis, aqui traduzidas respectivamente como “experiência” (real
 ou acumulada, sem intervenção da consciência) e “vivência”
 (experiência vivida, evento assistido pela consciência). Diz ainda
@@ -5214,228 +5214,237 @@ critérios que lhe permitem ir sedimentando as coisas com o tempo.
 forte, que precisa ser assimilada às pressas, que produz efeitos
 imediatos. (N. do R. T.)
 
-13. Freud, op. cit., p. 34s. 14. Id., ib., p. 41.
+[^footnote13]: Freud, op. cit., p. 34s. 
 
-15\. Id., ib., 612, p. 42.
+[^footnote14]: Id., ib., p. 41.
 
-16. Paul Valéry, Analecta, Paris, 1935, p. 264s.
+[^footnote15]: Id., ib., 612, p. 42.
 
-17. Freud, op. cit., p. 32.
+[^footnote16]: Paul Valéry, Analecta, Paris, 1935, p. 264s.
 
-18. Baudelaire, *As Flores do Mal*, com uma introdução de Paul Valéry,
+[^footnote17]: Freud, op. cit., p. 32.
+
+[^footnote18]: Baudelaire, *As Flores do Mal*, com uma introdução de Paul Valéry,
 Paris, Ed. Cres, 1928, p. X.
 
-19. Cit. Ernest Raynaud*, Charles Baudelaire*, Paris, 1922, p. 318.
+[^footnote19]: Cit. Ernest Raynaud*, Charles Baudelaire*, Paris, 1922, p. 318.
 
-20. Cf. Jules Valles, *Charles Baudelaire*, in André Billy, *Les
+[^footnote20]: Cf. Jules Valles, *Charles Baudelaire*, in André Billy, *Les
 écrivains de combat* (Le XIXe siècle), Paris, 1931, p. 192.
 
-21. Cf. Eugène Marsan, *Les cannes de M. Paul Bourget et le bon choix de
+[^footnote21]: Cf. Eugène Marsan, *Les cannes de M. Paul Bourget et le bon choix de
 Philinte*. Petit manuel de l’homme élégant, Paris, 1923, p. 239.
 
-22. Cf. Firmin Maillard, *La cité des intellectuels*, Paris, 1905, p.
+[^footnote22]: Cf. Firmin Maillard, *La cité des intellectuels*, Paris, 1905, p.
 362.
 
-23. No original francês lê-se: “enxugando a pena em sua camisa”, Teria
+[^footnote23]: No original francês lê-se: “enxugando a pena em sua camisa”, Teria
 Benjamin se enganado e lido *essayer* em lugar de *essuyer*? (N.
 do T.)
 
-24\. I, p. 334.
+[^footnote24]: I, p. 334.
 
-25\. P.319.
+[^footnote25]: p. 319.
 
-26. Cf. André Gide, *Baudelaire et M. Faguet*, in: Morceaux choisis,
+[^footnote26]: Cf. André Gide, *Baudelaire et M. Faguet*, in: Morceaux choisis,
 Paris, 1921, p. 128.
 
-27. Cf. Jacques Rivière, Etudes, Paris, 1948, 18.ª ed., p. 14. 28.
-P.131.
+[^footnote27]: Cf. Jacques Rivière, Etudes, Paris, 1948, 18.ª ed., p. 14. 
 
-29\. P.137.
+[^footnote28]: P. 131.
 
-30\. P.363.
+[^footnote29]: P. 137.
 
-31\. I, p. 405s.
+[^footnote30]: P. 363.
 
-32. Friedrich Engels, *Die Lage der arbeitenden Klass ein England*.
+[^footnote31]: I, p. 405s.
+
+[^footnote32]: Friedrich Engels, *Die Lage der arbeitenden Klass ein England*.
 *éach eigner Anschauung und authentischen Quellen*, Leipzig, 1848,
 2.ª ed., p.36s.
 
-33. Georg Wilhelm Friedrich Hegel, *Werke*. Vollstëndige Ausg, durch
+[^footnote33]: Georg Wilhelm Friedrich Hegel, *Werke*. Vollstëndige Ausg, durch
 einen Verein von Freunden des Verewigten. Tomo 19: Briefe von und
 an Hegel. Editado por Kari Hegel. Leipzig, 1887, 2.ª parte, p. 257.
 
-34. Paul Desjardins, *Poètes contemporains*. Charies Baudelaire, in:
+[^footnote34]: Paul Desjardins, *Poètes contemporains*. Charies Baudelaire, in:
 Revue bleue. Revue politique et littéraire (Paris), 3.ª série, tomo
 14, Ano XXIV, 2ª série, n.ª 1, 2 de julho de 1887, p. 23.
 
-35\. P. 345.
+[^footnote35]: P. 345.
 
-36. Albert Thibaudet, *Intérieurs*, Paris, 1924, p. 22.
+[^footnote36]: Albert Thibaudet, *Intérieurs*, Paris, 1924, p. 22.
 
-37. Proust, *A la recherche du temps perdu*, tomo 6: La prisonnière,
+[^footnote37]: Proust, *A la recherche du temps perdu*, tomo 6: La prisonnière,
 Paris, 1925, I, p. 138.
 
-38. Edgar Poe, *éouvelles histoires extraordinaires*, tradução de
+[^footnote38]: Edgar Poe, *éouvelles histoires extraordinaires*, tradução de
 Charles Baudelaire (Charles Baudelaire, *Oeuvres Complètes*, tomo
 6: Traducctions II), Ed. Calmann Lévy, Paris, 1887, p. 88.
 
-39\. Id., ib., p. 624, p. 94.
+[^footnote39]: Id., ib., p. 624, p. 94.
 
-40\. Id., ib., p. 90s.
+[^footnote40]: Id., ib., p. 90s.
 
-41\. Id., ib., p. 89.
+[^footnote41]: Id., ib., p. 89.
 
-42\. Poe, op. cit., p. 624, p. 90.
+[^footnote42]: Poe, op. cit., p. 624, p. 90.
 
-43\. Cf. II, p. 328-335.
+[^footnote43]: Cf. II, p. 328-335.
 
-44. Ernst Theodor Amadeus Hoffmann, *Ausgewählte Schriften*, tomo 14:
+[^footnote44]: Ernst Theodor Amadeus Hoffmann, *Ausgewählte Schriften*, tomo 14:
 Leben und Nachlass. Von Julius Eduard Hitzig, tomo 2, 3ª ed.,
 Stuttgart, 1839, p. 205.
 
-45. Estilo burguês da primeira metade do século XIX. (N. do T.) .
+[^footnote45]: Estilo burguês da primeira metade do século XIX. (N. do T.) .
 
-46. Heinrich Heine, *Gespräche, Briefe, Tagebücher, Berichte seiner
+[^footnote46]: Heinrich Heine, *Gespräche, Briefe, Tagebücher, Berichte seiner
 Zeitgenossen*. *Gesammelt und hrsg. von Hugo Bieber*, Berlim,
 1926, p. 163.
 
-47. Valéry, Cahier B 1910, Paris, p. 88s. 48. lI, p. 333.
+[^footnote47]: Valéry, Cahier B 1910, Paris, p. 88s. 
 
-49\. Karl Marx, *Das Kapital*. Kritik der politischen Ökonomie.
+[^footnote48]: lI, p. 333.
+
+[^footnote49]: Karl Marx, *Das Kapital*. Kritik der politischen Ökonomie.
 Ungeekürzte Ausgabe nach der 2. Aufl. von 1872, Ed. Kari Korsch., tomo
 1, Berlim, 1932, p. 404.
 
-50\. Id., ib., p. 402.
+[^footnote50]: Id., ib., p. 402.
 
-51\. Id., ib., p. 402.
+[^footnote51]: Id., ib., p. 402.
 
-52\. Id., ib., p. 459.
+[^footnote52]: Id., ib., p. 459.
 
-53\. Id., ib., p. 631, p. 336.
+[^footnote53]: Id., ib., p. 631, p. 336.
 
-54\. Emile Auguste Chartier Alain, *Les idées et les âges*, Paris, 1927,
+[^footnote54]: Emile Auguste Chartier Alain, *Les idées et les âges*, Paris, 1927,
 I, p. 183 (*Le jeu*).
 
-55\. Cf. p. 353 e lI, p. 630.
+[^footnote55]: Cf. p. 353 e lI, p. 630.
 
-56. Grifo do tradutor para construção inexistente em português (N. do
+[^footnote56]: Grifo do tradutor para construção inexistente em português (N. do
 T.).
 
-57. Ludwig Börne, *Gesammelte Schriften*. Neue vollständige Ausg. tomo
+[^footnote57]: Ludwig Börne, *Gesammelte Schriften*. Neue vollständige Ausg. tomo
 3, Hamburgo, Frankfurt-sobre-o-Meno, 1862, p. 38s.
 
-58\. lI, p. 135.
+[^footnote58]: lI, p. 135.
 
-59\. Joseph Joubert, *Pensées*, Paris, 1883, lI, p. 162. 60. P.313.
+[^footnote59]: Joseph Joubert, *Pensées*, Paris, 1883, lI, p. 162. 
 
-61\. Cf. I, pp. 455-459.
+[^footnote60]: P. 313.
 
-62\. P.353.
+[^footnote61]: Cf. I, pp. 455-459.
 
-63\. P.353.
+[^footnote62]: P. 353.
 
-64\. Proust, *A propos de Baudelaire*, in: Nouvelle revue française, tomo
+[^footnote63]: P. 353.
+
+[^footnote64]: Proust, *A propos de Baudelaire*, in: Nouvelle revue française, tomo
 16, 1.ª de junho de 1921, p. 652.
 
-65\. P.115.
+[^footnote65]: P. 115.
 
-66\. II, p. 536.
+[^footnote66]: II, p. 536.
 
-67\. P.135.
+[^footnote67]: P. 135.
 
-68\. P.470.
+[^footnote68]: P. 470.
 
-69\. Proust, *A la recherche du temps perdu*, tomo 8: Le temps retrouvé,
+[^footnote69]: Proust, *A la recherche du temps perdu*, tomo 8: Le temps retrouvé,
 Paris, II,
 p\. 82s.
 
-70\. P.301.
+[^footnote70]: P. 301.
 
-71. Jules-Amédéc Barbey D’Aurevilly, *Les oeuvres et les hommes* (XIXe
+[^footnote71]: Jules-Amédéc Barbey D’Aurevilly, *Les oeuvres et les hommes* (XIXe
 siecle), 3: parte: Les poètes, Paris, 1862, p. 381.
 
-72. Tímon: filósofo, também conhecido como o Misantropo; Arquíloco:
+[^footnote72]: Tímon: filósofo, também conhecido como o Misantropo; Arquíloco:
 poeta, famoso pela violência que usava nos poemas contra os
 inimigos. (N. do R. T.)
 
-73\. P.301.
+[^footnote73]: P. 301.
 
-74\. P.296.
+[^footnote74]: P. 296.
 
-75. Max Horkheimer, *Zu Bergsons Metaphysik der Zeit*, in: Zeitschrift
+[^footnote75]: Max Horkheimer, *Zu Bergsons Metaphysik der Zeit*, in: Zeitschrift
 für Sozialforschung 3 (1934), p. 332.
 
-76. Cf. Henri Bergson, *Matière et mémoire*. Essai sur la relation du
+[^footnote76]: Cf. Henri Bergson, *Matière et mémoire*. Essai sur la relation du
 corps à I’esprit, Paris, 1933, p. 166s.
 
-77\. P.301.
+[^footnote77]: P. 301.
 
-78\. II, p. 197.
+[^footnote78]: II, p. 197.
 
-79\. II, p. 224.
+[^footnote79]: II, p. 224.
 
-80\. II, p. 222s.
+[^footnote80]: II, p. 222s.
 
-81\. II, p. 224.
+[^footnote81]: II, p. 224.
 
-82. Valéry, *Avant-propos*, Encyclopédie française, tomo 16: Arts et
+[^footnote82]: Valéry, *Avant-propos*, Encyclopédie française, tomo 16: Arts et
 littératures dans la société contemporaine I, Paris, 1935, fase.
 16/04-5/6.
 
-83. Cf. Proust, *A la recherche du temps perdu*, tomo 8: Le temps
+[^footnote83]: Cf. Proust, *A la recherche du temps perdu*, tomo 8: Le temps
 retrouvé, id. ib., p. 641, I, p. 236.
 
-84. Friedrich von Hardenberg Novallis, *Schriften*. Kritische
+[^footnote84]: Friedrich von Hardenberg Novallis, *Schriften*. Kritische
 Neuaussgabe auf Grund des handschriftlichen Nachlasses von Ernst
 Heilbron, Berlim. 1901. 2.ª parte. 1ª metade, p. 293.
 
-85. Cf. Walter Benjamin, *L’oeuvre d’art à l’époque de sa reproduction
+[^footnote85]: Cf. Walter Benjamin, *L’oeuvre d’art à l’époque de sa reproduction
 mécanisée*, in: Zeitschrift für Sozialforschung 5 (1936), p. 43.
 
-86. Proust, *A la recherche du temps perdu*, tomo 8: Le temps retrouvé,
+[^footnote86]: Proust, *A la recherche du temps perdu*, tomo 8: Le temps retrouvé,
 id., ib., p. 641, II, p. 33.
 
-87. Valéry, *Analecta*, id. ib., p. 614, p. 1938. 88. P. 115. (N. do T.)
+[^footnote87]: Valéry, *Analecta*, id. ib., p. 614, p. 1938. 
 
-89\. P. 161.
+[^footnote88]: P. 115. (N. do T.)
 
-90\. P. 465.
+[^footnote89]: P. 161.
 
-91\. Cf. p. 115.
+[^footnote90]: P. 465.
 
-92\. P.163.
+[^footnote91]: Cf. p. 115.
 
-93\. II, p. 622.
+[^footnote92]: P.163.
 
-94\. II, p. 359.
+[^footnote93]: II, p. 622.
 
-95\. George Simmel, *Mélanges de philosophie rélativiste*. Contribution à
+[^footnote94]: II, p. 359.
+
+[^footnote95]: George Simmel, *Mélanges de philosophie rélativiste*. Contribution à
 la culture philosophique, tradução de A. Guillain, Paris, 1912, p.
 26s.
 
-96\. II, p. 273.
+[^footnote96]: II, p. 273.
 
-97\. P.313.
+[^footnote97]: P.313.
 
-98\. Cf. Jules Lemaitre, *Les contemporains*, Etudes et portraits
+[^footnote98]: Cf. Jules Lemaitre, *Les contemporains*, Etudes et portraits
 littéraires, 4ª série, 14ª ed., Paris, 1897, p. 31s.
 
-99\. II, p. 422.
+[^footnote99]: II, p. 422.
 
-100\. I, p. 483s.
+[^footnote100]: I, p. 483s.
 
-10 1. Cf. II, p. 634.
+[^footnote101]: Cf. II, p. 634.
 
-102\. II, p. 641.
+[^footnote102]: II, p. 641.
 
-103\. Friedrich Nietzsche. *Unzeitgemässe Betrachtungen*, 2ª ed.,
+[^footnote103]: Friedrich Nietzsche. *Unzeitgemässe Betrachtungen*, 2ª ed.,
 Leipzig, 1893. tomo 1. p. 164.
 
 # Parque Central
 
 ## (1)
 
-A hipótese de Laforgue1 sobre o comportamento de Baudelaire no bordel
+A hipótese de Laforgue[^footnote1] sobre o comportamento de Baudelaire no bordel
 ilumina toda a consideração psicanalítica que lhe dedica. Essa
 consideração rima ponto por ponto com a convencional
 “histórico-literário”.
@@ -5443,7 +5452,7 @@ consideração rima ponto por ponto com a convencional
 A singular beleza de tantos versos iniciais de poemas de Baudelaire é:
 o emergir do abismo.
 
-George traduziu *spleen et idéal*2 por “melancolia e sublimação”,
+George traduziu *spleen et idéal*[^footnote2] por “melancolia e sublimação”,
 acertando assim no significado essencial do ideal em Baudelaire.
 
 Se se pode dizer que, em Baudelaire, a vida moderna é o fundo das
@@ -5531,7 +5540,7 @@ Há duas lendas sobre Baudelaire. Uma, ele mesmo a difundiu, e nela ele
 aparece como inumano e como o terror da burguesia. A outra nasceu com
 sua morte e consolidou sua fama. Nela aparece
 como mártir. Esse falso nimbo teológico deve ser, em toda a linha,
-dissipado. Para esse nimbo, a fórmula de Adrienne Monnier.2
+dissipado. Para esse nimbo, a fórmula de Adrienne Monnier.[^footnote3]
 
 Pode-se dizer: a felicidade o arrepiava; da infelicidade, não se pode
 dizer nada de análogo. A infelicidade não pode penetrar em nós em estado
@@ -5569,7 +5578,7 @@ Tanto mais abrangente e agressiva foi a crítica à técnica que nele
 se ocultava. No fundo, visava a deter o desenvolvimento técnico. Seu
 recurso a temas técnicos resulta desse intento... O que era alegoria
 em Baudelaire se degradou em gênero, em
-Rollinat.4
+Rollinat.[^footnote4]
 
 O tema da *perte d’auréole* deve ser salientado como o contraste
 mais decisivo aos temas do *art noveau*.
@@ -5585,7 +5594,7 @@ consciência histórica.
 
 O *art nouveau* acalentava, no coração, a auréola. Nunca o Sol se
 deleitara tanto com sua coroa de raios; nunca o olho do ser humano
-fora mais brilhante do que em Fidus.5
+fora mais brilhante do que em Fidus.[^footnote5]
 
 ## (7)
 
@@ -5705,12 +5714,12 @@ continham precauções especiais para o cerceamento de seus concorrentes.
 
 A figura de Baudelaire penetra, num sentido decisivo, sua fama. Para a
 massa de leitores pequeno-burguesa, sua história foi uma imagem de
-Epinal,7 a ilustração da “carreira de um libertino”. Essa imagem muito
+Epinal,[^footnote7] a ilustração da “carreira de um libertino”. Essa imagem muito
 contribuiu para a fama de Baudelaire, mesmo se aqueles que a difundiram
 mal se pudessem contar entre seus amigos. A essa imagem se sobrepôs
 outra de influência menor, mas talvez mais durável ao longo do tempo, em
 que Baudelaire aparece como defensor de uma paixão estética semelhante
-à que, na mesma época, Kierkegaard concebeu em *Aut Aut*8 A rigor, não
+à que, na mesma época, Kierkegaard concebeu em *Aut Aut*[^footnote8] A rigor, não
 pode haver análise penetrante de Baudelaire que não se confronte com a
 imagem de sua vida. Em verdade, essa imagem é determinada por ter sido
 ele o primeiro a perceber, de modo mais consequente, que a burguesia
@@ -5805,7 +5814,7 @@ Os jogos de azar, o flanar, o colecionar – atividades que se contrapõem
 ao *spleen*.
 
 Baudelaire mostra como a burguesia em decadência já não pode integrar os
-elementos antissociais. Quando foi dissolvida a *garde nationale*?9
+elementos antissociais. Quando foi dissolvida a *garde nationale*?[^footnote9]
 
 Com os novos métodos de produção que levam a imitações, a aparência se
 precipita sobre as mercadorias.
@@ -5932,7 +5941,7 @@ físicos é ainda tão incompleto como em Baudelaire?
 A imigração como uma chave da cidade grande.
 
 Baudelaire nunca escreveu um poema sobre putas a partir de uma puta
-(cf. *Cartilha para o Citadino*).10
+(cf. *Cartilha para o Citadino*).[^footnote10]
 
 A solidão de Baudelaire e a solidão de Blanqui. A fisiognomonia de
 Baudelaire como a do ator.
@@ -5942,7 +5951,7 @@ Representar a miséria de Baudelaire diante do pano de fundos de sua
 
 A irascibilidade de Baudelaire faz parte de sua predisposição
 destrutiva. Chega-se mais perto da coisa quando, nesses acessos, se
-reconhece igualmente um “estranho secionamento do tempo”.11 O tema
+reconhece igualmente um “estranho secionamento do tempo”.[^footnote11] O tema
 básico do *art nouveau* é a transfiguração da esterilidade.
 
 O corpo é, de preferência, desenhado nas formas que precedem a
@@ -5989,7 +5998,7 @@ que fundamentam *As Flores do Mal*.
 
 Observações muito precisas de Adrienne Monnier: o especificamente
 francês nele: *la rogne* (a cólera). Vê nele o revoltado: compara-o a
-Fargue:12 “maníaco, revoltado contra a própria impotência, e sabe-se
+Fargue:[^footnote12] “maníaco, revoltado contra a própria impotência, e sabe-se
 lá o quê”. Ela cita também Céline. A *gadoiserie* (descaramento) é o
 que há de francês em Baudelaire.
 
@@ -6156,7 +6165,7 @@ Observação de Leyris: a palavra “familier” seria, em Baudelaire, toda
 segredo e inquietação; designaria algo que antes nunca designara.
 
 Um dos anagramas escondidos de Paris no *Spleen I* é a palavra
-*mortalité*.13
+*mortalité*.[^footnote13]
 
 A primeira linha de *À Ama Bondosa* – sobre as palavras “de quem tinha
 tanto ciúme” não cai o acento que se devia esperar. A partir de *ciúme*
@@ -6165,9 +6174,9 @@ característico de Baudelaire.
 
 Observação de Leyris: nos versos de Baudelaire, o ruído de Paris, em
 múltiplas passagens, não se revelaria nas palavras (carroções
-pesados14), mas sim ritmicamente.
+pesados[^footnote14]), mas sim ritmicamente.
 
-O lugar “onde até mesmo o horror se enfeita de esplendores”15
+O lugar “onde até mesmo o horror se enfeita de esplendores”[^footnote15]
 dificilmente poderia encontrar melhor exemplo que na descrição da
 multidão em Poe.
 
@@ -6252,7 +6261,7 @@ lembrança, da experiência morta, que, eufemisticamente, se intitula
 vivência.
 
 *As Flores do Mal* é o último livro de poesia a ter impacto sobre
-todos europeus. Talvez antes dele: *Ossian*,16 *o Livro de Cantos*?
+todos europeus. Talvez antes dele: *Ossian*,[^footnote16] *o Livro de Cantos*?
 
 Os emblemas retomam como mercadorias. A alegoria é a armadura da
 modernidade.
@@ -6394,7 +6403,7 @@ néopaïenne* deixam clara essa correlação. Dificilmente ele poderia ter
 escrito seu ensaio sobre Dupont, se à crítica radical deste sobre o
 conceito de arte não tivesse correspondido uma crítica própria e não
 menos radical. Baudelaire procurou, com sucesso, disfarçar essas
-tendências através do apelo a Gautier.17
+tendências através do apelo a Gautier.[^footnote17]
 
 ## (38)
 
@@ -6421,7 +6430,7 @@ introdução das vitrinas nas fachadas.
 
 ## (39)
 
-Em Baudelaire, a mistificação é um encanto apotropaico18 semelhante à
+Em Baudelaire, a mistificação é um encanto apotropaico[^footnote18] semelhante à
 mentira entre as prostitutas.
 
 Muitos de seus poemas têm seu trecho mais incomparável no começo, onde,
@@ -6485,7 +6494,7 @@ nova para o habitante da cidade grande.
 
 As *Flores do Mal* como arsenal; Baudelaire escreveu alguns de seus
 poemas a fim de destruir outros, escritos antes. Assim se pode
-desenvolver a conhecida reflexão de Valéry.19
+desenvolver a conhecida reflexão de Valéry.[^footnote19]
 
 É extraordinariamente importante – deve-se dizer em complemento à nota
 de Valéry – que Baudelaire se tenha deparado com a relação de
@@ -6562,9 +6571,7 @@ sedução pela rotina que, na poesia do século XVII, deixou tão
 múltiplos rastros. Essa rotina prejudicou em certo grau a tendência
 destrutiva da alegoria, sua ênfase no fragmentário na obra de arte.
 
-## (otas
-
-1.  Trata-se do livro do Dr. René Laforgue, *L’échec de Baudelaire.
+[^footnote1]:  Trata-se do livro do Dr. René Laforgue, *L’échec de Baudelaire.
 Etude psychanalytique sur la névrose de Charles Baudelaire*. (O
 Fracasso de Baudelaire. Estudo psicanalítico sobre a neurose de
 Charles Baudelaire). Paris, Denoël et Steele, 1931. Laforgue analisa
@@ -6575,56 +6582,56 @@ Walter Benjamin, Charles Baudelaire, *Un Poète Lyrique à l’Apogée du
 Capitalisme*, trad. e notas de Tean Lacoste, Paris, Petite Payot,
 1982, p. 273).
 
-2.  Título da primeira parte de *As Flores do Mal*.
+[^footnote2]:  Título da primeira parte de *As Flores do Mal*.
 
-3.  Famosa livreira cuja amizade foi muito importante para Benjamin.
+[^footnote3]:  Famosa livreira cuja amizade foi muito importante para Benjamin.
 Teve papel decisivo no resgate de Benjamin, prisioneiro de um campo
 em Nevers em 1938. (Cf. Walter Benjamin, loc. cit., p. 274).
 
-4.  Poeta francês (1846-1903). Sensível aos aspectos macabros e
+[^footnote4]:  Poeta francês (1846-1903). Sensível aos aspectos macabros e
 satânicos da obra de Baudelaire e de Poe, escreveu *Les éévroses*
 (As Neuroses), poemas cuja inspiração dominante é o mórbido.
 
-5.  Hugo Hoppener (1868-1948), desenhista e ilustrador alemão. Sua arte,
+[^footnote5]:  Hugo Hoppener (1868-1948), desenhista e ilustrador alemão. Sua arte,
 bastante diversificada, foi estilisticamente influenciada pelo
 *art nouveau*.
 
-6.  Trata-se do ensaio *Eduard Fuchs, der Sammler und der Historiker*
+[^footnote6]:  Trata-se do ensaio *Eduard Fuchs, der Sammler und der Historiker*
 (E. F., o Colecionador e o Historiador).
 
-7.  Museu internacional de estamparia internacional; fábrica de imagens.
+[^footnote7]:  Museu internacional de estamparia internacional; fábrica de imagens.
 
-8.  Título de uma das primeiras obras de Kierkegaard, título que exprime
+[^footnote8]:  Título de uma das primeiras obras de Kierkegaard, título que exprime
 a alternativa que se oferece à existência humana entre duas formas
 de vida: a vida estética e a vida moral. (Nicola Abbagnano, loc.
 cit., p. 90).
 
-9.  Milícia vigente entre 1789 e 1871, convocada em caso de necessidade.
+[^footnote9]:  Milícia vigente entre 1789 e 1871, convocada em caso de necessidade.
 
-10. Série de poemas de Bertold Brecht.
+[^footnote10]: Série de poemas de Bertold Brecht.
 
-11. Citação de Proust: “O mundo de Baudelaire é um estranho
+[^footnote11]: Citação de Proust: “O mundo de Baudelaire é um estranho
 seccionamento do tempo onde apenas raros dias notáveis aparecem”.
 (Cf. Walter Benjamin, loc. cit., p. 277).
 
-12. Poeta francês (1876-1947). Confiou ao poema em prosa, ou ao verso
+[^footnote12]: Poeta francês (1876-1947). Confiou ao poema em prosa, ou ao verso
 livre, o encargo de exprimir, com um lirismo contido, sua fantasia,
 sua fidelidade à lembrança, sua melancolia. Reivindicou para o
 poeta o direito à solidão.
 
-13\. P.291.
+[^footnote13]: P. 291.
 
-14\. P.331.
+[^footnote14]: P. 331.
 
-15\. P.335.
+[^footnote15]: P. 335.
 
-16. Cantos épicos escoceses.
+[^footnote16]: Cantos épicos escoceses.
 
-17. Baudelaire dedicou *As Flores do Mal* a Gautier.
+[^footnote17]: Baudelaire dedicou *As Flores do Mal* a Gautier.
 
-18. Relativo a amuleto (N. do R.T.)
+[^footnote18]: Relativo a amuleto (N. do R.T.)
 
-19. Cf. *Sobre Alguns Temas Baudelairianos* –III.
+[^footnote19]: Cf. *Sobre Alguns Temas Baudelairianos* –III.
 
 # O Flâneur
 
@@ -6649,12 +6656,12 @@ capítulo "Ecce Paris ecce homo")
 
 Mas as grandes reminiscências, o frêmito histórico – são urna esmola que
 ele (o *flâneur*) deixa Lara o viajante, que então crê poder acercar-se,
-com uma senha militar, do *genius loci*.1 Nosso amigo pode calar-se. Com
+com uma senha militar, do *genius loci*.[^footnote1] Nosso amigo pode calar-se. Com
 a proximidade de seus passos, o local já se anima; sem fala e sem
 espírito, sua simples e íntima aproximação já sugere e indica. Ele
 está parado diante da *Notre Dame de Lorette*, e suas solas recordam:
 eis o local onde, outrora, o cavalo suplementar – o *cheval de renfort*
-– era atrelado ao ônibus2 que subia a *rue des Martyrs* em direção de
+– era atrelado ao ônibus[^footnote2] que subia a *rue des Martyrs* em direção de
 Montmartre. Quantas vezes não sacrificaria todo seu saber sobre o
 domicílio de Balzac ou de Gavarni, sobre o local de um assalto, ou mesmo
 de urna barricada, pela capacidade de farejar urna soleira ou de
@@ -6662,7 +6669,7 @@ reconhecer pelo tato um calçamento, corno o faria qualquer cão
 doméstico.
 
 A rua conduz o flanador a um tempo desaparecido. Para ele, todas são
-íngremes. Conduzem para baixo, se não para as mães,3 para um passado que
+íngremes. Conduzem para baixo, se não para as mães,[^footnote3] para um passado que
 pode ser tanto mais enfeitiçante na medida em que não é o seu próprio, o
 particular. Contudo, este permanece
 sempre o tempo de urna infância. Mas por que o de sua vida vivida? No
@@ -6693,7 +6700,7 @@ para o *flâneur*. Melhor ainda, para ele, a cidade se cinde em seus
 polos dialéticos. Abrese para ele como paisagem e, como quarto,
 cinge-o.
 
-Aquela embriaguez anamnéstica4 em que vagueia o *flâneur* pela cidade
+Aquela embriaguez anamnéstica[^footnote4] em que vagueia o *flâneur* pela cidade
 não se nutre apenas daquilo que, sensorialmente, lhe atinge o olhar; com
 frequência também se apossa do simples saber, ou seja, de dados mortos,
 como de algo experimentado e vivido. Esse saber sentido se transmite
@@ -6757,7 +6764,7 @@ de 1926, pp. 36-7\. Estaria correto inscrever essa manifestação inteiramente n
 cristã ou, por aso, não estará aqui em ação a embriaguez de assemelhar,
 de sobrepor, de igualar, que, nas ruas dessa cidade, se sobrepõe ao
 tento social de se fazer valer? Teríamos de recorrer à experiência
-“Dante e Petrarca”5 no haxixe e precisaríamos medir o impacto da
+“Dante e Petrarca”[^footnote5] no haxixe e precisaríamos medir o impacto da
 experiência embriagante na proclamação dos Direitos humanos. Tudo isso
 muito além da cristandade.
 
@@ -6967,7 +6974,7 @@ indolência. Woldemar Seyffarth, *Wahrnehmungen in Paris 1853 u. 1854*
 O cardápio em “*Les trois frères provençaux*”: “36 pagmas para a
 cozinha, 4 páginas para a adega – mas páginas muito extensas, in-fólio
 pequeno, com texto conciso e muitas anotações miúdas”. O volume está
-encadernado em veludo. 20 entradas e 33 sopas. “46 pratos de carne de
+encadernado em veludo.[^footnote20] entradas e 33 sopas. “46 pratos de carne de
 vaca, entre os quais 7 de bifes diversos e 8 filés”. “34 pratos de caça,
 47 pratos de legumes e 71 taças de compotas”. Julius Rodenberg, *Paris
 bei Sonnenschein und Lampenlicht* (*Paris à Luz do Sol e dos
@@ -7063,7 +7070,7 @@ não é raro em Paris, movendo-se portanto mais lentamente, os senhores’
 costumam subir e descer mesmo sem que o carro pare”. Eduard Devrient,
 *Briefe aus Paris*, Berlim, 1840, pp. 61-2.
 
-“Após a exposição de 1867 começaram a aparecer os velocípedes,6 que,
+“Após a exposição de 1867 começaram a aparecer os velocípedes,[^footnote6] que,
 alguns anos mais tarde, deveriam obter sucesso tão grande quanto fugaz.
 Digamos para começar que, sob o Diretório, viu-se que os *incroyables*
 (janotas) se serviam de *vélocifères*, que eram velocípedes pesados e
@@ -7104,7 +7111,7 @@ tempo, acontecia diariamente ao entardecer... então não era fácil
 encontrar uma taverna, uma confeitaria, onde não tivesse aparecido
 para ver se lá havia gente, e de que espécie”.
 
-Ménilmontant.7 “Nesse imenso bairro cujos magros salários consagraram a
+Ménilmontant.[^footnote7] “Nesse imenso bairro cujos magros salários consagraram a
 eternas privações as crianças e as mulheres, a rue de la Chine e as que
 a ela se juntam e a cortam, tais como a rue des Partants e essa
 surpreendente rua Orfila, tão fantástica com seus circuitos e suas
@@ -7147,7 +7154,7 @@ canoagem... Na rica Veneza, onde o luxo cintila / Onde brilham na água
 os pórticos dourados / Onde estão os grandes palácios cujo mármore
 revela / Obras-primas da arte, tesouros adorados! / Só tenho a minha
 gôndola, viva como um pássaro / Que se balança e voa / Apenas tocando a
-água.8 H. Gourdon de Genouillac, *Les refrains de la rue de 1830 à
+água.[^footnote8] H. Gourdon de Genouillac, *Les refrains de la rue de 1830 à
 1870*, Paris, 1879, pp. 21-2.
 
 “– O que é mesmo essa boia horrível que cheira tão mal e que esquenta
@@ -7437,7 +7444,7 @@ paralisa e nesse momento se faria um registro dos pensamentos e
 objetivos de cada indivíduo (pp. 103-4).
 
 “O contraste entre cidade e campo... é a expressão mais crassa da
-subsunção9 do indivíduo na divisão do trabalho e numa atividade a ele
+subsunção[^footnote9] do indivíduo na divisão do trabalho e numa atividade a ele
 imposta, uma subsunção que transforma um num obtuso animal urbano, e,
 o outro, num obtuso animal rural”. \[Karl Marx e Friedrich Engels, *Die
 deutsche Ideologie* (*A Ideologia Alemã*), *Marx-Engels Archiv*, D.
@@ -8069,7 +8076,7 @@ Sobre o romance policial:
 Quem não assinou, quem não deixou retrato Quem não esteve presente,
 quem nada falou Como poderão apanhá-lo?
 
-Apague as pegadas.10
+Apague as pegadas.[^footnote10]
 
 Brecht: *Versuche* (Ensaios), 4-7 (Caderno 2), Berlim, 1930, p. 116,
 *Lesebuch fur Stadtebewohner* (Manual para Habitantes da Cidade), I.
@@ -8491,32 +8498,29 @@ Nelas já se antevê a entrada de grandes massas no cenário da história.
 Elas constroem a moldura excêntrica onde os últimos rentistas se exibiam
 com tanto prazer. (Cf. K 1a, 5)
 
-#### (otas da tradução
+[^footnote1]:  Gênio protetor de um lugar.
 
-1.  Gênio protetor de um lugar.
-
-2.  Refere-se ao veículo de transporte urbano, movido a tração animal,
+[^footnote2]:  Refere-se ao veículo de transporte urbano, movido a tração animal,
 introduzido em Paris a partir do século XVII.
 
-3.  No sentido de *origem das coisas*.
+[^footnote3]:  No sentido de *origem das coisas*.
 
-4.  Que desperta a memória.
+[^footnote4]:  Que desperta a memória.
 
-5.  Cf. *Haxixe em Marselha*, *Imagens do Pensamento*, do mesmo autor.
+[^footnote5]:  Cf. *Haxixe em Marselha*, *Imagens do Pensamento*, do mesmo autor.
 
-6.  Nome dado aos primeiros veículos de duas rodas que precederam a
+[^footnote6]: Nome dado aos primeiros veículos de duas rodas que precederam a
 bicicleta atual
 
-7.  Bairro do leste de Paris.
+[^footnote7]:  Bairro do leste de Paris.
 
-8.  Tradução de Paulo César Souza (*Brecht, Poemas*, São Paulo,
+[^footnote8]:  Tradução de Paulo César Souza (*Brecht, Poemas*, São Paulo,
 Brasiliense, 1986).
 
-9.  Inclusão numa categoria ou princípio.
+[^footnote9]:  Inclusão numa categoria ou princípio.
 
-10. Tradução de Paulo César Souza (*Brecht, Poemas*, São Paulo,
+[^footnote10]: Tradução de Paulo César Souza (*Brecht, Poemas*, São Paulo,
 Brasiliense, 1986).
-
 As canções e poemas em francês no texto original foram gentilmente
 traduzidos por Ângela C. M. Guerra.
 
@@ -8715,7 +8719,7 @@ na forma cínica praticada nas galerias parisienses, no final do século).
 O aspecto revolucionário desta decadência se insere, então,
 espontaneamente, na decadência das galerias.
 
-A fauna feminina das galerias: prostitutas, *grisettes*, velhas
+A fauna feminina das galerias: prostitutas, *grisettes*,[^footnote1] velhas
 vendedoras com aspecto de bruxas, bufarinheiras, vendedoras de luvas,
 *demoiselles* – este era o nome dado aos incendiários travestidos de
 mulheres, por volta de 1830.
@@ -8827,7 +8831,7 @@ prazeres lascivos e, assim, vedar àquela raça infame de homens o seu
 local de reunião”. F. J. L. Meyer*, Fragmentos de Paris no Ano IV da
 República Francesa*, Hamburgo, 1797, I, p. 24.
 
-Delvau sobre as *lorettes*2 de Montmartre: “Não são mulheres
+Delvau sobre as *lorettes*[^footnote2] de Montmartre: “Não são mulheres
 
 – são trevas”. Alfred Delvau, *Os Subterrâneos de Paris*, Paris, 1860,
 p. 142.
@@ -9128,7 +9132,7 @@ apartamento mobiliado!”. Dumanoir e Th. Barrière, *As Toaletes Ruidosas*, com
 
 *Alcunhas dos tambours* \[tambores\] da Escola Politécnica, por volta
 de 1830: *Gavotte, Vaudeville, Mélodrame, Zéphir*; por volta de 1860:
-*Brin d’amour, Cuisse de nymphe*.3 Pinet, *História da Escola
+*Brin d’amour, Cuisse de nymphe*.[^footnote3] Pinet, *História da Escola
 Politécnica*, Paris, 1887, p. 212.
 
 Segundo uma proposta de Bourlier, os jogos deveriam receber, novamente,
@@ -9428,7 +9432,7 @@ porque recebemos em espécie, enquanto elas recebem xales de
 caxemira? A Carta garante liberdade pessoal a cada um; se nossa
 advertência junto ao Sr. Chefe de Polícia não se mostrar de
 utilidade, solicitaremos... às Câmaras. Melhor seria, aliás, o reino
-de Golconda,4 onde as moças de nossa espécie formavam uma das 44
+de Golconda,[^footnote4] onde as moças de nossa espécie formavam uma das 44
 divisões do povo e tinham por única obrigação dançar para o rei,
 serviço que nós, se nos for solicitado, estamos dispostas a prestar
 ao Sr. Chefe de Polícia”. Friederich von Raumer, *Cartas de Paris e da
@@ -9728,28 +9732,23 @@ A forma ideal da vivência traumática é a catástrofe. No jogo isto se
 torna bem nítido: através de apostas cada vez maiores, que deverão
 salvar o perdido, o jogador se dirige à ruína absoluta.
 
-#### (otas da tradução
+[^footnote1]:  *Grisette*: moça de baixa condição, trabalhando em ateliês de
+costura, de vida fácil (N.T.).
 
-1.  *Grisette*: moça de baixa condição, trabalhando em ateliês de
-costura, de vida fácil.
+[^footnote2]: *Lorette*: jovem elegante e fácil (N.T.).
 
-2.  *Lorette*: jovem elegante e fácil.
-
-3.  *Gavotte*: dança de compasso binário.
-
+[^footnote3]:  *Gavotte*: dança de compasso binário.
 *Vaudeville*: canção popular com tema satírico; peça de teatro,
 canções e danças; comédia ligeira.
-
 *Mélodrame*: obra dramática acompanhada de música. *Zéphir*: zéfiro
 (vento suave e fresco; aragem; brisa). *Brin d’Amour*: tico de amor.
+*Cuisse de nymphe*: coxa de ninfa (N.T.).
 
-*Cuisse de nymphe*: coxa de ninfa.
-
-1.  *Golconda*: antiga cidade da índia, hoje em ruínas, no estado de
+[^footnote4]:  *Golconda*: antiga cidade da índia, hoje em ruínas, no estado de
 Andhra Pradesh, 8 km a oeste de Haidarabad, fundada em 1518 por
 Quli Qutb Shab e tomada por Aurangzeb em 1688, famosa por seus
 diamantes e sua escola de pintura. O Reino de Golconda teve no
-Ocidente uma reputação de riqueza legendária, a partir do século XVII.
+Ocidente uma reputação de riqueza legendária, a partir do século XVII (N.T.).
 
 # Sobre o autor
 
